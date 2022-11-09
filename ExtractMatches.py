@@ -1,7 +1,6 @@
 from statsbombpy import sb
 import pandas as pd
-from pandas import json_normalize
-import numpy as np
+import os
 
 # Get competitions
 comp = sb.competitions()
@@ -31,6 +30,10 @@ for index, row in df.iterrows():
    
     #Get only pass events
     match_events = match_events[match_events[ "type"] == 'Pass']
+
+    if not os.path.exists('./matches'):
+        os.mkdir('./matches')
+
     home_team = row["home_team"]  
     away_team = row["away_team"]
     match_events.to_excel(f'./matches/{home_team}_{away_team}_events.xlsx', index=False)
