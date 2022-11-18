@@ -29,8 +29,7 @@ for index, row in df.iterrows():
     match_events.drop(["location", "pass_end_location"], axis=1)
    
     #Get only pass events
-    match_events = match_events[match_events[ "type"] == 'Pass']
-
+    match_events = match_events[(match_events["type"] == "Starting XI") | (match_events["type"]=="Pass")]
     if not os.path.exists('./matches'):
         os.mkdir('./matches')
 
