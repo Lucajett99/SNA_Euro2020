@@ -37,7 +37,6 @@ side_dict = {"home": match_events.iloc[0]["team"],
 tactics_home_string = match_events["tactics"].iloc[0].replace("'",'"')
 tactics_home = json.loads(tactics_home_string)
 lineup_home = tactics_home["lineup"]
-print(lineup_home)
 player_objs_dict = {}
 starters = []
 
@@ -50,7 +49,8 @@ total_pass_df = match_events.query("(type == 'Pass') & (pass_type not in ['Free 
 total_pass_df = total_pass_df.groupby(["player", "pass_recipient"]).size().reset_index(name="count")
 total_pass_df = total_pass_df.query(" (player == @starters) & (pass_recipient == @starters) & (count>=@min_pass_count) ")
 
-print(total_pass_df)
+#print(total_pass_df)
+#print(player_objs_dict["Youri Tielemans"])
 #print(lineups_away)
 arrow_shift = 1 ##Units by which the arrow moves from its original position
 shrink_val = 1.5 ##Units by which the arrow is shortened from the end_points
@@ -58,6 +58,7 @@ shrink_val = 1.5 ##Units by which the arrow is shortened from the end_points
 ##Visualising the passmap
 
 for row in total_pass_df.itertuples():
+    print(row)
     link = row[3] ## for the arrow-width and the alpha
     passer = player_objs_dict[row[1]]
     receiver = player_objs_dict[row[2]]
