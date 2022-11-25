@@ -37,6 +37,7 @@ side_dict = {"home": match_events.iloc[0]["team"],
 tactics_home_string = match_events["tactics"].iloc[0].replace("'",'"')
 tactics_home = json.loads(tactics_home_string)
 lineup_home = tactics_home["lineup"]
+print(lineup_home[0])
 player_objs_dict = {}
 starters = []
 
