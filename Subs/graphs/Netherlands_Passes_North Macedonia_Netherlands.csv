@@ -1,0 +1,132 @@
+passer,recipient,n_passes_completed
+Cody Mathès Gakpo,Patrick van Aanholt,1
+Cody Mathès Gakpo,Quincy Anton Promes,1
+Cody Mathès Gakpo,Steven Berghuis,1
+Cody Mathès Gakpo,Wout Weghorst,1
+Daley Blind,Cody Mathès Gakpo,1
+Daley Blind,Donyell Malen,4
+Daley Blind,Frenkie de Jong,19
+Daley Blind,Georginio Wijnaldum,1
+Daley Blind,Jurriën David Norman Timber,1
+Daley Blind,Maarten Stekelenburg,4
+Daley Blind,Matthijs de Ligt,17
+Daley Blind,Memphis Depay,11
+Daley Blind,Patrick van Aanholt,11
+Daley Blind,Quincy Anton Promes,4
+Daley Blind,Ryan Gravenberch,21
+Daley Blind,Stefan de Vrij,1
+Daley Blind,Steven Berghuis,1
+Denzel Dumfries,Donyell Malen,1
+Denzel Dumfries,Frenkie de Jong,2
+Denzel Dumfries,Matthijs de Ligt,1
+Denzel Dumfries,Ryan Gravenberch,2
+Denzel Dumfries,Stefan de Vrij,6
+Donyell Malen,Daley Blind,2
+Donyell Malen,Denzel Dumfries,2
+Donyell Malen,Frenkie de Jong,3
+Donyell Malen,Georginio Wijnaldum,2
+Donyell Malen,Memphis Depay,5
+Donyell Malen,Patrick van Aanholt,1
+Donyell Malen,Ryan Gravenberch,7
+Donyell Malen,Stefan de Vrij,2
+Frenkie de Jong,Daley Blind,10
+Frenkie de Jong,Denzel Dumfries,1
+Frenkie de Jong,Donyell Malen,7
+Frenkie de Jong,Georginio Wijnaldum,4
+Frenkie de Jong,Jurriën David Norman Timber,2
+Frenkie de Jong,Matthijs de Ligt,3
+Frenkie de Jong,Memphis Depay,3
+Frenkie de Jong,Patrick van Aanholt,6
+Frenkie de Jong,Ryan Gravenberch,8
+Frenkie de Jong,Stefan de Vrij,3
+Frenkie de Jong,Steven Berghuis,1
+Frenkie de Jong,Wout Weghorst,2
+Georginio Wijnaldum,Denzel Dumfries,1
+Georginio Wijnaldum,Donyell Malen,1
+Georginio Wijnaldum,Frenkie de Jong,2
+Georginio Wijnaldum,Maarten Stekelenburg,1
+Georginio Wijnaldum,Matthijs de Ligt,5
+Georginio Wijnaldum,Memphis Depay,5
+Georginio Wijnaldum,Patrick van Aanholt,1
+Georginio Wijnaldum,Quincy Anton Promes,2
+Georginio Wijnaldum,Ryan Gravenberch,4
+Georginio Wijnaldum,Wout Weghorst,1
+Jurriën David Norman Timber,Frenkie de Jong,3
+Jurriën David Norman Timber,Maarten Stekelenburg,2
+Jurriën David Norman Timber,Matthijs de Ligt,5
+Jurriën David Norman Timber,Ryan Gravenberch,2
+Jurriën David Norman Timber,Steven Berghuis,6
+Jurriën David Norman Timber,Wout Weghorst,1
+Maarten Stekelenburg,Daley Blind,12
+Maarten Stekelenburg,Denzel Dumfries,2
+Maarten Stekelenburg,Donyell Malen,1
+Maarten Stekelenburg,Frenkie de Jong,1
+Maarten Stekelenburg,Matthijs de Ligt,8
+Maarten Stekelenburg,Ryan Gravenberch,1
+Matthijs de Ligt,Cody Mathès Gakpo,1
+Matthijs de Ligt,Daley Blind,29
+Matthijs de Ligt,Frenkie de Jong,3
+Matthijs de Ligt,Georginio Wijnaldum,2
+Matthijs de Ligt,Jurriën David Norman Timber,4
+Matthijs de Ligt,Maarten Stekelenburg,3
+Matthijs de Ligt,Patrick van Aanholt,3
+Matthijs de Ligt,Quincy Anton Promes,1
+Matthijs de Ligt,Ryan Gravenberch,6
+Matthijs de Ligt,Stefan de Vrij,3
+Matthijs de Ligt,Steven Berghuis,7
+Memphis Depay,Denzel Dumfries,2
+Memphis Depay,Donyell Malen,1
+Memphis Depay,Frenkie de Jong,2
+Memphis Depay,Georginio Wijnaldum,5
+Memphis Depay,Matthijs de Ligt,1
+Memphis Depay,Patrick van Aanholt,3
+Memphis Depay,Ryan Gravenberch,7
+Patrick van Aanholt,Cody Mathès Gakpo,1
+Patrick van Aanholt,Daley Blind,16
+Patrick van Aanholt,Donyell Malen,4
+Patrick van Aanholt,Georginio Wijnaldum,2
+Patrick van Aanholt,Maarten Stekelenburg,1
+Patrick van Aanholt,Matthijs de Ligt,1
+Patrick van Aanholt,Memphis Depay,2
+Patrick van Aanholt,Quincy Anton Promes,7
+Patrick van Aanholt,Ryan Gravenberch,14
+Quincy Anton Promes,Daley Blind,1
+Quincy Anton Promes,Georginio Wijnaldum,4
+Quincy Anton Promes,Jurriën David Norman Timber,1
+Quincy Anton Promes,Patrick van Aanholt,6
+Quincy Anton Promes,Ryan Gravenberch,7
+Quincy Anton Promes,Steven Berghuis,2
+Ryan Gravenberch,Cody Mathès Gakpo,1
+Ryan Gravenberch,Daley Blind,14
+Ryan Gravenberch,Denzel Dumfries,2
+Ryan Gravenberch,Donyell Malen,9
+Ryan Gravenberch,Frenkie de Jong,5
+Ryan Gravenberch,Georginio Wijnaldum,4
+Ryan Gravenberch,Jurriën David Norman Timber,2
+Ryan Gravenberch,Maarten Stekelenburg,1
+Ryan Gravenberch,Matthijs de Ligt,12
+Ryan Gravenberch,Memphis Depay,6
+Ryan Gravenberch,Patrick van Aanholt,11
+Ryan Gravenberch,Quincy Anton Promes,6
+Ryan Gravenberch,Stefan de Vrij,2
+Ryan Gravenberch,Steven Berghuis,2
+Ryan Gravenberch,Wout Weghorst,2
+Stefan de Vrij,Daley Blind,5
+Stefan de Vrij,Denzel Dumfries,4
+Stefan de Vrij,Frenkie de Jong,3
+Stefan de Vrij,Georginio Wijnaldum,1
+Stefan de Vrij,Matthijs de Ligt,5
+Stefan de Vrij,Patrick van Aanholt,2
+Stefan de Vrij,Ryan Gravenberch,2
+Steven Berghuis,Cody Mathès Gakpo,2
+Steven Berghuis,Daley Blind,1
+Steven Berghuis,Frenkie de Jong,2
+Steven Berghuis,Georginio Wijnaldum,2
+Steven Berghuis,Jurriën David Norman Timber,4
+Steven Berghuis,Matthijs de Ligt,2
+Steven Berghuis,Memphis Depay,1
+Steven Berghuis,Quincy Anton Promes,1
+Steven Berghuis,Ryan Gravenberch,1
+Wout Weghorst,Frenkie de Jong,1
+Wout Weghorst,Jurriën David Norman Timber,2
+Wout Weghorst,Quincy Anton Promes,2

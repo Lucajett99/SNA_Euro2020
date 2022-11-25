@@ -1,0 +1,116 @@
+passer,recipient,n_passes_completed
+Admir Mehmedi,Loris Benito,2
+Admir Mehmedi,Remo Freuler,1
+Admir Mehmedi,Ricardo Iván Rodríguez Araya,2
+Admir Mehmedi,Ruben Vargas,1
+Breel-Donald Embolo,Granit Xhaka,4
+Breel-Donald Embolo,Haris Seferović,4
+Breel-Donald Embolo,Manuel Obafemi Akanji,3
+Breel-Donald Embolo,Nico Elvedi,2
+Breel-Donald Embolo,Remo Freuler,6
+Breel-Donald Embolo,Ricardo Iván Rodríguez Araya,1
+Breel-Donald Embolo,Silvan Widmer,2
+Breel-Donald Embolo,Steven Zuber,3
+Breel-Donald Embolo,Xherdan Shaqiri,5
+Granit Xhaka,Admir Mehmedi,1
+Granit Xhaka,Breel-Donald Embolo,5
+Granit Xhaka,Haris Seferović,5
+Granit Xhaka,Manuel Obafemi Akanji,5
+Granit Xhaka,Nico Elvedi,3
+Granit Xhaka,Remo Freuler,10
+Granit Xhaka,Ricardo Iván Rodríguez Araya,15
+Granit Xhaka,Silvan Widmer,2
+Granit Xhaka,Steven Zuber,13
+Granit Xhaka,Xherdan Shaqiri,3
+Haris Seferović,Breel-Donald Embolo,3
+Haris Seferović,Granit Xhaka,2
+Haris Seferović,Nico Elvedi,1
+Haris Seferović,Remo Freuler,2
+Haris Seferović,Silvan Widmer,2
+Haris Seferović,Steven Zuber,5
+Haris Seferović,Xherdan Shaqiri,3
+Loris Benito,Admir Mehmedi,2
+Loris Benito,Ruben Vargas,1
+Manuel Obafemi Akanji,Breel-Donald Embolo,3
+Manuel Obafemi Akanji,Granit Xhaka,7
+Manuel Obafemi Akanji,Loris Benito,1
+Manuel Obafemi Akanji,Nico Elvedi,5
+Manuel Obafemi Akanji,Remo Freuler,7
+Manuel Obafemi Akanji,Ricardo Iván Rodríguez Araya,4
+Manuel Obafemi Akanji,Silvan Widmer,4
+Manuel Obafemi Akanji,Steven Zuber,5
+Manuel Obafemi Akanji,Xherdan Shaqiri,1
+Manuel Obafemi Akanji,Yann Sommer,3
+Mario Gavranović,Ruben Vargas,1
+Mario Gavranović,Silvan Widmer,1
+Nico Elvedi,Admir Mehmedi,1
+Nico Elvedi,Breel-Donald Embolo,4
+Nico Elvedi,Granit Xhaka,6
+Nico Elvedi,Manuel Obafemi Akanji,5
+Nico Elvedi,Mario Gavranović,1
+Nico Elvedi,Remo Freuler,7
+Nico Elvedi,Ruben Vargas,1
+Nico Elvedi,Silvan Widmer,9
+Nico Elvedi,Xherdan Shaqiri,3
+Nico Elvedi,Yann Sommer,3
+Remo Freuler,Breel-Donald Embolo,10
+Remo Freuler,Granit Xhaka,8
+Remo Freuler,Haris Seferović,1
+Remo Freuler,Manuel Obafemi Akanji,3
+Remo Freuler,Nico Elvedi,9
+Remo Freuler,Ricardo Iván Rodríguez Araya,6
+Remo Freuler,Ruben Vargas,1
+Remo Freuler,Silvan Widmer,9
+Remo Freuler,Steven Zuber,3
+Remo Freuler,Xherdan Shaqiri,7
+Remo Freuler,Yann Sommer,1
+Ricardo Iván Rodríguez Araya,Admir Mehmedi,1
+Ricardo Iván Rodríguez Araya,Breel-Donald Embolo,5
+Ricardo Iván Rodríguez Araya,Granit Xhaka,6
+Ricardo Iván Rodríguez Araya,Haris Seferović,6
+Ricardo Iván Rodríguez Araya,Loris Benito,1
+Ricardo Iván Rodríguez Araya,Manuel Obafemi Akanji,4
+Ricardo Iván Rodríguez Araya,Nico Elvedi,1
+Ricardo Iván Rodríguez Araya,Remo Freuler,5
+Ricardo Iván Rodríguez Araya,Silvan Widmer,3
+Ricardo Iván Rodríguez Araya,Steven Zuber,18
+Ricardo Iván Rodríguez Araya,Xherdan Shaqiri,1
+Ruben Vargas,Admir Mehmedi,1
+Ruben Vargas,Granit Xhaka,3
+Ruben Vargas,Mario Gavranović,1
+Ruben Vargas,Nico Elvedi,3
+Ruben Vargas,Silvan Widmer,2
+Silvan Widmer,Admir Mehmedi,1
+Silvan Widmer,Breel-Donald Embolo,5
+Silvan Widmer,Granit Xhaka,1
+Silvan Widmer,Haris Seferović,4
+Silvan Widmer,Mario Gavranović,2
+Silvan Widmer,Nico Elvedi,8
+Silvan Widmer,Remo Freuler,5
+Silvan Widmer,Ruben Vargas,4
+Silvan Widmer,Xherdan Shaqiri,6
+Silvan Widmer,Yann Sommer,1
+Steven Zuber,Breel-Donald Embolo,3
+Steven Zuber,Granit Xhaka,7
+Steven Zuber,Haris Seferović,2
+Steven Zuber,Manuel Obafemi Akanji,2
+Steven Zuber,Nico Elvedi,1
+Steven Zuber,Remo Freuler,5
+Steven Zuber,Ricardo Iván Rodríguez Araya,10
+Steven Zuber,Xherdan Shaqiri,8
+Xherdan Shaqiri,Breel-Donald Embolo,3
+Xherdan Shaqiri,Granit Xhaka,5
+Xherdan Shaqiri,Haris Seferović,2
+Xherdan Shaqiri,Manuel Obafemi Akanji,3
+Xherdan Shaqiri,Remo Freuler,3
+Xherdan Shaqiri,Ricardo Iván Rodríguez Araya,1
+Xherdan Shaqiri,Silvan Widmer,2
+Xherdan Shaqiri,Steven Zuber,6
+Yann Sommer,Breel-Donald Embolo,1
+Yann Sommer,Granit Xhaka,4
+Yann Sommer,Loris Benito,1
+Yann Sommer,Manuel Obafemi Akanji,7
+Yann Sommer,Nico Elvedi,2
+Yann Sommer,Ricardo Iván Rodríguez Araya,4
+Yann Sommer,Silvan Widmer,1
+Yann Sommer,Steven Zuber,1

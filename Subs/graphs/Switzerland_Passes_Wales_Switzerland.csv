@@ -1,0 +1,107 @@
+passer,recipient,n_passes_completed
+Breel-Donald Embolo,Denis Lemi Zakaria Lako Lado,2
+Breel-Donald Embolo,Fabian Lukas Schär,2
+Breel-Donald Embolo,Granit Xhaka,5
+Breel-Donald Embolo,Haris Seferović,3
+Breel-Donald Embolo,Kevin Mbabu,3
+Breel-Donald Embolo,Remo Freuler,2
+Breel-Donald Embolo,Ricardo Iván Rodríguez Araya,1
+Breel-Donald Embolo,Xherdan Shaqiri,1
+Denis Lemi Zakaria Lako Lado,Fabian Lukas Schär,1
+Denis Lemi Zakaria Lako Lado,Granit Xhaka,3
+Denis Lemi Zakaria Lako Lado,Haris Seferović,1
+Denis Lemi Zakaria Lako Lado,Kevin Mbabu,1
+Denis Lemi Zakaria Lako Lado,Nico Elvedi,1
+Fabian Lukas Schär,Breel-Donald Embolo,3
+Fabian Lukas Schär,Denis Lemi Zakaria Lako Lado,1
+Fabian Lukas Schär,Granit Xhaka,8
+Fabian Lukas Schär,Kevin Mbabu,1
+Fabian Lukas Schär,Manuel Obafemi Akanji,25
+Fabian Lukas Schär,Nico Elvedi,15
+Fabian Lukas Schär,Remo Freuler,8
+Fabian Lukas Schär,Ricardo Iván Rodríguez Araya,2
+Fabian Lukas Schär,Xherdan Shaqiri,3
+Fabian Lukas Schär,Yann Sommer,5
+Granit Xhaka,Breel-Donald Embolo,2
+Granit Xhaka,Denis Lemi Zakaria Lako Lado,2
+Granit Xhaka,Fabian Lukas Schär,8
+Granit Xhaka,Haris Seferović,2
+Granit Xhaka,Kevin Mbabu,3
+Granit Xhaka,Manuel Obafemi Akanji,8
+Granit Xhaka,Nico Elvedi,8
+Granit Xhaka,Remo Freuler,10
+Granit Xhaka,Ricardo Iván Rodríguez Araya,11
+Granit Xhaka,Xherdan Shaqiri,5
+Granit Xhaka,Yann Sommer,2
+Haris Seferović,Breel-Donald Embolo,3
+Haris Seferović,Denis Lemi Zakaria Lako Lado,1
+Haris Seferović,Fabian Lukas Schär,1
+Haris Seferović,Granit Xhaka,1
+Haris Seferović,Manuel Obafemi Akanji,2
+Haris Seferović,Nico Elvedi,1
+Haris Seferović,Remo Freuler,2
+Haris Seferović,Ricardo Iván Rodríguez Araya,2
+Haris Seferović,Xherdan Shaqiri,1
+Kevin Mbabu,Breel-Donald Embolo,5
+Kevin Mbabu,Denis Lemi Zakaria Lako Lado,4
+Kevin Mbabu,Fabian Lukas Schär,5
+Kevin Mbabu,Granit Xhaka,1
+Kevin Mbabu,Haris Seferović,5
+Kevin Mbabu,Nico Elvedi,12
+Kevin Mbabu,Remo Freuler,2
+Kevin Mbabu,Xherdan Shaqiri,1
+Manuel Obafemi Akanji,Breel-Donald Embolo,4
+Manuel Obafemi Akanji,Fabian Lukas Schär,22
+Manuel Obafemi Akanji,Granit Xhaka,8
+Manuel Obafemi Akanji,Haris Seferović,4
+Manuel Obafemi Akanji,Kevin Mbabu,1
+Manuel Obafemi Akanji,Nico Elvedi,4
+Manuel Obafemi Akanji,Remo Freuler,11
+Manuel Obafemi Akanji,Ricardo Iván Rodríguez Araya,13
+Manuel Obafemi Akanji,Xherdan Shaqiri,3
+Manuel Obafemi Akanji,Yann Sommer,1
+Nico Elvedi,Breel-Donald Embolo,2
+Nico Elvedi,Fabian Lukas Schär,23
+Nico Elvedi,Granit Xhaka,8
+Nico Elvedi,Haris Seferović,1
+Nico Elvedi,Kevin Mbabu,17
+Nico Elvedi,Manuel Obafemi Akanji,3
+Nico Elvedi,Mario Gavranović,1
+Nico Elvedi,Remo Freuler,6
+Nico Elvedi,Xherdan Shaqiri,1
+Nico Elvedi,Yann Sommer,4
+Remo Freuler,Breel-Donald Embolo,5
+Remo Freuler,Fabian Lukas Schär,4
+Remo Freuler,Granit Xhaka,5
+Remo Freuler,Haris Seferović,9
+Remo Freuler,Kevin Mbabu,7
+Remo Freuler,Manuel Obafemi Akanji,12
+Remo Freuler,Nico Elvedi,7
+Remo Freuler,Ricardo Iván Rodríguez Araya,3
+Remo Freuler,Xherdan Shaqiri,3
+Remo Freuler,Yann Sommer,1
+Ricardo Iván Rodríguez Araya,Breel-Donald Embolo,4
+Ricardo Iván Rodríguez Araya,Denis Lemi Zakaria Lako Lado,1
+Ricardo Iván Rodríguez Araya,Fabian Lukas Schär,4
+Ricardo Iván Rodríguez Araya,Granit Xhaka,8
+Ricardo Iván Rodríguez Araya,Haris Seferović,2
+Ricardo Iván Rodríguez Araya,Kevin Mbabu,2
+Ricardo Iván Rodríguez Araya,Manuel Obafemi Akanji,10
+Ricardo Iván Rodríguez Araya,Nico Elvedi,1
+Ricardo Iván Rodríguez Araya,Remo Freuler,4
+Ricardo Iván Rodríguez Araya,Xherdan Shaqiri,1
+Xherdan Shaqiri,Breel-Donald Embolo,2
+Xherdan Shaqiri,Fabian Lukas Schär,3
+Xherdan Shaqiri,Granit Xhaka,4
+Xherdan Shaqiri,Haris Seferović,1
+Xherdan Shaqiri,Manuel Obafemi Akanji,2
+Xherdan Shaqiri,Nico Elvedi,2
+Xherdan Shaqiri,Remo Freuler,1
+Xherdan Shaqiri,Ricardo Iván Rodríguez Araya,2
+Yann Sommer,Fabian Lukas Schär,1
+Yann Sommer,Granit Xhaka,6
+Yann Sommer,Kevin Mbabu,1
+Yann Sommer,Manuel Obafemi Akanji,8
+Yann Sommer,Nico Elvedi,5
+Yann Sommer,Remo Freuler,1
+Yann Sommer,Ricardo Iván Rodríguez Araya,1

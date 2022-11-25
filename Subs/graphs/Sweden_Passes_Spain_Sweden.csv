@@ -1,0 +1,56 @@
+passer,recipient,n_passes_completed
+Albin Ekdal,Alexander Isak,2
+Albin Ekdal,Kristoffer Olsson,2
+Albin Ekdal,Ludwig Augustinsson,2
+Albin Ekdal,Marcus Andreas Danielsson,1
+Albin Ekdal,Mikael Lustig,1
+Albin Ekdal,Victor Nilsson Lindelöf,1
+Alexander Isak,Albin Ekdal,1
+Alexander Isak,Kristoffer Olsson,1
+Alexander Isak,Marcus Berg,4
+Emil Krafth,Robin Quaison,1
+Emil Krafth,Viktor Claesson,1
+Emil Peter Forsberg,Alexander Isak,1
+Emil Peter Forsberg,Kristoffer Olsson,2
+Emil Peter Forsberg,Ludwig Augustinsson,2
+Emil Peter Forsberg,Marcus Berg,1
+Emil Peter Forsberg,Sebastian Larsson,1
+Emil Peter Forsberg,Victor Nilsson Lindelöf,1
+Kristoffer Olsson,Albin Ekdal,2
+Kristoffer Olsson,Alexander Isak,3
+Kristoffer Olsson,Emil Peter Forsberg,1
+Kristoffer Olsson,Marcus Berg,2
+Kristoffer Olsson,Sebastian Larsson,2
+Ludwig Augustinsson,Emil Peter Forsberg,1
+Ludwig Augustinsson,Kristoffer Olsson,1
+Ludwig Augustinsson,Marcus Andreas Danielsson,1
+Ludwig Augustinsson,Marcus Berg,1
+Ludwig Augustinsson,Robin Quaison,1
+Ludwig Augustinsson,Victor Nilsson Lindelöf,1
+Marcus Andreas Danielsson,Robin Olsen,4
+Marcus Berg,Albin Ekdal,2
+Marcus Berg,Alexander Isak,2
+Marcus Berg,Emil Peter Forsberg,3
+Marcus Berg,Mikael Lustig,1
+Marcus Berg,Sebastian Larsson,2
+Mikael Lustig,Ludwig Augustinsson,1
+Mikael Lustig,Marcus Berg,5
+Mikael Lustig,Sebastian Larsson,3
+Mikael Lustig,Victor Nilsson Lindelöf,1
+Robin Olsen,Alexander Isak,1
+Robin Olsen,Mikael Lustig,1
+Robin Olsen,Sebastian Larsson,3
+Sebastian Larsson,Alexander Isak,2
+Sebastian Larsson,Emil Krafth,1
+Sebastian Larsson,Kristoffer Olsson,3
+Sebastian Larsson,Marcus Berg,3
+Sebastian Larsson,Mikael Lustig,1
+Sebastian Larsson,Victor Nilsson Lindelöf,2
+Sebastian Larsson,Viktor Claesson,1
+Victor Nilsson Lindelöf,Emil Peter Forsberg,1
+Victor Nilsson Lindelöf,Kristoffer Olsson,1
+Victor Nilsson Lindelöf,Ludwig Augustinsson,1
+Victor Nilsson Lindelöf,Marcus Andreas Danielsson,2
+Victor Nilsson Lindelöf,Mikael Lustig,2
+Victor Nilsson Lindelöf,Robin Olsen,2
+Victor Nilsson Lindelöf,Sebastian Larsson,2

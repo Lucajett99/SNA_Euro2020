@@ -1,0 +1,101 @@
+passer,recipient,n_passes_completed
+Albin Ekdal,Alexander Isak,1
+Albin Ekdal,Emil Peter Forsberg,2
+Albin Ekdal,Kristoffer Olsson,3
+Albin Ekdal,Ludwig Augustinsson,4
+Albin Ekdal,Marcus Andreas Danielsson,5
+Albin Ekdal,Marcus Berg,2
+Albin Ekdal,Mikael Lustig,1
+Albin Ekdal,Sebastian Larsson,3
+Albin Ekdal,Victor Nilsson Lindelöf,12
+Alexander Isak,Albin Ekdal,2
+Alexander Isak,Emil Peter Forsberg,4
+Alexander Isak,Ludwig Augustinsson,2
+Alexander Isak,Marcus Andreas Danielsson,1
+Alexander Isak,Marcus Berg,1
+Alexander Isak,Mikael Lustig,2
+Alexander Isak,Robin Quaison,4
+Alexander Isak,Sebastian Larsson,4
+Emil Peter Forsberg,Albin Ekdal,7
+Emil Peter Forsberg,Alexander Isak,7
+Emil Peter Forsberg,Kristoffer Olsson,6
+Emil Peter Forsberg,Ludwig Augustinsson,7
+Emil Peter Forsberg,Marcus Andreas Danielsson,4
+Emil Peter Forsberg,Marcus Berg,1
+Emil Peter Forsberg,Pierre Bengtsson,2
+Emil Peter Forsberg,Robin Quaison,2
+Emil Peter Forsberg,Sebastian Larsson,2
+Emil Peter Forsberg,Victor Nilsson Lindelöf,2
+Kristoffer Olsson,Albin Ekdal,3
+Kristoffer Olsson,Alexander Isak,3
+Kristoffer Olsson,Emil Peter Forsberg,6
+Kristoffer Olsson,Ludwig Augustinsson,2
+Kristoffer Olsson,Marcus Andreas Danielsson,6
+Kristoffer Olsson,Marcus Berg,3
+Kristoffer Olsson,Mikael Lustig,5
+Kristoffer Olsson,Robin Olsen,2
+Kristoffer Olsson,Sebastian Larsson,4
+Kristoffer Olsson,Victor Nilsson Lindelöf,3
+Ludwig Augustinsson,Albin Ekdal,5
+Ludwig Augustinsson,Alexander Isak,4
+Ludwig Augustinsson,Emil Peter Forsberg,3
+Ludwig Augustinsson,Kristoffer Olsson,2
+Ludwig Augustinsson,Marcus Andreas Danielsson,6
+Ludwig Augustinsson,Marcus Berg,8
+Ludwig Augustinsson,Mikael Lustig,1
+Ludwig Augustinsson,Robin Olsen,2
+Ludwig Augustinsson,Victor Nilsson Lindelöf,2
+Marcus Andreas Danielsson,Albin Ekdal,1
+Marcus Andreas Danielsson,Emil Peter Forsberg,8
+Marcus Andreas Danielsson,Kristoffer Olsson,7
+Marcus Andreas Danielsson,Ludwig Augustinsson,7
+Marcus Andreas Danielsson,Mikael Lustig,1
+Marcus Andreas Danielsson,Robin Olsen,1
+Marcus Andreas Danielsson,Robin Quaison,1
+Marcus Andreas Danielsson,Victor Nilsson Lindelöf,17
+Marcus Berg,Albin Ekdal,1
+Marcus Berg,Alexander Isak,2
+Marcus Berg,Emil Peter Forsberg,1
+Marcus Berg,Kristoffer Olsson,2
+Marcus Berg,Ludwig Augustinsson,2
+Marcus Berg,Marcus Andreas Danielsson,1
+Marcus Berg,Sebastian Larsson,1
+Marcus Berg,Victor Nilsson Lindelöf,1
+Mikael Lustig,Alexander Isak,6
+Mikael Lustig,Kristoffer Olsson,2
+Mikael Lustig,Marcus Andreas Danielsson,3
+Mikael Lustig,Robin Olsen,4
+Mikael Lustig,Sebastian Larsson,10
+Mikael Lustig,Victor Nilsson Lindelöf,14
+Mikael Lustig,Viktor Claesson,2
+Pierre Bengtsson,Emil Peter Forsberg,2
+Robin Olsen,Alexander Isak,1
+Robin Olsen,Emil Peter Forsberg,1
+Robin Olsen,Ludwig Augustinsson,1
+Robin Olsen,Marcus Andreas Danielsson,1
+Robin Olsen,Mikael Lustig,1
+Robin Olsen,Victor Nilsson Lindelöf,9
+Robin Olsen,Viktor Claesson,1
+Robin Quaison,Alexander Isak,2
+Robin Quaison,Emil Peter Forsberg,1
+Sebastian Larsson,Albin Ekdal,1
+Sebastian Larsson,Alexander Isak,2
+Sebastian Larsson,Emil Peter Forsberg,2
+Sebastian Larsson,Kristoffer Olsson,6
+Sebastian Larsson,Ludwig Augustinsson,2
+Sebastian Larsson,Marcus Berg,1
+Sebastian Larsson,Mikael Lustig,17
+Sebastian Larsson,Robin Olsen,2
+Sebastian Larsson,Victor Nilsson Lindelöf,3
+Victor Nilsson Lindelöf,Albin Ekdal,7
+Victor Nilsson Lindelöf,Alexander Isak,3
+Victor Nilsson Lindelöf,Emil Peter Forsberg,10
+Victor Nilsson Lindelöf,Kristoffer Olsson,7
+Victor Nilsson Lindelöf,Marcus Andreas Danielsson,17
+Victor Nilsson Lindelöf,Marcus Berg,2
+Victor Nilsson Lindelöf,Mikael Lustig,9
+Victor Nilsson Lindelöf,Robin Olsen,1
+Victor Nilsson Lindelöf,Sebastian Larsson,9
+Viktor Claesson,Alexander Isak,2
+Viktor Claesson,Marcus Andreas Danielsson,1
+Viktor Claesson,Sebastian Larsson,1

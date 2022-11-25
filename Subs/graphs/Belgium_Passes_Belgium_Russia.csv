@@ -1,0 +1,115 @@
+passer,recipient,n_passes_completed
+Anga Dedryck Boyata,Jan Vertonghen,24
+Anga Dedryck Boyata,Leander Dendoncker,5
+Anga Dedryck Boyata,Thibaut Courtois,5
+Anga Dedryck Boyata,Thomas Vermaelen,5
+Anga Dedryck Boyata,Toby Alderweireld,42
+Anga Dedryck Boyata,Youri Tielemans,10
+Dennis Praet,Eden Hazard,1
+Dennis Praet,Thomas Meunier,1
+Dennis Praet,Thorgan Hazard,2
+Dennis Praet,Toby Alderweireld,1
+Dries Mertens,Romelu Lukaku Menama,1
+Dries Mertens,Thomas Meunier,3
+Dries Mertens,Toby Alderweireld,1
+Dries Mertens,Yannick Ferreira Carrasco,1
+Dries Mertens,Youri Tielemans,1
+Eden Hazard,Dennis Praet,2
+Eden Hazard,Leander Dendoncker,1
+Eden Hazard,Thomas Meunier,3
+Eden Hazard,Thorgan Hazard,1
+Eden Hazard,Toby Alderweireld,1
+Eden Hazard,Youri Tielemans,1
+Jan Vertonghen,Anga Dedryck Boyata,23
+Jan Vertonghen,Leander Dendoncker,4
+Jan Vertonghen,Romelu Lukaku Menama,2
+Jan Vertonghen,Thibaut Courtois,6
+Jan Vertonghen,Thorgan Hazard,32
+Jan Vertonghen,Toby Alderweireld,4
+Jan Vertonghen,Yannick Ferreira Carrasco,9
+Jan Vertonghen,Youri Tielemans,13
+Leander Dendoncker,Anga Dedryck Boyata,6
+Leander Dendoncker,Dennis Praet,1
+Leander Dendoncker,Dries Mertens,1
+Leander Dendoncker,Eden Hazard,4
+Leander Dendoncker,Jan Vertonghen,6
+Leander Dendoncker,Romelu Lukaku Menama,3
+Leander Dendoncker,Thomas Meunier,3
+Leander Dendoncker,Thomas Vermaelen,1
+Leander Dendoncker,Thorgan Hazard,6
+Leander Dendoncker,Toby Alderweireld,12
+Leander Dendoncker,Yannick Ferreira Carrasco,4
+Leander Dendoncker,Youri Tielemans,8
+Romelu Lukaku Menama,Dries Mertens,2
+Romelu Lukaku Menama,Jan Vertonghen,1
+Romelu Lukaku Menama,Leander Dendoncker,4
+Romelu Lukaku Menama,Thomas Meunier,2
+Romelu Lukaku Menama,Thorgan Hazard,1
+Romelu Lukaku Menama,Yannick Ferreira Carrasco,1
+Romelu Lukaku Menama,Youri Tielemans,3
+Thibaut Courtois,Anga Dedryck Boyata,4
+Thibaut Courtois,Jan Vertonghen,12
+Thibaut Courtois,Romelu Lukaku Menama,1
+Thibaut Courtois,Thomas Vermaelen,1
+Thibaut Courtois,Thorgan Hazard,3
+Thibaut Courtois,Toby Alderweireld,11
+Thibaut Courtois,Youri Tielemans,2
+Thomas Meunier,Dennis Praet,1
+Thomas Meunier,Dries Mertens,4
+Thomas Meunier,Leander Dendoncker,11
+Thomas Meunier,Romelu Lukaku Menama,6
+Thomas Meunier,Thibaut Courtois,1
+Thomas Meunier,Thomas Vermaelen,1
+Thomas Meunier,Toby Alderweireld,12
+Thomas Meunier,Yannick Ferreira Carrasco,2
+Thomas Meunier,Youri Tielemans,10
+Thomas Vermaelen,Anga Dedryck Boyata,3
+Thomas Vermaelen,Eden Hazard,3
+Thomas Vermaelen,Leander Dendoncker,1
+Thomas Vermaelen,Thibaut Courtois,3
+Thomas Vermaelen,Thorgan Hazard,7
+Thomas Vermaelen,Youri Tielemans,2
+Thorgan Hazard,Anga Dedryck Boyata,7
+Thorgan Hazard,Dennis Praet,3
+Thorgan Hazard,Eden Hazard,2
+Thorgan Hazard,Jan Vertonghen,27
+Thorgan Hazard,Leander Dendoncker,6
+Thorgan Hazard,Romelu Lukaku Menama,2
+Thorgan Hazard,Thibaut Courtois,4
+Thorgan Hazard,Thomas Vermaelen,4
+Thorgan Hazard,Toby Alderweireld,1
+Thorgan Hazard,Yannick Ferreira Carrasco,10
+Thorgan Hazard,Youri Tielemans,24
+Timothy Castagne,Dries Mertens,2
+Timothy Castagne,Leander Dendoncker,1
+Timothy Castagne,Romelu Lukaku Menama,2
+Timothy Castagne,Toby Alderweireld,3
+Timothy Castagne,Youri Tielemans,2
+Toby Alderweireld,Anga Dedryck Boyata,28
+Toby Alderweireld,Dries Mertens,1
+Toby Alderweireld,Jan Vertonghen,6
+Toby Alderweireld,Leander Dendoncker,12
+Toby Alderweireld,Thibaut Courtois,4
+Toby Alderweireld,Thomas Meunier,20
+Toby Alderweireld,Thomas Vermaelen,1
+Toby Alderweireld,Thorgan Hazard,4
+Toby Alderweireld,Timothy Castagne,9
+Toby Alderweireld,Youri Tielemans,14
+Yannick Ferreira Carrasco,Dries Mertens,1
+Yannick Ferreira Carrasco,Jan Vertonghen,4
+Yannick Ferreira Carrasco,Leander Dendoncker,3
+Yannick Ferreira Carrasco,Romelu Lukaku Menama,2
+Yannick Ferreira Carrasco,Thorgan Hazard,8
+Yannick Ferreira Carrasco,Toby Alderweireld,1
+Yannick Ferreira Carrasco,Youri Tielemans,3
+Youri Tielemans,Anga Dedryck Boyata,12
+Youri Tielemans,Dries Mertens,2
+Youri Tielemans,Eden Hazard,2
+Youri Tielemans,Jan Vertonghen,7
+Youri Tielemans,Leander Dendoncker,6
+Youri Tielemans,Romelu Lukaku Menama,7
+Youri Tielemans,Thomas Meunier,4
+Youri Tielemans,Thomas Vermaelen,4
+Youri Tielemans,Thorgan Hazard,17
+Youri Tielemans,Toby Alderweireld,9
+Youri Tielemans,Yannick Ferreira Carrasco,9

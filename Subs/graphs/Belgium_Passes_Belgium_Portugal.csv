@@ -1,0 +1,107 @@
+passer,recipient,n_passes_completed
+Axel Witsel,Dries Mertens,2
+Axel Witsel,Eden Hazard,4
+Axel Witsel,Jan Vertonghen,10
+Axel Witsel,Kevin De Bruyne,4
+Axel Witsel,Romelu Lukaku Menama,1
+Axel Witsel,Thibaut Courtois,1
+Axel Witsel,Thomas Meunier,3
+Axel Witsel,Thomas Vermaelen,8
+Axel Witsel,Thorgan Hazard,5
+Axel Witsel,Toby Alderweireld,8
+Axel Witsel,Youri Tielemans,5
+Dries Mertens,Axel Witsel,1
+Dries Mertens,Eden Hazard,2
+Dries Mertens,Jan Vertonghen,1
+Dries Mertens,Romelu Lukaku Menama,1
+Dries Mertens,Thomas Meunier,2
+Dries Mertens,Thorgan Hazard,1
+Dries Mertens,Youri Tielemans,1
+Eden Hazard,Axel Witsel,8
+Eden Hazard,Dries Mertens,1
+Eden Hazard,Jan Vertonghen,3
+Eden Hazard,Kevin De Bruyne,6
+Eden Hazard,Romelu Lukaku Menama,5
+Eden Hazard,Thomas Meunier,3
+Eden Hazard,Thorgan Hazard,8
+Eden Hazard,Toby Alderweireld,1
+Eden Hazard,Youri Tielemans,1
+Jan Vertonghen,Axel Witsel,6
+Jan Vertonghen,Dries Mertens,1
+Jan Vertonghen,Eden Hazard,14
+Jan Vertonghen,Kevin De Bruyne,4
+Jan Vertonghen,Romelu Lukaku Menama,5
+Jan Vertonghen,Thibaut Courtois,2
+Jan Vertonghen,Thomas Meunier,1
+Jan Vertonghen,Thomas Vermaelen,6
+Jan Vertonghen,Thorgan Hazard,18
+Jan Vertonghen,Toby Alderweireld,2
+Jan Vertonghen,Youri Tielemans,4
+Kevin De Bruyne,Axel Witsel,4
+Kevin De Bruyne,Eden Hazard,6
+Kevin De Bruyne,Thomas Meunier,3
+Kevin De Bruyne,Thorgan Hazard,2
+Kevin De Bruyne,Toby Alderweireld,2
+Kevin De Bruyne,Youri Tielemans,2
+Romelu Lukaku Menama,Axel Witsel,2
+Romelu Lukaku Menama,Dries Mertens,2
+Romelu Lukaku Menama,Eden Hazard,2
+Romelu Lukaku Menama,Kevin De Bruyne,1
+Romelu Lukaku Menama,Yannick Ferreira Carrasco,1
+Romelu Lukaku Menama,Youri Tielemans,1
+Thibaut Courtois,Axel Witsel,1
+Thibaut Courtois,Jan Vertonghen,11
+Thibaut Courtois,Romelu Lukaku Menama,2
+Thibaut Courtois,Thomas Meunier,1
+Thibaut Courtois,Thomas Vermaelen,1
+Thibaut Courtois,Thorgan Hazard,4
+Thibaut Courtois,Toby Alderweireld,6
+Thibaut Courtois,Youri Tielemans,2
+Thomas Meunier,Axel Witsel,2
+Thomas Meunier,Dries Mertens,2
+Thomas Meunier,Eden Hazard,3
+Thomas Meunier,Jan Vertonghen,1
+Thomas Meunier,Kevin De Bruyne,3
+Thomas Meunier,Romelu Lukaku Menama,3
+Thomas Meunier,Thibaut Courtois,1
+Thomas Meunier,Thorgan Hazard,2
+Thomas Meunier,Toby Alderweireld,8
+Thomas Meunier,Yannick Ferreira Carrasco,1
+Thomas Meunier,Youri Tielemans,5
+Thomas Vermaelen,Axel Witsel,1
+Thomas Vermaelen,Eden Hazard,1
+Thomas Vermaelen,Jan Vertonghen,9
+Thomas Vermaelen,Kevin De Bruyne,1
+Thomas Vermaelen,Thibaut Courtois,2
+Thomas Vermaelen,Thomas Meunier,1
+Thomas Vermaelen,Toby Alderweireld,8
+Thomas Vermaelen,Youri Tielemans,3
+Thorgan Hazard,Axel Witsel,8
+Thorgan Hazard,Eden Hazard,11
+Thorgan Hazard,Jan Vertonghen,15
+Thorgan Hazard,Kevin De Bruyne,3
+Thorgan Hazard,Romelu Lukaku Menama,2
+Thorgan Hazard,Thibaut Courtois,1
+Thorgan Hazard,Thomas Meunier,1
+Thorgan Hazard,Toby Alderweireld,2
+Thorgan Hazard,Youri Tielemans,2
+Toby Alderweireld,Axel Witsel,7
+Toby Alderweireld,Dries Mertens,1
+Toby Alderweireld,Eden Hazard,1
+Toby Alderweireld,Jan Vertonghen,5
+Toby Alderweireld,Romelu Lukaku Menama,2
+Toby Alderweireld,Thibaut Courtois,4
+Toby Alderweireld,Thomas Meunier,13
+Toby Alderweireld,Thomas Vermaelen,2
+Toby Alderweireld,Thorgan Hazard,2
+Toby Alderweireld,Youri Tielemans,6
+Youri Tielemans,Axel Witsel,6
+Youri Tielemans,Eden Hazard,2
+Youri Tielemans,Jan Vertonghen,7
+Youri Tielemans,Kevin De Bruyne,1
+Youri Tielemans,Romelu Lukaku Menama,1
+Youri Tielemans,Thibaut Courtois,1
+Youri Tielemans,Thomas Meunier,4
+Youri Tielemans,Thomas Vermaelen,3
+Youri Tielemans,Thorgan Hazard,5
+Youri Tielemans,Toby Alderweireld,4

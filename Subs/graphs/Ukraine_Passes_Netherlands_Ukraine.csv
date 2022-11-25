@@ -1,0 +1,109 @@
+passer,recipient,n_passes_completed
+Andriy Yarmolenko,Illia Zabarnyi,4
+Andriy Yarmolenko,Marlos Romero Bonfim,4
+Andriy Yarmolenko,Mykola Matviyenko,1
+Andriy Yarmolenko,Oleksandr Karavaev,6
+Andriy Yarmolenko,Oleksandr Zinchenko,2
+Andriy Yarmolenko,Roman Yaremchuk,4
+Andriy Yarmolenko,Ruslan Malinovskiy,4
+Andriy Yarmolenko,Serhii Sydorchuk,2
+Heorhii Bushchan,Andriy Yarmolenko,4
+Heorhii Bushchan,Illia Zabarnyi,6
+Heorhii Bushchan,Marlos Romero Bonfim,2
+Heorhii Bushchan,Mykola Matviyenko,3
+Heorhii Bushchan,Mykola Shaparenko,1
+Heorhii Bushchan,Oleksandr Karavaev,2
+Heorhii Bushchan,Oleksandr Zinchenko,1
+Heorhii Bushchan,Ruslan Malinovskiy,2
+Heorhii Bushchan,Serhii Sydorchuk,1
+Heorhii Bushchan,Vitalii Mykolenko,1
+Illia Zabarnyi,Andriy Yarmolenko,4
+Illia Zabarnyi,Heorhii Bushchan,2
+Illia Zabarnyi,Mykola Matviyenko,2
+Illia Zabarnyi,Mykola Shaparenko,1
+Illia Zabarnyi,Oleksandr Karavaev,12
+Illia Zabarnyi,Oleksandr Zinchenko,4
+Illia Zabarnyi,Roman Yaremchuk,2
+Illia Zabarnyi,Ruslan Malinovskiy,4
+Illia Zabarnyi,Serhii Sydorchuk,3
+Illia Zabarnyi,Vitalii Mykolenko,4
+Marlos Romero Bonfim,Andriy Yarmolenko,3
+Marlos Romero Bonfim,Oleksandr Zinchenko,9
+Marlos Romero Bonfim,Roman Yaremchuk,2
+Marlos Romero Bonfim,Ruslan Malinovskiy,1
+Marlos Romero Bonfim,Serhii Sydorchuk,2
+Marlos Romero Bonfim,Vitalii Mykolenko,1
+Mykola Matviyenko,Heorhii Bushchan,4
+Mykola Matviyenko,Illia Zabarnyi,7
+Mykola Matviyenko,Marlos Romero Bonfim,1
+Mykola Matviyenko,Mykola Shaparenko,2
+Mykola Matviyenko,Oleksandr Karavaev,2
+Mykola Matviyenko,Oleksandr Zinchenko,1
+Mykola Matviyenko,Roman Yaremchuk,1
+Mykola Matviyenko,Ruslan Malinovskiy,2
+Mykola Matviyenko,Serhii Sydorchuk,1
+Mykola Matviyenko,Vitalii Mykolenko,2
+Mykola Shaparenko,Heorhii Bushchan,1
+Mykola Shaparenko,Illia Zabarnyi,2
+Mykola Shaparenko,Mykola Matviyenko,1
+Mykola Shaparenko,Oleksandr Zinchenko,4
+Mykola Shaparenko,Roman Yaremchuk,2
+Mykola Shaparenko,Ruslan Malinovskiy,1
+Mykola Shaparenko,Serhii Sydorchuk,3
+Mykola Shaparenko,Vitalii Mykolenko,4
+Oleksandr Karavaev,Andriy Yarmolenko,12
+Oleksandr Karavaev,Heorhii Bushchan,4
+Oleksandr Karavaev,Illia Zabarnyi,7
+Oleksandr Karavaev,Marlos Romero Bonfim,2
+Oleksandr Karavaev,Mykola Shaparenko,1
+Oleksandr Karavaev,Roman Yaremchuk,11
+Oleksandr Karavaev,Ruslan Malinovskiy,9
+Oleksandr Karavaev,Serhii Sydorchuk,1
+Oleksandr Karavaev,Vitalii Mykolenko,3
+Oleksandr Zinchenko,Andriy Yarmolenko,5
+Oleksandr Zinchenko,Marlos Romero Bonfim,6
+Oleksandr Zinchenko,Mykola Matviyenko,2
+Oleksandr Zinchenko,Mykola Shaparenko,3
+Oleksandr Zinchenko,Oleksandr Karavaev,3
+Oleksandr Zinchenko,Oleksandr Zubkov,1
+Oleksandr Zinchenko,Roman Yaremchuk,4
+Oleksandr Zinchenko,Ruslan Malinovskiy,2
+Oleksandr Zinchenko,Serhii Sydorchuk,7
+Oleksandr Zinchenko,Vitalii Mykolenko,9
+Oleksandr Zubkov,Roman Yaremchuk,2
+Oleksandr Zubkov,Serhii Sydorchuk,2
+Roman Yaremchuk,Andriy Yarmolenko,11
+Roman Yaremchuk,Mykola Shaparenko,1
+Roman Yaremchuk,Oleksandr Karavaev,3
+Roman Yaremchuk,Oleksandr Zinchenko,8
+Roman Yaremchuk,Oleksandr Zubkov,1
+Roman Yaremchuk,Ruslan Malinovskiy,4
+Roman Yaremchuk,Serhii Sydorchuk,2
+Ruslan Malinovskiy,Andriy Yarmolenko,4
+Ruslan Malinovskiy,Illia Zabarnyi,2
+Ruslan Malinovskiy,Marlos Romero Bonfim,3
+Ruslan Malinovskiy,Mykola Shaparenko,1
+Ruslan Malinovskiy,Oleksandr Karavaev,7
+Ruslan Malinovskiy,Oleksandr Zinchenko,5
+Ruslan Malinovskiy,Roman Yaremchuk,3
+Ruslan Malinovskiy,Serhii Sydorchuk,1
+Ruslan Malinovskiy,Vitalii Mykolenko,4
+Serhii Sydorchuk,Andriy Yarmolenko,2
+Serhii Sydorchuk,Heorhii Bushchan,1
+Serhii Sydorchuk,Illia Zabarnyi,3
+Serhii Sydorchuk,Mykola Matviyenko,4
+Serhii Sydorchuk,Mykola Shaparenko,2
+Serhii Sydorchuk,Oleksandr Karavaev,5
+Serhii Sydorchuk,Oleksandr Zinchenko,5
+Serhii Sydorchuk,Roman Yaremchuk,2
+Serhii Sydorchuk,Ruslan Malinovskiy,5
+Serhii Sydorchuk,Vitalii Mykolenko,2
+Vitalii Mykolenko,Heorhii Bushchan,1
+Vitalii Mykolenko,Illia Zabarnyi,1
+Vitalii Mykolenko,Marlos Romero Bonfim,3
+Vitalii Mykolenko,Mykola Matviyenko,7
+Vitalii Mykolenko,Mykola Shaparenko,6
+Vitalii Mykolenko,Oleksandr Zinchenko,9
+Vitalii Mykolenko,Roman Yaremchuk,2
+Vitalii Mykolenko,Ruslan Malinovskiy,2
+Vitalii Mykolenko,Serhii Sydorchuk,2

@@ -1,0 +1,136 @@
+passer,recipient,n_passes_completed
+Bukayo Saka,Harry Kane,3
+Bukayo Saka,Jack Grealish,4
+Bukayo Saka,John Stones,3
+Bukayo Saka,Jordan Brian Henderson,5
+Bukayo Saka,Kalvin Phillips,3
+Bukayo Saka,Kyle Walker,6
+Bukayo Saka,Raheem Sterling,1
+Declan Rice,Bukayo Saka,2
+Declan Rice,Harry Kane,2
+Declan Rice,Harry Maguire,7
+Declan Rice,Jack Grealish,1
+Declan Rice,John Stones,7
+Declan Rice,Jordan Pickford,1
+Declan Rice,Kalvin Phillips,2
+Declan Rice,Kyle Walker,1
+Declan Rice,Luke Shaw,4
+Declan Rice,Raheem Sterling,1
+Harry Kane,Bukayo Saka,5
+Harry Kane,Jack Grealish,4
+Harry Kane,Jordan Brian Henderson,2
+Harry Kane,Jude Bellingham,1
+Harry Kane,Kalvin Phillips,2
+Harry Kane,Kyle Walker,1
+Harry Kane,Luke Shaw,3
+Harry Kane,Marcus Rashford,1
+Harry Kane,Raheem Sterling,1
+Harry Maguire,Declan Rice,6
+Harry Maguire,Harry Kane,5
+Harry Maguire,Jack Grealish,2
+Harry Maguire,John Stones,17
+Harry Maguire,Jordan Brian Henderson,1
+Harry Maguire,Jordan Pickford,8
+Harry Maguire,Jude Bellingham,2
+Harry Maguire,Kalvin Phillips,5
+Harry Maguire,Kyle Walker,4
+Harry Maguire,Luke Shaw,7
+Harry Maguire,Marcus Rashford,2
+Harry Maguire,Tyrone Mings,3
+Jack Grealish,Declan Rice,2
+Jack Grealish,Harry Kane,4
+Jack Grealish,Harry Maguire,3
+Jack Grealish,John Stones,2
+Jack Grealish,Kalvin Phillips,2
+Jack Grealish,Luke Shaw,5
+Jack Grealish,Raheem Sterling,7
+Jadon Sancho,Jordan Brian Henderson,1
+Jadon Sancho,Kyle Walker,1
+Jadon Sancho,Marcus Rashford,1
+John Stones,Bukayo Saka,5
+John Stones,Declan Rice,8
+John Stones,Harry Maguire,11
+John Stones,Jack Grealish,2
+John Stones,Jordan Brian Henderson,5
+John Stones,Jordan Pickford,6
+John Stones,Jude Bellingham,1
+John Stones,Kalvin Phillips,10
+John Stones,Kyle Walker,10
+John Stones,Raheem Sterling,2
+Jordan Brian Henderson,Bukayo Saka,4
+Jordan Brian Henderson,Harry Kane,3
+Jordan Brian Henderson,Harry Maguire,2
+Jordan Brian Henderson,Jadon Sancho,1
+Jordan Brian Henderson,John Stones,4
+Jordan Brian Henderson,Jude Bellingham,1
+Jordan Brian Henderson,Kalvin Phillips,1
+Jordan Brian Henderson,Kyle Walker,9
+Jordan Brian Henderson,Luke Shaw,1
+Jordan Pickford,Declan Rice,1
+Jordan Pickford,Harry Kane,5
+Jordan Pickford,Harry Maguire,9
+Jordan Pickford,Jack Grealish,1
+Jordan Pickford,John Stones,4
+Jordan Pickford,Kalvin Phillips,1
+Jordan Pickford,Kyle Walker,9
+Jordan Pickford,Luke Shaw,2
+Jude Bellingham,John Stones,1
+Jude Bellingham,Jordan Brian Henderson,1
+Jude Bellingham,Jordan Pickford,1
+Jude Bellingham,Luke Shaw,1
+Jude Bellingham,Marcus Rashford,1
+Jude Bellingham,Tyrone Mings,1
+Kalvin Phillips,Bukayo Saka,5
+Kalvin Phillips,Declan Rice,3
+Kalvin Phillips,Harry Kane,2
+Kalvin Phillips,Harry Maguire,6
+Kalvin Phillips,Jack Grealish,1
+Kalvin Phillips,John Stones,8
+Kalvin Phillips,Jordan Brian Henderson,1
+Kalvin Phillips,Jordan Pickford,1
+Kalvin Phillips,Jude Bellingham,1
+Kalvin Phillips,Kyle Walker,6
+Kalvin Phillips,Luke Shaw,3
+Kalvin Phillips,Marcus Rashford,1
+Kalvin Phillips,Raheem Sterling,2
+Kalvin Phillips,Tyrone Mings,1
+Kyle Walker,Bukayo Saka,7
+Kyle Walker,Declan Rice,1
+Kyle Walker,Harry Kane,4
+Kyle Walker,Harry Maguire,7
+Kyle Walker,Jack Grealish,1
+Kyle Walker,John Stones,12
+Kyle Walker,Jordan Brian Henderson,5
+Kyle Walker,Jordan Pickford,9
+Kyle Walker,Jude Bellingham,4
+Kyle Walker,Kalvin Phillips,3
+Kyle Walker,Luke Shaw,2
+Kyle Walker,Raheem Sterling,2
+Luke Shaw,Declan Rice,2
+Luke Shaw,Harry Kane,4
+Luke Shaw,Harry Maguire,12
+Luke Shaw,Jack Grealish,4
+Luke Shaw,John Stones,2
+Luke Shaw,Jordan Pickford,1
+Luke Shaw,Kalvin Phillips,4
+Luke Shaw,Marcus Rashford,4
+Luke Shaw,Raheem Sterling,7
+Luke Shaw,Tyrone Mings,1
+Marcus Rashford,Jadon Sancho,1
+Marcus Rashford,Jordan Brian Henderson,1
+Marcus Rashford,Jude Bellingham,1
+Marcus Rashford,Kalvin Phillips,1
+Marcus Rashford,Luke Shaw,4
+Marcus Rashford,Tyrone Mings,2
+Raheem Sterling,Declan Rice,3
+Raheem Sterling,Harry Kane,1
+Raheem Sterling,Harry Maguire,2
+Raheem Sterling,Jack Grealish,4
+Raheem Sterling,Jordan Brian Henderson,1
+Raheem Sterling,Kalvin Phillips,3
+Raheem Sterling,Luke Shaw,4
+Tyrone Mings,Harry Kane,1
+Tyrone Mings,Harry Maguire,2
+Tyrone Mings,Jordan Pickford,3
+Tyrone Mings,Luke Shaw,1
+Tyrone Mings,Marcus Rashford,1

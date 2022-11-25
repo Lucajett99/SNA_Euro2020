@@ -1,0 +1,117 @@
+passer,recipient,n_passes_completed
+Anga Dedryck Boyata,Axel Witsel,4
+Anga Dedryck Boyata,Hans Vanaken,1
+Anga Dedryck Boyata,Jason Denayer,16
+Anga Dedryck Boyata,Kevin De Bruyne,19
+Anga Dedryck Boyata,Leandro Trossard,3
+Anga Dedryck Boyata,Nacer Chadli,2
+Anga Dedryck Boyata,Thibaut Courtois,2
+Anga Dedryck Boyata,Thomas Vermaelen,31
+Axel Witsel,Anga Dedryck Boyata,13
+Axel Witsel,Christian Benteke Liolo,1
+Axel Witsel,Eden Hazard,15
+Axel Witsel,Jason Denayer,15
+Axel Witsel,Jeremy Doku,4
+Axel Witsel,Kevin De Bruyne,7
+Axel Witsel,Leandro Trossard,6
+Axel Witsel,Michy Batshuayi Tunga,5
+Axel Witsel,Nacer Chadli,10
+Axel Witsel,Romelu Lukaku Menama,1
+Axel Witsel,Thomas Meunier,3
+Axel Witsel,Thomas Vermaelen,3
+Christian Benteke Liolo,Eden Hazard,1
+Christian Benteke Liolo,Michy Batshuayi Tunga,1
+Christian Benteke Liolo,Nacer Chadli,1
+Christian Benteke Liolo,Thomas Meunier,1
+Eden Hazard,Anga Dedryck Boyata,2
+Eden Hazard,Axel Witsel,5
+Eden Hazard,Christian Benteke Liolo,1
+Eden Hazard,Jason Denayer,7
+Eden Hazard,Jeremy Doku,5
+Eden Hazard,Kevin De Bruyne,12
+Eden Hazard,Leandro Trossard,4
+Eden Hazard,Michy Batshuayi Tunga,1
+Eden Hazard,Nacer Chadli,7
+Eden Hazard,Romelu Lukaku Menama,6
+Eden Hazard,Thomas Meunier,1
+Eden Hazard,Thomas Vermaelen,3
+Hans Vanaken,Axel Witsel,1
+Hans Vanaken,Thomas Vermaelen,1
+Jason Denayer,Anga Dedryck Boyata,23
+Jason Denayer,Axel Witsel,14
+Jason Denayer,Eden Hazard,4
+Jason Denayer,Jeremy Doku,9
+Jason Denayer,Kevin De Bruyne,4
+Jason Denayer,Leandro Trossard,12
+Jason Denayer,Michy Batshuayi Tunga,2
+Jason Denayer,Romelu Lukaku Menama,1
+Jason Denayer,Thibaut Courtois,2
+Jason Denayer,Thomas Meunier,5
+Jason Denayer,Thomas Vermaelen,2
+Jeremy Doku,Axel Witsel,4
+Jeremy Doku,Eden Hazard,6
+Jeremy Doku,Jason Denayer,2
+Jeremy Doku,Kevin De Bruyne,2
+Jeremy Doku,Leandro Trossard,9
+Jeremy Doku,Nacer Chadli,3
+Jeremy Doku,Romelu Lukaku Menama,3
+Jeremy Doku,Thomas Vermaelen,1
+Kevin De Bruyne,Anga Dedryck Boyata,6
+Kevin De Bruyne,Axel Witsel,10
+Kevin De Bruyne,Eden Hazard,14
+Kevin De Bruyne,Jason Denayer,9
+Kevin De Bruyne,Jeremy Doku,9
+Kevin De Bruyne,Leandro Trossard,3
+Kevin De Bruyne,Nacer Chadli,13
+Kevin De Bruyne,Romelu Lukaku Menama,3
+Kevin De Bruyne,Thibaut Courtois,1
+Kevin De Bruyne,Thomas Vermaelen,9
+Leandro Trossard,Anga Dedryck Boyata,7
+Leandro Trossard,Axel Witsel,5
+Leandro Trossard,Eden Hazard,4
+Leandro Trossard,Jason Denayer,11
+Leandro Trossard,Jeremy Doku,8
+Leandro Trossard,Kevin De Bruyne,8
+Leandro Trossard,Romelu Lukaku Menama,3
+Leandro Trossard,Thomas Vermaelen,1
+Michy Batshuayi Tunga,Christian Benteke Liolo,1
+Michy Batshuayi Tunga,Eden Hazard,4
+Michy Batshuayi Tunga,Jason Denayer,2
+Michy Batshuayi Tunga,Kevin De Bruyne,2
+Michy Batshuayi Tunga,Nacer Chadli,2
+Nacer Chadli,Anga Dedryck Boyata,3
+Nacer Chadli,Axel Witsel,8
+Nacer Chadli,Christian Benteke Liolo,1
+Nacer Chadli,Eden Hazard,14
+Nacer Chadli,Jeremy Doku,4
+Nacer Chadli,Kevin De Bruyne,14
+Nacer Chadli,Michy Batshuayi Tunga,2
+Nacer Chadli,Thibaut Courtois,1
+Nacer Chadli,Thomas Vermaelen,11
+Romelu Lukaku Menama,Anga Dedryck Boyata,1
+Romelu Lukaku Menama,Axel Witsel,1
+Romelu Lukaku Menama,Eden Hazard,2
+Romelu Lukaku Menama,Kevin De Bruyne,3
+Romelu Lukaku Menama,Nacer Chadli,2
+Romelu Lukaku Menama,Thomas Vermaelen,1
+Thibaut Courtois,Anga Dedryck Boyata,1
+Thibaut Courtois,Axel Witsel,1
+Thibaut Courtois,Jason Denayer,6
+Thibaut Courtois,Leandro Trossard,3
+Thibaut Courtois,Thomas Meunier,1
+Thibaut Courtois,Thomas Vermaelen,3
+Thomas Meunier,Anga Dedryck Boyata,1
+Thomas Meunier,Axel Witsel,4
+Thomas Meunier,Jason Denayer,3
+Thomas Meunier,Kevin De Bruyne,2
+Thomas Meunier,Michy Batshuayi Tunga,3
+Thomas Vermaelen,Anga Dedryck Boyata,16
+Thomas Vermaelen,Axel Witsel,11
+Thomas Vermaelen,Christian Benteke Liolo,1
+Thomas Vermaelen,Eden Hazard,6
+Thomas Vermaelen,Jason Denayer,4
+Thomas Vermaelen,Jeremy Doku,2
+Thomas Vermaelen,Kevin De Bruyne,16
+Thomas Vermaelen,Nacer Chadli,18
+Thomas Vermaelen,Romelu Lukaku Menama,1
+Thomas Vermaelen,Thibaut Courtois,4
