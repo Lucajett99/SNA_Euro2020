@@ -51,9 +51,11 @@ def createDicts(df, team, players_df):
     #pass_between = pass_between.merge(avg_loc, left_on='passer', right_index=True)
     # merge avg_loc table with pass_between table throw recipient column to get end['location_x'],['location_y']
     #pass_between = pass_between.merge(avg_loc, left_on='recipient', right_index=True, suffixes=['', '_end'])
-    pass_completed = completed_pass.groupby(['player'], as_index=False).index.count()
-    avg_loc = avg_loc.join(pass_completed, on='player_id')
-    print(avg_loc)
+    pass_completed = completed_pass.groupby('player', as_index=False).index.count()
+    pass_completed.columns = ['player', 'n_passes_completed']
+    pass_completed = pass_completed.set_index('player')
+    avg_loc = avg_loc.join(pass_completed, on='player')
+    avg_loc = avg_loc.to_dict('index')
     return pass_between, avg_loc
 
 def plotPassingNetwork(pass_between, avg_loc):
@@ -94,9 +96,8 @@ def plotPassingNetwork(pass_between, avg_loc):
                                 arrowprops=dict(arrowstyle="-|>", color="0.25", shrinkA=shrink_val, shrinkB=shrink_val, lw=n_passBetween*0.12, alpha=alpha))
 
     for name, player in avg_loc.items():
-
-        ax.scatter(player['x'], player['y'], s=player.n_passes_completed*1.3, color=color, zorder = 4)
-        ax.text(player['x'], player['y']+2 if player['y'] >40 else player['y'] -2, s=player.name.split(" ")[-1], rotation=270, va="top" if player['y']<40 else "bottom", size=6.5, fontweight="book", zorder=7, color=color)
+        ax.scatter(player['x'], player['y'], s=player['n_passes_completed']*1.3, color=color, zorder = 4)
+        ax.text(player['x'], player['y']+2 if player['y'] > 40 else player['y'] -2, s=name.split(" ")[-1], rotation=270, va="top" if player['y']<40 else "bottom", size=6.5, fontweight="book", zorder=7, color=color)
     fig.tight_layout()
     plt.show()
    
@@ -109,7 +110,7 @@ def main():
     homeLineupDF = pd.read_json(homeLineup, lines=True)
     #awayLineupDF = pd.read_json(awayLineup, orient='index')
     pass_between, avg_loc = createDicts(match_events, homeTeamName, homeLineupDF)
-    #plotPassingNetwork(pass_between, avg_loc)
+    plotPassingNetwork(pass_between, avg_loc)
 
     
     #pass_network(match_events, awayTeamName, awayLineupDF)
