@@ -11,7 +11,6 @@ df = sb.matches(competition_id=55, season_id=43)
 
 # For all matches 
 for index, row in df.iterrows():
-
     home_team = row["home_team"]  
     away_team = row["away_team"]
     #Get the match_id
@@ -26,7 +25,19 @@ for index, row in df.iterrows():
         'pass_cross', 'pass_end_location', 'pass_goal_assist', 'pass_type', 'play_pattern', 
     'substitution_outcome' ,'substitution_replacement', 'tactics'
     ]]
-    match_events.to_excel(f'./matches/{home_team}_{away_team}_events.xlsx', index=False)
+
+    subs = []
+    for index, row in match_events.iterrows():
+        player = row['substitution_replacement']
+        if(not pd.isna(player)):
+            subs.append(player)
+    
+    match_events = match_events[(match_events["type"] == "Starting XI") | (match_events["type"]=="Pass")]
+
+    for player in subs:
+        match_events = match_events[~match_events['player'].str.contains(player, na=False)]
+        match_events = match_events[~match_events['pass_recipient'].str.contains(player, na=False)]
+
 
     # split locations into x and y components
     match_events[['location_x', 'location_y']] = match_events['location'].apply(pd.Series)
@@ -34,5 +45,5 @@ for index, row in df.iterrows():
     match_events.drop(["location", "pass_end_location"], axis=1)
    
     #Get only pass events
-    #match_events = match_events[(match_events["type"] == "Starting XI") | (match_events["type"]=="Pass")]
+    match_events = match_events[(match_events["type"] == "Starting XI") | (match_events["type"]=="Pass")]
     match_events.to_excel(f'./matches/{home_team}_{away_team}_events.xlsx', index=False)
