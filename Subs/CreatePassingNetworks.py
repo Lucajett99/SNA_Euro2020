@@ -60,7 +60,7 @@ def createDicts(df, team, players_df):
     avg_loc = avg_loc.to_dict('index')
     return pass_between, avg_loc
 
-def plotPassingNetwork(pass_between, avg_loc,  home_team, away_team):
+def plotPassingNetwork(pass_between, avg_loc,  home_team, away_team, side):
     color = "blue"
     min_pass_count = 2 ##minimum number of passes for a link to be plotted
     pitch = Pitch()
@@ -68,7 +68,6 @@ def plotPassingNetwork(pass_between, avg_loc,  home_team, away_team):
     fig, ax = pitch.draw(figsize=(8, 4))
     arrow_shift = 1 ##Units by which the arrow moves from its original position
     shrink_val = 1.5 ##Units by which the arrow is shortened from the end_points 
-    print(pass_between)
     for row in pass_between.itertuples():
         if( row[2] in avg_loc.keys()):
             n_passBetween = row[3] ## for the arrow-width and the alpha
@@ -103,7 +102,10 @@ def plotPassingNetwork(pass_between, avg_loc,  home_team, away_team):
             ax.scatter(player['x'], player['y'], s=player['n_passes_completed']*1.3, color=color, zorder = 4)
             ax.text(player['x'], player['y']+2 if player['y'] > 40 else player['y'] -2, s=name.split(" ")[-1], rotation=270, va="top" if player['y']<40 else "bottom", size=6.5, fontweight="book", zorder=7, color=color)
         fig.tight_layout()
-        plt.savefig(f"./imgWhitSubs/{home_team}_Network_{home_team}_{away_team}.png")
+        if (side == "home"):
+            plt.savefig(f"./imgWhitSubs/{home_team}_Network_{home_team}_{away_team}.png")
+        else: 
+            plt.savefig(f"./imgWhitSubs/{away_team}_Network_{home_team}_{away_team}.png")
 
 def main():
     # Get Matches from Euro2020
@@ -120,12 +122,12 @@ def main():
         homeLineup = getLineups(match_events, "home")    
         homeLineupDF = pd.read_json(homeLineup, lines=True)
         pass_betweenHome, avg_locHome = createDicts(match_events, homeTeamName, homeLineupDF)
-        plotPassingNetwork(pass_betweenHome, avg_locHome, home_team, away_team)
+        plotPassingNetwork(pass_betweenHome, avg_locHome, home_team, away_team, "home")
         
         awayLineup = getLineups(match_events, "away")
         awayLineupDF = pd.read_json(awayLineup, lines=True)
         pass_betweenAway, avg_locAway = createDicts(match_events, awayTeamName, awayLineupDF)
-        plotPassingNetwork(pass_betweenAway, avg_locAway)
+        plotPassingNetwork(pass_betweenAway, avg_locAway,  home_team, away_team, "away")
         #print(pass_betweenHome, pass_betweenAway)
         '''if not os.path.exists('./graphs'):
             os.mkdir('./graphs')
