@@ -1,0 +1,136 @@
+passer,recipient,n_passes_completed
+Daley Blind,Denzel Dumfries,2
+Daley Blind,Frenkie de Jong,23
+Daley Blind,Georginio Wijnaldum,2
+Daley Blind,Jurriën David Norman Timber,3
+Daley Blind,Maarten Stekelenburg,2
+Daley Blind,Marten de Roon,11
+Daley Blind,Memphis Depay,12
+Daley Blind,Patrick van Aanholt,11
+Daley Blind,Stefan de Vrij,6
+Daley Blind,Wout Weghorst,2
+Denzel Dumfries,Donyell Malen,1
+Denzel Dumfries,Frenkie de Jong,2
+Denzel Dumfries,Georginio Wijnaldum,8
+Denzel Dumfries,Jurriën David Norman Timber,9
+Denzel Dumfries,Luuk de Jong,1
+Denzel Dumfries,Marten de Roon,15
+Denzel Dumfries,Memphis Depay,1
+Denzel Dumfries,Stefan de Vrij,2
+Denzel Dumfries,Wout Weghorst,3
+Donyell Malen,Denzel Dumfries,2
+Frenkie de Jong,Daley Blind,13
+Frenkie de Jong,Denzel Dumfries,12
+Frenkie de Jong,Donyell Malen,1
+Frenkie de Jong,Georginio Wijnaldum,11
+Frenkie de Jong,Jurriën David Norman Timber,8
+Frenkie de Jong,Maarten Stekelenburg,1
+Frenkie de Jong,Marten de Roon,14
+Frenkie de Jong,Memphis Depay,15
+Frenkie de Jong,Nathan Aké,2
+Frenkie de Jong,Owen Wijndal,2
+Frenkie de Jong,Patrick van Aanholt,4
+Frenkie de Jong,Stefan de Vrij,7
+Frenkie de Jong,Wout Weghorst,1
+Georginio Wijnaldum,Daley Blind,6
+Georginio Wijnaldum,Denzel Dumfries,7
+Georginio Wijnaldum,Donyell Malen,1
+Georginio Wijnaldum,Frenkie de Jong,7
+Georginio Wijnaldum,Jurriën David Norman Timber,4
+Georginio Wijnaldum,Luuk de Jong,1
+Georginio Wijnaldum,Maarten Stekelenburg,1
+Georginio Wijnaldum,Marten de Roon,3
+Georginio Wijnaldum,Memphis Depay,9
+Georginio Wijnaldum,Nathan Aké,1
+Georginio Wijnaldum,Owen Wijndal,4
+Georginio Wijnaldum,Wout Weghorst,2
+Joël Veltman,Denzel Dumfries,1
+Joël Veltman,Georginio Wijnaldum,1
+Joël Veltman,Luuk de Jong,2
+Joël Veltman,Maarten Stekelenburg,2
+Joël Veltman,Stefan de Vrij,1
+Jurriën David Norman Timber,Daley Blind,8
+Jurriën David Norman Timber,Denzel Dumfries,4
+Jurriën David Norman Timber,Frenkie de Jong,14
+Jurriën David Norman Timber,Georginio Wijnaldum,4
+Jurriën David Norman Timber,Maarten Stekelenburg,5
+Jurriën David Norman Timber,Marten de Roon,13
+Jurriën David Norman Timber,Memphis Depay,4
+Jurriën David Norman Timber,Nathan Aké,5
+Jurriën David Norman Timber,Stefan de Vrij,19
+Luuk de Jong,Denzel Dumfries,1
+Luuk de Jong,Donyell Malen,1
+Luuk de Jong,Frenkie de Jong,1
+Luuk de Jong,Owen Wijndal,1
+Maarten Stekelenburg,Daley Blind,3
+Maarten Stekelenburg,Denzel Dumfries,4
+Maarten Stekelenburg,Georginio Wijnaldum,1
+Maarten Stekelenburg,Jurriën David Norman Timber,4
+Maarten Stekelenburg,Luuk de Jong,1
+Maarten Stekelenburg,Marten de Roon,1
+Maarten Stekelenburg,Memphis Depay,1
+Maarten Stekelenburg,Stefan de Vrij,8
+Marten de Roon,Daley Blind,3
+Marten de Roon,Denzel Dumfries,9
+Marten de Roon,Frenkie de Jong,16
+Marten de Roon,Georginio Wijnaldum,7
+Marten de Roon,Joël Veltman,1
+Marten de Roon,Jurriën David Norman Timber,15
+Marten de Roon,Maarten Stekelenburg,4
+Marten de Roon,Memphis Depay,2
+Marten de Roon,Nathan Aké,4
+Marten de Roon,Patrick van Aanholt,1
+Marten de Roon,Stefan de Vrij,7
+Marten de Roon,Wout Weghorst,2
+Memphis Depay,Daley Blind,4
+Memphis Depay,Denzel Dumfries,1
+Memphis Depay,Frenkie de Jong,16
+Memphis Depay,Georginio Wijnaldum,7
+Memphis Depay,Jurriën David Norman Timber,3
+Memphis Depay,Marten de Roon,1
+Memphis Depay,Owen Wijndal,3
+Memphis Depay,Patrick van Aanholt,5
+Memphis Depay,Stefan de Vrij,1
+Memphis Depay,Wout Weghorst,4
+Nathan Aké,Denzel Dumfries,3
+Nathan Aké,Frenkie de Jong,1
+Nathan Aké,Jurriën David Norman Timber,5
+Nathan Aké,Marten de Roon,3
+Nathan Aké,Memphis Depay,1
+Nathan Aké,Owen Wijndal,2
+Nathan Aké,Stefan de Vrij,6
+Owen Wijndal,Frenkie de Jong,2
+Owen Wijndal,Georginio Wijnaldum,1
+Owen Wijndal,Jurriën David Norman Timber,1
+Owen Wijndal,Luuk de Jong,1
+Owen Wijndal,Marten de Roon,3
+Owen Wijndal,Memphis Depay,1
+Owen Wijndal,Nathan Aké,3
+Owen Wijndal,Stefan de Vrij,1
+Patrick van Aanholt,Daley Blind,14
+Patrick van Aanholt,Denzel Dumfries,1
+Patrick van Aanholt,Frenkie de Jong,2
+Patrick van Aanholt,Georginio Wijnaldum,1
+Patrick van Aanholt,Memphis Depay,7
+Patrick van Aanholt,Stefan de Vrij,1
+Patrick van Aanholt,Wout Weghorst,1
+Stefan de Vrij,Daley Blind,18
+Stefan de Vrij,Denzel Dumfries,3
+Stefan de Vrij,Frenkie de Jong,6
+Stefan de Vrij,Joël Veltman,4
+Stefan de Vrij,Jurriën David Norman Timber,15
+Stefan de Vrij,Luuk de Jong,1
+Stefan de Vrij,Maarten Stekelenburg,6
+Stefan de Vrij,Marten de Roon,4
+Stefan de Vrij,Memphis Depay,4
+Stefan de Vrij,Nathan Aké,4
+Stefan de Vrij,Patrick van Aanholt,5
+Stefan de Vrij,Wout Weghorst,1
+Wout Weghorst,Daley Blind,1
+Wout Weghorst,Denzel Dumfries,1
+Wout Weghorst,Frenkie de Jong,1
+Wout Weghorst,Georginio Wijnaldum,5
+Wout Weghorst,Jurriën David Norman Timber,1
+Wout Weghorst,Marten de Roon,1
+Wout Weghorst,Memphis Depay,2
+Wout Weghorst,Patrick van Aanholt,1

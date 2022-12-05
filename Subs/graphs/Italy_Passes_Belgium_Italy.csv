@@ -1,0 +1,102 @@
+passer,recipient,n_passes_completed
+Bryan Cristante,Andrea Belotti,1
+Bryan Cristante,Emerson Palmieri dos Santos,1
+Bryan Cristante,Giorgio Chiellini,1
+Ciro Immobile,Federico Chiesa,1
+Ciro Immobile,Giovanni Di Lorenzo,2
+Ciro Immobile,Jorge Luiz Frello Filho,3
+Ciro Immobile,Lorenzo Insigne,2
+Ciro Immobile,Marco Verratti,5
+Ciro Immobile,Nicolò Barella,3
+Emerson Palmieri dos Santos,Bryan Cristante,1
+Emerson Palmieri dos Santos,Federico Chiesa,1
+Emerson Palmieri dos Santos,Giorgio Chiellini,2
+Federico Chiesa,Ciro Immobile,2
+Federico Chiesa,Giovanni Di Lorenzo,3
+Federico Chiesa,Jorge Luiz Frello Filho,2
+Federico Chiesa,Leonardo Spinazzola,1
+Federico Chiesa,Lorenzo Insigne,1
+Federico Chiesa,Marco Verratti,1
+Federico Chiesa,Nicolò Barella,8
+Gianluigi Donnarumma,Bryan Cristante,1
+Gianluigi Donnarumma,Giorgio Chiellini,2
+Gianluigi Donnarumma,Giovanni Di Lorenzo,2
+Gianluigi Donnarumma,Jorge Luiz Frello Filho,3
+Gianluigi Donnarumma,Leonardo Bonucci,8
+Gianluigi Donnarumma,Leonardo Spinazzola,2
+Gianluigi Donnarumma,Marco Verratti,2
+Giorgio Chiellini,Ciro Immobile,1
+Giorgio Chiellini,Domenico Berardi,1
+Giorgio Chiellini,Gianluigi Donnarumma,4
+Giorgio Chiellini,Giovanni Di Lorenzo,1
+Giorgio Chiellini,Jorge Luiz Frello Filho,1
+Giorgio Chiellini,Leonardo Bonucci,10
+Giorgio Chiellini,Leonardo Spinazzola,8
+Giorgio Chiellini,Lorenzo Insigne,2
+Giorgio Chiellini,Marco Verratti,4
+Giorgio Chiellini,Nicolò Barella,1
+Giovanni Di Lorenzo,Ciro Immobile,3
+Giovanni Di Lorenzo,Federico Chiesa,6
+Giovanni Di Lorenzo,Gianluigi Donnarumma,2
+Giovanni Di Lorenzo,Giorgio Chiellini,1
+Giovanni Di Lorenzo,Jorge Luiz Frello Filho,6
+Giovanni Di Lorenzo,Leonardo Bonucci,10
+Giovanni Di Lorenzo,Marco Verratti,2
+Giovanni Di Lorenzo,Nicolò Barella,13
+Jorge Luiz Frello Filho,Bryan Cristante,2
+Jorge Luiz Frello Filho,Ciro Immobile,3
+Jorge Luiz Frello Filho,Domenico Berardi,1
+Jorge Luiz Frello Filho,Emerson Palmieri dos Santos,1
+Jorge Luiz Frello Filho,Federico Chiesa,5
+Jorge Luiz Frello Filho,Giorgio Chiellini,4
+Jorge Luiz Frello Filho,Giovanni Di Lorenzo,4
+Jorge Luiz Frello Filho,Leonardo Bonucci,13
+Jorge Luiz Frello Filho,Leonardo Spinazzola,4
+Jorge Luiz Frello Filho,Lorenzo Insigne,12
+Jorge Luiz Frello Filho,Marco Verratti,21
+Jorge Luiz Frello Filho,Nicolò Barella,2
+Leonardo Bonucci,Ciro Immobile,3
+Leonardo Bonucci,Gianluigi Donnarumma,4
+Leonardo Bonucci,Giorgio Chiellini,8
+Leonardo Bonucci,Giovanni Di Lorenzo,16
+Leonardo Bonucci,Jorge Luiz Frello Filho,2
+Leonardo Bonucci,Leonardo Spinazzola,10
+Leonardo Bonucci,Lorenzo Insigne,2
+Leonardo Bonucci,Marco Verratti,5
+Leonardo Bonucci,Nicolò Barella,5
+Leonardo Spinazzola,Ciro Immobile,2
+Leonardo Spinazzola,Federico Chiesa,2
+Leonardo Spinazzola,Gianluigi Donnarumma,1
+Leonardo Spinazzola,Giorgio Chiellini,2
+Leonardo Spinazzola,Jorge Luiz Frello Filho,5
+Leonardo Spinazzola,Leonardo Bonucci,1
+Leonardo Spinazzola,Lorenzo Insigne,14
+Leonardo Spinazzola,Marco Verratti,14
+Leonardo Spinazzola,Nicolò Barella,2
+Lorenzo Insigne,Ciro Immobile,8
+Lorenzo Insigne,Federico Chiesa,2
+Lorenzo Insigne,Giorgio Chiellini,2
+Lorenzo Insigne,Giovanni Di Lorenzo,2
+Lorenzo Insigne,Jorge Luiz Frello Filho,9
+Lorenzo Insigne,Leonardo Bonucci,3
+Lorenzo Insigne,Leonardo Spinazzola,7
+Lorenzo Insigne,Marco Verratti,23
+Lorenzo Insigne,Nicolò Barella,1
+Marco Verratti,Ciro Immobile,4
+Marco Verratti,Federico Chiesa,4
+Marco Verratti,Giorgio Chiellini,4
+Marco Verratti,Giovanni Di Lorenzo,2
+Marco Verratti,Jorge Luiz Frello Filho,21
+Marco Verratti,Leonardo Bonucci,5
+Marco Verratti,Leonardo Spinazzola,9
+Marco Verratti,Lorenzo Insigne,29
+Marco Verratti,Nicolò Barella,7
+Nicolò Barella,Ciro Immobile,4
+Nicolò Barella,Domenico Berardi,2
+Nicolò Barella,Federico Chiesa,10
+Nicolò Barella,Giovanni Di Lorenzo,4
+Nicolò Barella,Jorge Luiz Frello Filho,9
+Nicolò Barella,Leonardo Bonucci,3
+Nicolò Barella,Leonardo Spinazzola,1
+Nicolò Barella,Lorenzo Insigne,1
+Nicolò Barella,Marco Verratti,3

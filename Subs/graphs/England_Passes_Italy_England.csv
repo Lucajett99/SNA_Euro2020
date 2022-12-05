@@ -1,0 +1,110 @@
+passer,recipient,n_passes_completed
+Bukayo Saka,Harry Kane,2
+Bukayo Saka,Harry Maguire,2
+Bukayo Saka,Jadon Sancho,1
+Bukayo Saka,Kalvin Phillips,2
+Bukayo Saka,Kyle Walker,2
+Bukayo Saka,Luke Shaw,1
+Declan Rice,Harry Kane,3
+Declan Rice,Harry Maguire,5
+Declan Rice,John Stones,4
+Declan Rice,Kalvin Phillips,3
+Declan Rice,Kyle Walker,1
+Declan Rice,Luke Shaw,4
+Declan Rice,Mason Mount,5
+Harry Kane,Declan Rice,1
+Harry Kane,Harry Maguire,2
+Harry Kane,Jordan Brian Henderson,2
+Harry Kane,Kieran Trippier,3
+Harry Kane,Kyle Walker,1
+Harry Kane,Luke Shaw,3
+Harry Kane,Mason Mount,1
+Harry Kane,Raheem Sterling,2
+Harry Maguire,Bukayo Saka,1
+Harry Maguire,Declan Rice,5
+Harry Maguire,Harry Kane,5
+Harry Maguire,Jack Grealish,1
+Harry Maguire,John Stones,9
+Harry Maguire,Jordan Brian Henderson,1
+Harry Maguire,Jordan Pickford,5
+Harry Maguire,Kalvin Phillips,5
+Harry Maguire,Kieran Trippier,1
+Harry Maguire,Kyle Walker,3
+Harry Maguire,Luke Shaw,17
+Harry Maguire,Mason Mount,1
+Jack Grealish,Bukayo Saka,1
+Jack Grealish,Harry Maguire,1
+Jack Grealish,Luke Shaw,1
+Jack Grealish,Raheem Sterling,1
+Jadon Sancho,Bukayo Saka,1
+John Stones,Harry Kane,3
+John Stones,Harry Maguire,11
+John Stones,Jordan Brian Henderson,3
+John Stones,Jordan Pickford,5
+John Stones,Kalvin Phillips,9
+John Stones,Kieran Trippier,1
+John Stones,Kyle Walker,9
+John Stones,Luke Shaw,2
+John Stones,Raheem Sterling,4
+Jordan Brian Henderson,Harry Kane,2
+Jordan Brian Henderson,Jack Grealish,1
+Jordan Brian Henderson,John Stones,3
+Jordan Brian Henderson,Kyle Walker,3
+Jordan Brian Henderson,Raheem Sterling,2
+Jordan Pickford,Harry Kane,5
+Jordan Pickford,Harry Maguire,8
+Jordan Pickford,John Stones,8
+Jordan Pickford,Kyle Walker,5
+Jordan Pickford,Luke Shaw,2
+Jordan Pickford,Mason Mount,1
+Kalvin Phillips,Bukayo Saka,2
+Kalvin Phillips,Declan Rice,7
+Kalvin Phillips,Harry Kane,1
+Kalvin Phillips,Harry Maguire,6
+Kalvin Phillips,Jack Grealish,1
+Kalvin Phillips,John Stones,6
+Kalvin Phillips,Kyle Walker,4
+Kalvin Phillips,Luke Shaw,3
+Kalvin Phillips,Mason Mount,1
+Kalvin Phillips,Raheem Sterling,2
+Kieran Trippier,Declan Rice,2
+Kieran Trippier,Harry Kane,1
+Kieran Trippier,John Stones,2
+Kieran Trippier,Kyle Walker,3
+Kieran Trippier,Luke Shaw,2
+Kieran Trippier,Mason Mount,2
+Kieran Trippier,Raheem Sterling,1
+Kyle Walker,Bukayo Saka,4
+Kyle Walker,Declan Rice,1
+Kyle Walker,Harry Maguire,3
+Kyle Walker,John Stones,7
+Kyle Walker,Jordan Brian Henderson,5
+Kyle Walker,Jordan Pickford,3
+Kyle Walker,Kalvin Phillips,4
+Kyle Walker,Kieran Trippier,6
+Kyle Walker,Raheem Sterling,1
+Luke Shaw,Bukayo Saka,2
+Luke Shaw,Declan Rice,2
+Luke Shaw,Harry Kane,7
+Luke Shaw,Harry Maguire,12
+Luke Shaw,Jack Grealish,1
+Luke Shaw,Jordan Pickford,1
+Luke Shaw,Kalvin Phillips,4
+Luke Shaw,Kieran Trippier,1
+Luke Shaw,Mason Mount,11
+Luke Shaw,Raheem Sterling,6
+Mason Mount,Bukayo Saka,1
+Mason Mount,Declan Rice,2
+Mason Mount,Harry Kane,1
+Mason Mount,John Stones,1
+Mason Mount,Kalvin Phillips,1
+Mason Mount,Luke Shaw,7
+Mason Mount,Raheem Sterling,1
+Raheem Sterling,Declan Rice,2
+Raheem Sterling,John Stones,2
+Raheem Sterling,Jordan Brian Henderson,1
+Raheem Sterling,Kalvin Phillips,2
+Raheem Sterling,Kieran Trippier,1
+Raheem Sterling,Kyle Walker,2
+Raheem Sterling,Luke Shaw,2
+Raheem Sterling,Mason Mount,2

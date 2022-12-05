@@ -1,0 +1,147 @@
+passer,recipient,n_passes_completed
+Andrea Belotti,Bryan Cristante,1
+Andrea Belotti,Federico Chiesa,1
+Andrea Belotti,Giovanni Di Lorenzo,1
+Andrea Belotti,Jorge Luiz Frello Filho,2
+Andrea Belotti,Lorenzo Insigne,1
+Andrea Belotti,Manuel Locatelli,1
+Andrea Belotti,Matteo Pessina,2
+Bryan Cristante,Andrea Belotti,2
+Bryan Cristante,Giovanni Di Lorenzo,1
+Ciro Immobile,Domenico Berardi,1
+Ciro Immobile,Gianluigi Donnarumma,1
+Ciro Immobile,Giovanni Di Lorenzo,1
+Ciro Immobile,Jorge Luiz Frello Filho,4
+Ciro Immobile,Leonardo Bonucci,1
+Ciro Immobile,Lorenzo Insigne,3
+Ciro Immobile,Marco Verratti,5
+Ciro Immobile,Matteo Pessina,1
+Ciro Immobile,Nicolò Barella,2
+Domenico Berardi,Ciro Immobile,4
+Domenico Berardi,Francesco Acerbi,1
+Domenico Berardi,Giovanni Di Lorenzo,6
+Domenico Berardi,Jorge Luiz Frello Filho,3
+Domenico Berardi,Leonardo Bonucci,1
+Domenico Berardi,Marco Verratti,3
+Domenico Berardi,Nicolò Barella,5
+Federico Chiesa,Andrea Belotti,1
+Federico Chiesa,Giovanni Di Lorenzo,1
+Federico Chiesa,Jorge Luiz Frello Filho,2
+Federico Chiesa,Leonardo Spinazzola,1
+Federico Chiesa,Lorenzo Insigne,1
+Federico Chiesa,Matteo Pessina,1
+Francesco Acerbi,Bryan Cristante,1
+Francesco Acerbi,Ciro Immobile,3
+Francesco Acerbi,Gianluigi Donnarumma,4
+Francesco Acerbi,Giovanni Di Lorenzo,6
+Francesco Acerbi,Jorge Luiz Frello Filho,13
+Francesco Acerbi,Leonardo Bonucci,7
+Francesco Acerbi,Leonardo Spinazzola,9
+Francesco Acerbi,Lorenzo Insigne,10
+Francesco Acerbi,Manuel Locatelli,4
+Francesco Acerbi,Marco Verratti,15
+Francesco Acerbi,Matteo Pessina,1
+Gianluigi Donnarumma,Andrea Belotti,2
+Gianluigi Donnarumma,Bryan Cristante,1
+Gianluigi Donnarumma,Francesco Acerbi,8
+Gianluigi Donnarumma,Giovanni Di Lorenzo,6
+Gianluigi Donnarumma,Jorge Luiz Frello Filho,3
+Gianluigi Donnarumma,Leonardo Bonucci,6
+Gianluigi Donnarumma,Leonardo Spinazzola,3
+Gianluigi Donnarumma,Lorenzo Insigne,1
+Gianluigi Donnarumma,Manuel Locatelli,1
+Gianluigi Donnarumma,Marco Verratti,2
+Gianluigi Donnarumma,Nicolò Barella,1
+Giovanni Di Lorenzo,Andrea Belotti,3
+Giovanni Di Lorenzo,Bryan Cristante,1
+Giovanni Di Lorenzo,Ciro Immobile,1
+Giovanni Di Lorenzo,Domenico Berardi,13
+Giovanni Di Lorenzo,Federico Chiesa,3
+Giovanni Di Lorenzo,Francesco Acerbi,1
+Giovanni Di Lorenzo,Gianluigi Donnarumma,4
+Giovanni Di Lorenzo,Jorge Luiz Frello Filho,21
+Giovanni Di Lorenzo,Leonardo Bonucci,10
+Giovanni Di Lorenzo,Lorenzo Insigne,1
+Giovanni Di Lorenzo,Marco Verratti,2
+Giovanni Di Lorenzo,Matteo Pessina,5
+Giovanni Di Lorenzo,Nicolò Barella,10
+Jorge Luiz Frello Filho,Andrea Belotti,1
+Jorge Luiz Frello Filho,Ciro Immobile,7
+Jorge Luiz Frello Filho,Domenico Berardi,3
+Jorge Luiz Frello Filho,Federico Chiesa,4
+Jorge Luiz Frello Filho,Francesco Acerbi,10
+Jorge Luiz Frello Filho,Giovanni Di Lorenzo,19
+Jorge Luiz Frello Filho,Leonardo Bonucci,15
+Jorge Luiz Frello Filho,Leonardo Spinazzola,6
+Jorge Luiz Frello Filho,Lorenzo Insigne,7
+Jorge Luiz Frello Filho,Manuel Locatelli,8
+Jorge Luiz Frello Filho,Marco Verratti,15
+Jorge Luiz Frello Filho,Matteo Pessina,2
+Jorge Luiz Frello Filho,Nicolò Barella,1
+Leonardo Bonucci,Andrea Belotti,1
+Leonardo Bonucci,Ciro Immobile,1
+Leonardo Bonucci,Domenico Berardi,1
+Leonardo Bonucci,Francesco Acerbi,12
+Leonardo Bonucci,Gianluigi Donnarumma,6
+Leonardo Bonucci,Giovanni Di Lorenzo,9
+Leonardo Bonucci,Jorge Luiz Frello Filho,6
+Leonardo Bonucci,Leonardo Spinazzola,3
+Leonardo Bonucci,Lorenzo Insigne,1
+Leonardo Bonucci,Manuel Locatelli,1
+Leonardo Bonucci,Marco Verratti,5
+Leonardo Bonucci,Matteo Pessina,1
+Leonardo Bonucci,Nicolò Barella,4
+Leonardo Spinazzola,Ciro Immobile,2
+Leonardo Spinazzola,Domenico Berardi,2
+Leonardo Spinazzola,Federico Chiesa,3
+Leonardo Spinazzola,Francesco Acerbi,9
+Leonardo Spinazzola,Jorge Luiz Frello Filho,7
+Leonardo Spinazzola,Leonardo Bonucci,2
+Leonardo Spinazzola,Lorenzo Insigne,14
+Leonardo Spinazzola,Marco Verratti,9
+Leonardo Spinazzola,Nicolò Barella,2
+Lorenzo Insigne,Andrea Belotti,4
+Lorenzo Insigne,Ciro Immobile,4
+Lorenzo Insigne,Domenico Berardi,2
+Lorenzo Insigne,Francesco Acerbi,7
+Lorenzo Insigne,Giovanni Di Lorenzo,2
+Lorenzo Insigne,Jorge Luiz Frello Filho,7
+Lorenzo Insigne,Leonardo Bonucci,1
+Lorenzo Insigne,Leonardo Spinazzola,8
+Lorenzo Insigne,Manuel Locatelli,1
+Lorenzo Insigne,Marco Verratti,10
+Lorenzo Insigne,Nicolò Barella,2
+Manuel Locatelli,Andrea Belotti,1
+Manuel Locatelli,Bryan Cristante,1
+Manuel Locatelli,Ciro Immobile,1
+Manuel Locatelli,Domenico Berardi,1
+Manuel Locatelli,Federico Chiesa,1
+Manuel Locatelli,Francesco Acerbi,3
+Manuel Locatelli,Jorge Luiz Frello Filho,4
+Manuel Locatelli,Leonardo Bonucci,2
+Manuel Locatelli,Leonardo Spinazzola,3
+Manuel Locatelli,Lorenzo Insigne,2
+Manuel Locatelli,Matteo Pessina,1
+Marco Verratti,Ciro Immobile,3
+Marco Verratti,Domenico Berardi,3
+Marco Verratti,Francesco Acerbi,11
+Marco Verratti,Giovanni Di Lorenzo,3
+Marco Verratti,Jorge Luiz Frello Filho,15
+Marco Verratti,Leonardo Bonucci,3
+Marco Verratti,Leonardo Spinazzola,11
+Marco Verratti,Lorenzo Insigne,14
+Marco Verratti,Nicolò Barella,6
+Matteo Pessina,Andrea Belotti,2
+Matteo Pessina,Domenico Berardi,1
+Matteo Pessina,Francesco Acerbi,1
+Matteo Pessina,Giovanni Di Lorenzo,2
+Matteo Pessina,Jorge Luiz Frello Filho,3
+Matteo Pessina,Manuel Locatelli,1
+Nicolò Barella,Ciro Immobile,5
+Nicolò Barella,Domenico Berardi,5
+Nicolò Barella,Giovanni Di Lorenzo,4
+Nicolò Barella,Jorge Luiz Frello Filho,1
+Nicolò Barella,Leonardo Bonucci,1
+Nicolò Barella,Leonardo Spinazzola,2
+Nicolò Barella,Lorenzo Insigne,1
+Nicolò Barella,Marco Verratti,3

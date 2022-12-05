@@ -1,0 +1,128 @@
+passer,recipient,n_passes_completed
+Alessandro Bastoni,Andrea Belotti,2
+Alessandro Bastoni,Bryan Cristante,3
+Alessandro Bastoni,Emerson Palmieri dos Santos,12
+Alessandro Bastoni,Federico Bernardeschi,3
+Alessandro Bastoni,Federico Chiesa,2
+Alessandro Bastoni,Francesco Acerbi,10
+Alessandro Bastoni,Giacomo Raspadori,1
+Alessandro Bastoni,Gianluigi Donnarumma,3
+Alessandro Bastoni,Jorge Luiz Frello Filho,7
+Alessandro Bastoni,Leonardo Bonucci,15
+Alessandro Bastoni,Marco Verratti,18
+Alessandro Bastoni,Rafael Tolói,2
+Andrea Belotti,Emerson Palmieri dos Santos,1
+Andrea Belotti,Federico Chiesa,1
+Andrea Belotti,Jorge Luiz Frello Filho,1
+Andrea Belotti,Marco Verratti,1
+Andrea Belotti,Matteo Pessina,1
+Bryan Cristante,Alessandro Bastoni,6
+Bryan Cristante,Emerson Palmieri dos Santos,1
+Bryan Cristante,Federico Chiesa,2
+Bryan Cristante,Francesco Acerbi,3
+Bryan Cristante,Giacomo Raspadori,1
+Bryan Cristante,Marco Verratti,2
+Bryan Cristante,Rafael Tolói,2
+Bryan Cristante,Salvatore Sirigu,1
+Emerson Palmieri dos Santos,Alessandro Bastoni,19
+Emerson Palmieri dos Santos,Bryan Cristante,2
+Emerson Palmieri dos Santos,Federico Bernardeschi,1
+Emerson Palmieri dos Santos,Federico Chiesa,2
+Emerson Palmieri dos Santos,Francesco Acerbi,1
+Emerson Palmieri dos Santos,Giacomo Raspadori,1
+Emerson Palmieri dos Santos,Jorge Luiz Frello Filho,2
+Emerson Palmieri dos Santos,Marco Verratti,16
+Emerson Palmieri dos Santos,Matteo Pessina,1
+Federico Bernardeschi,Andrea Belotti,1
+Federico Bernardeschi,Emerson Palmieri dos Santos,4
+Federico Bernardeschi,Federico Chiesa,1
+Federico Bernardeschi,Jorge Luiz Frello Filho,2
+Federico Bernardeschi,Marco Verratti,7
+Federico Bernardeschi,Matteo Pessina,3
+Federico Bernardeschi,Rafael Tolói,4
+Federico Chiesa,Andrea Belotti,3
+Federico Chiesa,Emerson Palmieri dos Santos,3
+Federico Chiesa,Federico Bernardeschi,1
+Federico Chiesa,Francesco Acerbi,1
+Federico Chiesa,Gaetano Castrovilli,2
+Federico Chiesa,Giacomo Raspadori,1
+Federico Chiesa,Leonardo Bonucci,3
+Federico Chiesa,Marco Verratti,7
+Federico Chiesa,Matteo Pessina,3
+Federico Chiesa,Rafael Tolói,2
+Francesco Acerbi,Alessandro Bastoni,5
+Francesco Acerbi,Bryan Cristante,5
+Francesco Acerbi,Emerson Palmieri dos Santos,1
+Francesco Acerbi,Federico Bernardeschi,1
+Francesco Acerbi,Federico Chiesa,5
+Francesco Acerbi,Gianluigi Donnarumma,2
+Francesco Acerbi,Jorge Luiz Frello Filho,3
+Francesco Acerbi,Marco Verratti,16
+Francesco Acerbi,Matteo Pessina,3
+Francesco Acerbi,Rafael Tolói,14
+Gaetano Castrovilli,Alessandro Bastoni,1
+Gaetano Castrovilli,Federico Chiesa,1
+Gaetano Castrovilli,Rafael Tolói,1
+Giacomo Raspadori,Alessandro Bastoni,1
+Giacomo Raspadori,Bryan Cristante,1
+Giacomo Raspadori,Federico Chiesa,1
+Giacomo Raspadori,Matteo Pessina,1
+Gianluigi Donnarumma,Alessandro Bastoni,5
+Gianluigi Donnarumma,Andrea Belotti,1
+Gianluigi Donnarumma,Bryan Cristante,1
+Gianluigi Donnarumma,Francesco Acerbi,4
+Gianluigi Donnarumma,Leonardo Bonucci,7
+Gianluigi Donnarumma,Marco Verratti,1
+Gianluigi Donnarumma,Rafael Tolói,2
+Jorge Luiz Frello Filho,Alessandro Bastoni,5
+Jorge Luiz Frello Filho,Andrea Belotti,2
+Jorge Luiz Frello Filho,Emerson Palmieri dos Santos,3
+Jorge Luiz Frello Filho,Federico Bernardeschi,4
+Jorge Luiz Frello Filho,Federico Chiesa,2
+Jorge Luiz Frello Filho,Francesco Acerbi,5
+Jorge Luiz Frello Filho,Leonardo Bonucci,5
+Jorge Luiz Frello Filho,Marco Verratti,16
+Jorge Luiz Frello Filho,Matteo Pessina,3
+Jorge Luiz Frello Filho,Rafael Tolói,5
+Leonardo Bonucci,Alessandro Bastoni,11
+Leonardo Bonucci,Andrea Belotti,2
+Leonardo Bonucci,Emerson Palmieri dos Santos,2
+Leonardo Bonucci,Federico Chiesa,2
+Leonardo Bonucci,Gianluigi Donnarumma,4
+Leonardo Bonucci,Jorge Luiz Frello Filho,6
+Leonardo Bonucci,Marco Verratti,12
+Leonardo Bonucci,Matteo Pessina,4
+Leonardo Bonucci,Rafael Tolói,11
+Marco Verratti,Alessandro Bastoni,21
+Marco Verratti,Andrea Belotti,2
+Marco Verratti,Bryan Cristante,5
+Marco Verratti,Emerson Palmieri dos Santos,10
+Marco Verratti,Federico Bernardeschi,15
+Marco Verratti,Federico Chiesa,5
+Marco Verratti,Francesco Acerbi,10
+Marco Verratti,Gaetano Castrovilli,1
+Marco Verratti,Gianluigi Donnarumma,1
+Marco Verratti,Jorge Luiz Frello Filho,16
+Marco Verratti,Leonardo Bonucci,10
+Marco Verratti,Matteo Pessina,6
+Marco Verratti,Rafael Tolói,6
+Matteo Pessina,Andrea Belotti,1
+Matteo Pessina,Emerson Palmieri dos Santos,2
+Matteo Pessina,Federico Bernardeschi,2
+Matteo Pessina,Federico Chiesa,5
+Matteo Pessina,Francesco Acerbi,2
+Matteo Pessina,Jorge Luiz Frello Filho,2
+Matteo Pessina,Leonardo Bonucci,1
+Matteo Pessina,Marco Verratti,3
+Matteo Pessina,Rafael Tolói,7
+Rafael Tolói,Andrea Belotti,2
+Rafael Tolói,Federico Bernardeschi,3
+Rafael Tolói,Federico Chiesa,9
+Rafael Tolói,Francesco Acerbi,14
+Rafael Tolói,Gaetano Castrovilli,1
+Rafael Tolói,Gianluigi Donnarumma,2
+Rafael Tolói,Jorge Luiz Frello Filho,6
+Rafael Tolói,Leonardo Bonucci,13
+Rafael Tolói,Marco Verratti,5
+Rafael Tolói,Matteo Pessina,4
+Salvatore Sirigu,Francesco Acerbi,1

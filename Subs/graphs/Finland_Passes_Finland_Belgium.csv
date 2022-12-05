@@ -1,0 +1,116 @@
+passer,recipient,n_passes_completed
+"Daniel O""Shaughnessy",Glen Kamara,7
+"Daniel O""Shaughnessy",Jere Juhani Uronen,13
+"Daniel O""Shaughnessy",Joni Ensio Kauko,1
+"Daniel O""Shaughnessy",Joona Toivio,3
+"Daniel O""Shaughnessy",Jukka Raitala,1
+"Daniel O""Shaughnessy",Lukáš Hrádecký,7
+"Daniel O""Shaughnessy",Paulus Arajuuri,9
+"Daniel O""Shaughnessy",Teemu Pukki,2
+"Daniel O""Shaughnessy",Tim Sparv,8
+Fredrik Jensen,Joni Ensio Kauko,1
+Glen Kamara,"Daniel O""Shaughnessy",6
+Glen Kamara,Jere Juhani Uronen,7
+Glen Kamara,Joni Ensio Kauko,2
+Glen Kamara,Joona Toivio,3
+Glen Kamara,Jukka Raitala,4
+Glen Kamara,Paulus Arajuuri,5
+Glen Kamara,Rasmus Schüller,4
+Glen Kamara,Robin Lod,8
+Glen Kamara,Teemu Pukki,5
+Glen Kamara,Tim Sparv,8
+Jere Juhani Uronen,"Daniel O""Shaughnessy",11
+Jere Juhani Uronen,Glen Kamara,8
+Jere Juhani Uronen,Joel Pohjanpalo,4
+Jere Juhani Uronen,Jukka Raitala,1
+Jere Juhani Uronen,Lukáš Hrádecký,2
+Jere Juhani Uronen,Teemu Pukki,3
+Jere Juhani Uronen,Tim Sparv,2
+Joel Pohjanpalo,Glen Kamara,5
+Joel Pohjanpalo,Jere Juhani Uronen,1
+Joel Pohjanpalo,Robin Lod,4
+Joel Pohjanpalo,Tim Sparv,1
+Joni Ensio Kauko,Glen Kamara,1
+Joni Ensio Kauko,Jukka Raitala,2
+Joni Ensio Kauko,Marcus Forss,1
+Joni Ensio Kauko,Nikolai Alho,2
+Joni Ensio Kauko,Paulus Arajuuri,2
+Joni Ensio Kauko,Rasmus Schüller,1
+Joni Ensio Kauko,Robin Lod,1
+Joona Toivio,Glen Kamara,4
+Joona Toivio,Joel Pohjanpalo,1
+Joona Toivio,Joni Ensio Kauko,3
+Joona Toivio,Jukka Raitala,7
+Joona Toivio,Lukáš Hrádecký,4
+Joona Toivio,Nikolai Alho,2
+Joona Toivio,Paulus Arajuuri,10
+Joona Toivio,Rasmus Schüller,1
+Joona Toivio,Robin Lod,5
+Joona Toivio,Teemu Pukki,1
+Joona Toivio,Tim Sparv,3
+Jukka Raitala,"Daniel O""Shaughnessy",2
+Jukka Raitala,Glen Kamara,5
+Jukka Raitala,Joel Pohjanpalo,1
+Jukka Raitala,Joona Toivio,4
+Jukka Raitala,Rasmus Schüller,2
+Jukka Raitala,Robin Lod,4
+Jukka Raitala,Teemu Pukki,1
+Jukka Raitala,Tim Sparv,1
+Lukáš Hrádecký,"Daniel O""Shaughnessy",2
+Lukáš Hrádecký,Glen Kamara,1
+Lukáš Hrádecký,Jere Juhani Uronen,4
+Lukáš Hrádecký,Joel Pohjanpalo,1
+Lukáš Hrádecký,Joona Toivio,5
+Lukáš Hrádecký,Jukka Raitala,2
+Lukáš Hrádecký,Paulus Arajuuri,1
+Lukáš Hrádecký,Teemu Pukki,1
+Nikolai Alho,Joni Ensio Kauko,2
+Nikolai Alho,Joona Toivio,1
+Nikolai Alho,Rasmus Schüller,1
+Paulus Arajuuri,"Daniel O""Shaughnessy",14
+Paulus Arajuuri,Fredrik Jensen,1
+Paulus Arajuuri,Glen Kamara,5
+Paulus Arajuuri,Jere Juhani Uronen,3
+Paulus Arajuuri,Joel Pohjanpalo,3
+Paulus Arajuuri,Joni Ensio Kauko,1
+Paulus Arajuuri,Joona Toivio,10
+Paulus Arajuuri,Jukka Raitala,1
+Paulus Arajuuri,Lukáš Hrádecký,2
+Paulus Arajuuri,Nikolai Alho,1
+Paulus Arajuuri,Robin Lod,2
+Rasmus Schüller,"Daniel O""Shaughnessy",2
+Rasmus Schüller,Glen Kamara,7
+Rasmus Schüller,Joni Ensio Kauko,1
+Rasmus Schüller,Joona Toivio,1
+Rasmus Schüller,Jukka Raitala,5
+Rasmus Schüller,Nikolai Alho,1
+Rasmus Schüller,Paulus Arajuuri,1
+Rasmus Schüller,Robin Lod,1
+Rasmus Schüller,Teemu Pukki,1
+Robin Lod,"Daniel O""Shaughnessy",1
+Robin Lod,Glen Kamara,3
+Robin Lod,Jere Juhani Uronen,1
+Robin Lod,Joel Pohjanpalo,1
+Robin Lod,Joni Ensio Kauko,1
+Robin Lod,Joona Toivio,3
+Robin Lod,Jukka Raitala,3
+Robin Lod,Paulus Arajuuri,1
+Robin Lod,Rasmus Schüller,5
+Robin Lod,Teemu Pukki,3
+Robin Lod,Tim Sparv,5
+Teemu Pukki,Glen Kamara,2
+Teemu Pukki,Jere Juhani Uronen,1
+Teemu Pukki,Joel Pohjanpalo,5
+Teemu Pukki,Joona Toivio,1
+Teemu Pukki,Rasmus Schüller,1
+Teemu Pukki,Robin Lod,4
+Teemu Pukki,Tim Sparv,1
+Tim Sparv,"Daniel O""Shaughnessy",10
+Tim Sparv,Glen Kamara,4
+Tim Sparv,Jere Juhani Uronen,5
+Tim Sparv,Joel Pohjanpalo,1
+Tim Sparv,Joona Toivio,5
+Tim Sparv,Jukka Raitala,2
+Tim Sparv,Paulus Arajuuri,2
+Tim Sparv,Robin Lod,4
+Tim Sparv,Teemu Pukki,3

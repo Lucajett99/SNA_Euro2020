@@ -1,0 +1,167 @@
+passer,recipient,n_passes_completed
+Aymeric Laporte,César Azpilicueta Tanco,2
+Aymeric Laporte,Daniel Olmo Carvajal,9
+Aymeric Laporte,Eric García Martret,29
+Aymeric Laporte,Ferrán Torres García,2
+Aymeric Laporte,Gerard Moreno Balaguero,3
+Aymeric Laporte,Jordi Alba Ramos,29
+Aymeric Laporte,Jorge Resurrección Merodio,7
+Aymeric Laporte,Marcos Llorente Moreno,1
+Aymeric Laporte,Mikel Oyarzabal Ugarte,3
+Aymeric Laporte,Pau Francisco Torres,4
+Aymeric Laporte,Pedro González López,9
+Aymeric Laporte,Rodrigo Hernández Cascante,4
+Aymeric Laporte,Sergio Busquets i Burgos,14
+Aymeric Laporte,Thiago Alcântara do Nascimento,3
+Aymeric Laporte,Unai Simón Mendibil,11
+Aymeric Laporte,Álvaro Borja Morata Martín,2
+César Azpilicueta Tanco,Daniel Olmo Carvajal,2
+César Azpilicueta Tanco,Eric García Martret,22
+César Azpilicueta Tanco,Jorge Resurrección Merodio,15
+César Azpilicueta Tanco,Mikel Oyarzabal Ugarte,9
+César Azpilicueta Tanco,Pedro González López,1
+César Azpilicueta Tanco,Rodrigo Hernández Cascante,2
+César Azpilicueta Tanco,Sergio Busquets i Burgos,6
+César Azpilicueta Tanco,Unai Simón Mendibil,4
+César Azpilicueta Tanco,Álvaro Borja Morata Martín,1
+Daniel Olmo Carvajal,Aymeric Laporte,1
+Daniel Olmo Carvajal,César Azpilicueta Tanco,4
+Daniel Olmo Carvajal,Eric García Martret,2
+Daniel Olmo Carvajal,Ferrán Torres García,2
+Daniel Olmo Carvajal,Jordi Alba Ramos,3
+Daniel Olmo Carvajal,Jorge Resurrección Merodio,2
+Daniel Olmo Carvajal,Mikel Oyarzabal Ugarte,1
+Daniel Olmo Carvajal,Pedro González López,8
+Daniel Olmo Carvajal,Rodrigo Hernández Cascante,1
+Daniel Olmo Carvajal,Sergio Busquets i Burgos,1
+Daniel Olmo Carvajal,Álvaro Borja Morata Martín,5
+Eric García Martret,Aymeric Laporte,44
+Eric García Martret,César Azpilicueta Tanco,21
+Eric García Martret,Daniel Olmo Carvajal,4
+Eric García Martret,Ferrán Torres García,1
+Eric García Martret,Gerard Moreno Balaguero,3
+Eric García Martret,Jordi Alba Ramos,2
+Eric García Martret,Jorge Resurrección Merodio,5
+Eric García Martret,Marcos Llorente Moreno,5
+Eric García Martret,Mikel Oyarzabal Ugarte,3
+Eric García Martret,Pedro González López,4
+Eric García Martret,Rodrigo Hernández Cascante,11
+Eric García Martret,Sergio Busquets i Burgos,11
+Eric García Martret,Unai Simón Mendibil,14
+Ferrán Torres García,Aymeric Laporte,4
+Ferrán Torres García,Daniel Olmo Carvajal,2
+Ferrán Torres García,Jordi Alba Ramos,8
+Ferrán Torres García,Jorge Resurrección Merodio,1
+Ferrán Torres García,Pedro González López,5
+Gerard Moreno Balaguero,César Azpilicueta Tanco,2
+Gerard Moreno Balaguero,Eric García Martret,1
+Gerard Moreno Balaguero,Jordi Alba Ramos,1
+Gerard Moreno Balaguero,Marcos Llorente Moreno,3
+Gerard Moreno Balaguero,Pedro González López,1
+Gerard Moreno Balaguero,Rodrigo Hernández Cascante,5
+Gerard Moreno Balaguero,Sergio Busquets i Burgos,1
+Gerard Moreno Balaguero,Thiago Alcântara do Nascimento,1
+Gerard Moreno Balaguero,Álvaro Borja Morata Martín,2
+Jordi Alba Ramos,Aymeric Laporte,15
+Jordi Alba Ramos,Daniel Olmo Carvajal,12
+Jordi Alba Ramos,Eric García Martret,7
+Jordi Alba Ramos,Ferrán Torres García,12
+Jordi Alba Ramos,Jorge Resurrección Merodio,2
+Jordi Alba Ramos,Marcos Llorente Moreno,2
+Jordi Alba Ramos,Mikel Oyarzabal Ugarte,4
+Jordi Alba Ramos,Pau Francisco Torres,2
+Jordi Alba Ramos,Pedro González López,11
+Jordi Alba Ramos,Rodrigo Hernández Cascante,2
+Jordi Alba Ramos,Sergio Busquets i Burgos,10
+Jordi Alba Ramos,Unai Simón Mendibil,3
+Jordi Alba Ramos,Álvaro Borja Morata Martín,3
+Jorge Resurrección Merodio,Aymeric Laporte,11
+Jorge Resurrección Merodio,César Azpilicueta Tanco,11
+Jorge Resurrección Merodio,Daniel Olmo Carvajal,4
+Jorge Resurrección Merodio,Eric García Martret,6
+Jorge Resurrección Merodio,Jordi Alba Ramos,2
+Jorge Resurrección Merodio,Mikel Oyarzabal Ugarte,8
+Jorge Resurrección Merodio,Pedro González López,2
+Jorge Resurrección Merodio,Sergio Busquets i Burgos,6
+Jorge Resurrección Merodio,Álvaro Borja Morata Martín,2
+Marcos Llorente Moreno,Aymeric Laporte,2
+Marcos Llorente Moreno,Daniel Olmo Carvajal,1
+Marcos Llorente Moreno,Eric García Martret,5
+Marcos Llorente Moreno,Gerard Moreno Balaguero,6
+Marcos Llorente Moreno,Rodrigo Hernández Cascante,5
+Marcos Llorente Moreno,Sergio Busquets i Burgos,2
+Marcos Llorente Moreno,Thiago Alcântara do Nascimento,2
+Marcos Llorente Moreno,Unai Simón Mendibil,3
+Mikel Oyarzabal Ugarte,César Azpilicueta Tanco,4
+Mikel Oyarzabal Ugarte,Daniel Olmo Carvajal,3
+Mikel Oyarzabal Ugarte,Eric García Martret,2
+Mikel Oyarzabal Ugarte,Jordi Alba Ramos,1
+Mikel Oyarzabal Ugarte,Jorge Resurrección Merodio,8
+Mikel Oyarzabal Ugarte,Pedro González López,1
+Mikel Oyarzabal Ugarte,Sergio Busquets i Burgos,5
+Pau Francisco Torres,Aymeric Laporte,3
+Pau Francisco Torres,Daniel Olmo Carvajal,1
+Pau Francisco Torres,Gerard Moreno Balaguero,1
+Pau Francisco Torres,Jordi Alba Ramos,2
+Pau Francisco Torres,Pedro González López,2
+Pau Francisco Torres,Rodrigo Hernández Cascante,1
+Pau Francisco Torres,Thiago Alcântara do Nascimento,1
+Pau Francisco Torres,Unai Simón Mendibil,3
+Pau Francisco Torres,Álvaro Borja Morata Martín,2
+Pedro González López,Aymeric Laporte,9
+Pedro González López,César Azpilicueta Tanco,2
+Pedro González López,Daniel Olmo Carvajal,4
+Pedro González López,Eric García Martret,8
+Pedro González López,Ferrán Torres García,7
+Pedro González López,Gerard Moreno Balaguero,1
+Pedro González López,Jordi Alba Ramos,16
+Pedro González López,Jorge Resurrección Merodio,1
+Pedro González López,Mikel Oyarzabal Ugarte,2
+Pedro González López,Pau Francisco Torres,3
+Pedro González López,Rodrigo Hernández Cascante,2
+Pedro González López,Sergio Busquets i Burgos,2
+Pedro González López,Unai Simón Mendibil,2
+Pedro González López,Álvaro Borja Morata Martín,2
+Rodrigo Hernández Cascante,Aymeric Laporte,3
+Rodrigo Hernández Cascante,César Azpilicueta Tanco,3
+Rodrigo Hernández Cascante,Daniel Olmo Carvajal,4
+Rodrigo Hernández Cascante,Eric García Martret,9
+Rodrigo Hernández Cascante,Gerard Moreno Balaguero,4
+Rodrigo Hernández Cascante,Marcos Llorente Moreno,9
+Rodrigo Hernández Cascante,Pau Francisco Torres,3
+Rodrigo Hernández Cascante,Pedro González López,2
+Rodrigo Hernández Cascante,Sergio Busquets i Burgos,4
+Rodrigo Hernández Cascante,Thiago Alcântara do Nascimento,1
+Rodrigo Hernández Cascante,Unai Simón Mendibil,1
+Sergio Busquets i Burgos,Aymeric Laporte,9
+Sergio Busquets i Burgos,César Azpilicueta Tanco,6
+Sergio Busquets i Burgos,Daniel Olmo Carvajal,4
+Sergio Busquets i Burgos,Eric García Martret,16
+Sergio Busquets i Burgos,Ferrán Torres García,2
+Sergio Busquets i Burgos,Gerard Moreno Balaguero,3
+Sergio Busquets i Burgos,Jordi Alba Ramos,5
+Sergio Busquets i Burgos,Jorge Resurrección Merodio,6
+Sergio Busquets i Burgos,Marcos Llorente Moreno,1
+Sergio Busquets i Burgos,Mikel Oyarzabal Ugarte,2
+Sergio Busquets i Burgos,Pedro González López,10
+Sergio Busquets i Burgos,Rodrigo Hernández Cascante,3
+Sergio Busquets i Burgos,Unai Simón Mendibil,1
+Thiago Alcântara do Nascimento,Aymeric Laporte,3
+Thiago Alcântara do Nascimento,Pau Francisco Torres,1
+Thiago Alcântara do Nascimento,Rodrigo Hernández Cascante,4
+Unai Simón Mendibil,Aymeric Laporte,22
+Unai Simón Mendibil,César Azpilicueta Tanco,4
+Unai Simón Mendibil,Daniel Olmo Carvajal,2
+Unai Simón Mendibil,Eric García Martret,13
+Unai Simón Mendibil,Gerard Moreno Balaguero,1
+Unai Simón Mendibil,Jordi Alba Ramos,1
+Unai Simón Mendibil,Jorge Resurrección Merodio,2
+Unai Simón Mendibil,Pau Francisco Torres,2
+Unai Simón Mendibil,Pedro González López,1
+Unai Simón Mendibil,Rodrigo Hernández Cascante,1
+Unai Simón Mendibil,Sergio Busquets i Burgos,2
+Álvaro Borja Morata Martín,Daniel Olmo Carvajal,3
+Álvaro Borja Morata Martín,Gerard Moreno Balaguero,2
+Álvaro Borja Morata Martín,Jordi Alba Ramos,3
+Álvaro Borja Morata Martín,Jorge Resurrección Merodio,1
+Álvaro Borja Morata Martín,Pedro González López,1
