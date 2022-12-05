@@ -1,0 +1,59 @@
+passer,recipient,n_passes_completed
+Albin Ekdal,Emil Peter Forsberg,2
+Albin Ekdal,Kristoffer Olsson,1
+Albin Ekdal,Ludwig Augustinsson,3
+Albin Ekdal,Marcus Andreas Danielsson,2
+Albin Ekdal,Mikael Lustig,1
+Alexander Isak,Emil Peter Forsberg,4
+Alexander Isak,Kristoffer Olsson,1
+Alexander Isak,Sebastian Larsson,1
+Emil Peter Forsberg,Alexander Isak,2
+Emil Peter Forsberg,Ludwig Augustinsson,5
+Emil Peter Forsberg,Mikael Lustig,1
+Emil Peter Forsberg,Robin Quaison,2
+Emil Peter Forsberg,Sebastian Larsson,1
+Kristoffer Olsson,Albin Ekdal,2
+Kristoffer Olsson,Alexander Isak,3
+Kristoffer Olsson,Emil Peter Forsberg,1
+Kristoffer Olsson,Marcus Andreas Danielsson,1
+Kristoffer Olsson,Mikael Lustig,4
+Kristoffer Olsson,Robin Olsen,1
+Kristoffer Olsson,Sebastian Larsson,4
+Ludwig Augustinsson,Albin Ekdal,3
+Ludwig Augustinsson,Alexander Isak,2
+Ludwig Augustinsson,Emil Peter Forsberg,2
+Ludwig Augustinsson,Kristoffer Olsson,2
+Ludwig Augustinsson,Marcus Andreas Danielsson,2
+Ludwig Augustinsson,Mikael Lustig,1
+Ludwig Augustinsson,Robin Quaison,1
+Marcus Andreas Danielsson,Albin Ekdal,1
+Marcus Andreas Danielsson,Ludwig Augustinsson,1
+Marcus Andreas Danielsson,Mikael Lustig,1
+Marcus Andreas Danielsson,Robin Olsen,2
+Marcus Andreas Danielsson,Robin Quaison,1
+Mikael Lustig,Albin Ekdal,2
+Mikael Lustig,Alexander Isak,2
+Mikael Lustig,Emil Peter Forsberg,1
+Mikael Lustig,Kristoffer Olsson,3
+Mikael Lustig,Robin Quaison,3
+Mikael Lustig,Sebastian Larsson,5
+Mikael Lustig,Victor Nilsson Lindelöf,1
+Robin Olsen,Alexander Isak,2
+Robin Olsen,Marcus Andreas Danielsson,1
+Robin Olsen,Mikael Lustig,1
+Robin Olsen,Sebastian Larsson,1
+Robin Olsen,Victor Nilsson Lindelöf,1
+Robin Quaison,Alexander Isak,1
+Robin Quaison,Emil Peter Forsberg,1
+Robin Quaison,Ludwig Augustinsson,2
+Robin Quaison,Sebastian Larsson,1
+Sebastian Larsson,Alexander Isak,1
+Sebastian Larsson,Emil Peter Forsberg,1
+Sebastian Larsson,Kristoffer Olsson,3
+Sebastian Larsson,Marcus Andreas Danielsson,1
+Sebastian Larsson,Mikael Lustig,7
+Sebastian Larsson,Robin Quaison,1
+Sebastian Larsson,Victor Nilsson Lindelöf,3
+Victor Nilsson Lindelöf,Kristoffer Olsson,3
+Victor Nilsson Lindelöf,Mikael Lustig,6
+Victor Nilsson Lindelöf,Sebastian Larsson,4

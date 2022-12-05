@@ -1,0 +1,89 @@
+passer,recipient,n_passes_completed
+Andreas Christensen,Jannik Vestergaard,1
+Andreas Christensen,Jens Stryger Larsen,6
+Andreas Christensen,Kasper Dolberg,2
+Andreas Christensen,Kasper Schmeichel,2
+Andreas Christensen,Mikkel Damsgaard,3
+Andreas Christensen,Pierre-Emile Højbjerg,5
+Andreas Christensen,Simon Thorup Kjær,4
+Andreas Christensen,Thomas Delaney,4
+Jannik Vestergaard,Andreas Christensen,2
+Jannik Vestergaard,Jens Stryger Larsen,1
+Jannik Vestergaard,Joakim Mæhle,5
+Jannik Vestergaard,Kasper Schmeichel,5
+Jannik Vestergaard,Martin Braithwaite Christensen,1
+Jannik Vestergaard,Mikkel Damsgaard,1
+Jannik Vestergaard,Pierre-Emile Højbjerg,1
+Jannik Vestergaard,Simon Thorup Kjær,1
+Jannik Vestergaard,Thomas Delaney,3
+Jens Stryger Larsen,Andreas Christensen,5
+Jens Stryger Larsen,Jannik Vestergaard,1
+Jens Stryger Larsen,Joakim Mæhle,1
+Jens Stryger Larsen,Kasper Dolberg,5
+Jens Stryger Larsen,Martin Braithwaite Christensen,2
+Jens Stryger Larsen,Mikkel Damsgaard,4
+Jens Stryger Larsen,Pierre-Emile Højbjerg,7
+Jens Stryger Larsen,Simon Thorup Kjær,3
+Jens Stryger Larsen,Thomas Delaney,3
+Joakim Mæhle,Andreas Christensen,1
+Joakim Mæhle,Jannik Vestergaard,5
+Joakim Mæhle,Kasper Dolberg,4
+Joakim Mæhle,Martin Braithwaite Christensen,2
+Joakim Mæhle,Mikkel Damsgaard,2
+Joakim Mæhle,Pierre-Emile Højbjerg,5
+Joakim Mæhle,Simon Thorup Kjær,2
+Joakim Mæhle,Thomas Delaney,5
+Kasper Dolberg,Andreas Christensen,1
+Kasper Dolberg,Jens Stryger Larsen,2
+Kasper Dolberg,Joakim Mæhle,1
+Kasper Dolberg,Martin Braithwaite Christensen,4
+Kasper Dolberg,Mikkel Damsgaard,5
+Kasper Dolberg,Pierre-Emile Højbjerg,1
+Kasper Dolberg,Thomas Delaney,1
+Kasper Schmeichel,Andreas Christensen,5
+Kasper Schmeichel,Jannik Vestergaard,1
+Kasper Schmeichel,Joakim Mæhle,4
+Kasper Schmeichel,Kasper Dolberg,3
+Kasper Schmeichel,Martin Braithwaite Christensen,1
+Kasper Schmeichel,Mikkel Damsgaard,1
+Kasper Schmeichel,Pierre-Emile Højbjerg,2
+Kasper Schmeichel,Thomas Delaney,2
+Martin Braithwaite Christensen,Jannik Vestergaard,1
+Martin Braithwaite Christensen,Jens Stryger Larsen,4
+Martin Braithwaite Christensen,Joakim Mæhle,2
+Martin Braithwaite Christensen,Kasper Dolberg,2
+Martin Braithwaite Christensen,Kasper Schmeichel,1
+Martin Braithwaite Christensen,Mikkel Damsgaard,2
+Martin Braithwaite Christensen,Pierre-Emile Højbjerg,6
+Martin Braithwaite Christensen,Thomas Delaney,3
+Mikkel Damsgaard,Andreas Christensen,1
+Mikkel Damsgaard,Jens Stryger Larsen,3
+Mikkel Damsgaard,Joakim Mæhle,1
+Mikkel Damsgaard,Kasper Dolberg,4
+Mikkel Damsgaard,Martin Braithwaite Christensen,5
+Mikkel Damsgaard,Pierre-Emile Højbjerg,2
+Mikkel Damsgaard,Thomas Delaney,1
+Pierre-Emile Højbjerg,Andreas Christensen,4
+Pierre-Emile Højbjerg,Jannik Vestergaard,6
+Pierre-Emile Højbjerg,Jens Stryger Larsen,7
+Pierre-Emile Højbjerg,Joakim Mæhle,4
+Pierre-Emile Højbjerg,Kasper Dolberg,2
+Pierre-Emile Højbjerg,Kasper Schmeichel,1
+Pierre-Emile Højbjerg,Martin Braithwaite Christensen,3
+Pierre-Emile Højbjerg,Mikkel Damsgaard,3
+Pierre-Emile Højbjerg,Simon Thorup Kjær,4
+Pierre-Emile Højbjerg,Thomas Delaney,1
+Simon Thorup Kjær,Andreas Christensen,3
+Simon Thorup Kjær,Jannik Vestergaard,1
+Simon Thorup Kjær,Jens Stryger Larsen,3
+Simon Thorup Kjær,Joakim Mæhle,1
+Simon Thorup Kjær,Martin Braithwaite Christensen,1
+Simon Thorup Kjær,Pierre-Emile Højbjerg,2
+Simon Thorup Kjær,Thomas Delaney,2
+Thomas Delaney,Andreas Christensen,5
+Thomas Delaney,Jens Stryger Larsen,3
+Thomas Delaney,Joakim Mæhle,4
+Thomas Delaney,Kasper Schmeichel,2
+Thomas Delaney,Martin Braithwaite Christensen,3
+Thomas Delaney,Mikkel Damsgaard,2
+Thomas Delaney,Pierre-Emile Højbjerg,1

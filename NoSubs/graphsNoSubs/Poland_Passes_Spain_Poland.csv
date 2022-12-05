@@ -1,0 +1,64 @@
+passer,recipient,n_passes_completed
+Bartosz Bereszyński,Jakub Moder,1
+Bartosz Bereszyński,Jan Bednarek,1
+Bartosz Bereszyński,Kamil Glik,2
+Bartosz Bereszyński,Kamil Jóźwiak,4
+Bartosz Bereszyński,Karol Świderski,1
+Bartosz Bereszyński,Mateusz Andrzej Klich,2
+Bartosz Bereszyński,Piotr Zieliński,2
+Bartosz Bereszyński,Robert Lewandowski,3
+Bartosz Bereszyński,Wojciech Szczęsny,2
+Jakub Moder,Bartosz Bereszyński,1
+Jakub Moder,Kamil Glik,1
+Jakub Moder,Mateusz Andrzej Klich,2
+Jakub Moder,Piotr Zieliński,1
+Jakub Moder,Robert Lewandowski,3
+Jakub Moder,Tymoteusz Puchacz,1
+Jakub Moder,Wojciech Szczęsny,1
+Jan Bednarek,Jakub Moder,1
+Jan Bednarek,Piotr Zieliński,2
+Jan Bednarek,Tymoteusz Puchacz,4
+Jan Bednarek,Wojciech Szczęsny,1
+Kamil Glik,Bartosz Bereszyński,2
+Kamil Glik,Jakub Moder,1
+Kamil Glik,Jan Bednarek,3
+Kamil Glik,Tymoteusz Puchacz,1
+Kamil Glik,Wojciech Szczęsny,3
+Kamil Jóźwiak,Bartosz Bereszyński,5
+Kamil Jóźwiak,Kamil Glik,2
+Kamil Jóźwiak,Karol Świderski,1
+Kamil Jóźwiak,Mateusz Andrzej Klich,1
+Kamil Jóźwiak,Piotr Zieliński,10
+Kamil Jóźwiak,Robert Lewandowski,3
+Karol Świderski,Piotr Zieliński,1
+Karol Świderski,Robert Lewandowski,1
+Karol Świderski,Tymoteusz Puchacz,1
+Mateusz Andrzej Klich,Bartosz Bereszyński,4
+Mateusz Andrzej Klich,Jakub Moder,1
+Mateusz Andrzej Klich,Jan Bednarek,1
+Mateusz Andrzej Klich,Kamil Glik,2
+Mateusz Andrzej Klich,Kamil Jóźwiak,2
+Mateusz Andrzej Klich,Piotr Zieliński,2
+Mateusz Andrzej Klich,Tymoteusz Puchacz,1
+Mateusz Andrzej Klich,Wojciech Szczęsny,2
+Piotr Zieliński,Bartosz Bereszyński,1
+Piotr Zieliński,Jakub Moder,3
+Piotr Zieliński,Kamil Jóźwiak,4
+Piotr Zieliński,Karol Świderski,3
+Piotr Zieliński,Mateusz Andrzej Klich,6
+Piotr Zieliński,Robert Lewandowski,1
+Piotr Zieliński,Tymoteusz Puchacz,2
+Piotr Zieliński,Wojciech Szczęsny,1
+Robert Lewandowski,Kamil Glik,1
+Robert Lewandowski,Kamil Jóźwiak,2
+Robert Lewandowski,Karol Świderski,2
+Tymoteusz Puchacz,Jakub Moder,4
+Tymoteusz Puchacz,Jan Bednarek,1
+Tymoteusz Puchacz,Piotr Zieliński,1
+Tymoteusz Puchacz,Robert Lewandowski,2
+Tymoteusz Puchacz,Wojciech Szczęsny,2
+Wojciech Szczęsny,Kamil Jóźwiak,2
+Wojciech Szczęsny,Mateusz Andrzej Klich,1
+Wojciech Szczęsny,Piotr Zieliński,1
+Wojciech Szczęsny,Robert Lewandowski,7
+Wojciech Szczęsny,Tymoteusz Puchacz,3

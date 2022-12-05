@@ -1,0 +1,87 @@
+passer,recipient,n_passes_completed
+Aymeric Laporte,Ferrán Torres García,4
+Aymeric Laporte,Jordi Alba Ramos,1
+Aymeric Laporte,Jorge Resurrección Merodio,27
+Aymeric Laporte,Marcos Llorente Moreno,25
+Aymeric Laporte,Pau Francisco Torres,41
+Aymeric Laporte,Pedro González López,7
+Aymeric Laporte,Rodrigo Hernández Cascante,1
+Aymeric Laporte,Álvaro Borja Morata Martín,2
+Daniel Olmo Carvajal,Aymeric Laporte,1
+Daniel Olmo Carvajal,Ferrán Torres García,1
+Daniel Olmo Carvajal,Jordi Alba Ramos,15
+Daniel Olmo Carvajal,Jorge Resurrección Merodio,4
+Daniel Olmo Carvajal,Pau Francisco Torres,1
+Daniel Olmo Carvajal,Pedro González López,6
+Daniel Olmo Carvajal,Álvaro Borja Morata Martín,1
+Ferrán Torres García,Aymeric Laporte,2
+Ferrán Torres García,Jorge Resurrección Merodio,10
+Ferrán Torres García,Marcos Llorente Moreno,9
+Ferrán Torres García,Pedro González López,1
+Ferrán Torres García,Álvaro Borja Morata Martín,5
+Jordi Alba Ramos,Aymeric Laporte,2
+Jordi Alba Ramos,Daniel Olmo Carvajal,26
+Jordi Alba Ramos,Jorge Resurrección Merodio,7
+Jordi Alba Ramos,Marcos Llorente Moreno,1
+Jordi Alba Ramos,Pau Francisco Torres,20
+Jordi Alba Ramos,Pedro González López,34
+Jordi Alba Ramos,Rodrigo Hernández Cascante,5
+Jordi Alba Ramos,Unai Simón Mendibil,3
+Jordi Alba Ramos,Álvaro Borja Morata Martín,3
+Jorge Resurrección Merodio,Aymeric Laporte,21
+Jorge Resurrección Merodio,Daniel Olmo Carvajal,1
+Jorge Resurrección Merodio,Ferrán Torres García,15
+Jorge Resurrección Merodio,Jordi Alba Ramos,8
+Jorge Resurrección Merodio,Marcos Llorente Moreno,23
+Jorge Resurrección Merodio,Pau Francisco Torres,4
+Jorge Resurrección Merodio,Pedro González López,4
+Jorge Resurrección Merodio,Rodrigo Hernández Cascante,13
+Jorge Resurrección Merodio,Álvaro Borja Morata Martín,6
+Marcos Llorente Moreno,Aymeric Laporte,18
+Marcos Llorente Moreno,Daniel Olmo Carvajal,1
+Marcos Llorente Moreno,Ferrán Torres García,14
+Marcos Llorente Moreno,Jordi Alba Ramos,2
+Marcos Llorente Moreno,Jorge Resurrección Merodio,29
+Marcos Llorente Moreno,Pau Francisco Torres,4
+Marcos Llorente Moreno,Pedro González López,2
+Marcos Llorente Moreno,Rodrigo Hernández Cascante,4
+Marcos Llorente Moreno,Unai Simón Mendibil,4
+Marcos Llorente Moreno,Álvaro Borja Morata Martín,2
+Pau Francisco Torres,Aymeric Laporte,30
+Pau Francisco Torres,Ferrán Torres García,1
+Pau Francisco Torres,Jordi Alba Ramos,33
+Pau Francisco Torres,Jorge Resurrección Merodio,5
+Pau Francisco Torres,Marcos Llorente Moreno,1
+Pau Francisco Torres,Pedro González López,30
+Pau Francisco Torres,Rodrigo Hernández Cascante,5
+Pau Francisco Torres,Unai Simón Mendibil,4
+Pau Francisco Torres,Álvaro Borja Morata Martín,1
+Pedro González López,Aymeric Laporte,8
+Pedro González López,Daniel Olmo Carvajal,9
+Pedro González López,Jordi Alba Ramos,33
+Pedro González López,Jorge Resurrección Merodio,8
+Pedro González López,Marcos Llorente Moreno,5
+Pedro González López,Pau Francisco Torres,12
+Pedro González López,Rodrigo Hernández Cascante,7
+Pedro González López,Álvaro Borja Morata Martín,1
+Rodrigo Hernández Cascante,Aymeric Laporte,10
+Rodrigo Hernández Cascante,Daniel Olmo Carvajal,2
+Rodrigo Hernández Cascante,Jordi Alba Ramos,8
+Rodrigo Hernández Cascante,Jorge Resurrección Merodio,7
+Rodrigo Hernández Cascante,Marcos Llorente Moreno,6
+Rodrigo Hernández Cascante,Pau Francisco Torres,8
+Rodrigo Hernández Cascante,Pedro González López,4
+Rodrigo Hernández Cascante,Álvaro Borja Morata Martín,1
+Unai Simón Mendibil,Aymeric Laporte,10
+Unai Simón Mendibil,Jorge Resurrección Merodio,1
+Unai Simón Mendibil,Marcos Llorente Moreno,2
+Unai Simón Mendibil,Pau Francisco Torres,9
+Unai Simón Mendibil,Pedro González López,1
+Álvaro Borja Morata Martín,Aymeric Laporte,2
+Álvaro Borja Morata Martín,Daniel Olmo Carvajal,3
+Álvaro Borja Morata Martín,Ferrán Torres García,2
+Álvaro Borja Morata Martín,Jordi Alba Ramos,5
+Álvaro Borja Morata Martín,Jorge Resurrección Merodio,2
+Álvaro Borja Morata Martín,Marcos Llorente Moreno,1
+Álvaro Borja Morata Martín,Pedro González López,2
+Álvaro Borja Morata Martín,Rodrigo Hernández Cascante,3

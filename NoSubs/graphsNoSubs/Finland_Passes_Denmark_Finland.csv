@@ -1,0 +1,76 @@
+passer,recipient,n_passes_completed
+"Daniel O""Shaughnessy",Glen Kamara,3
+"Daniel O""Shaughnessy",Jere Juhani Uronen,5
+"Daniel O""Shaughnessy",Joel Pohjanpalo,2
+"Daniel O""Shaughnessy",Jukka Raitala,1
+"Daniel O""Shaughnessy",Lukáš Hrádecký,4
+"Daniel O""Shaughnessy",Paulus Arajuuri,4
+"Daniel O""Shaughnessy",Robin Lod,2
+"Daniel O""Shaughnessy",Teemu Pukki,3
+"Daniel O""Shaughnessy",Tim Sparv,2
+Glen Kamara,"Daniel O""Shaughnessy",3
+Glen Kamara,Jere Juhani Uronen,5
+Glen Kamara,Joel Pohjanpalo,1
+Glen Kamara,Joona Toivio,1
+Glen Kamara,Jukka Raitala,6
+Glen Kamara,Lukáš Hrádecký,1
+Glen Kamara,Paulus Arajuuri,2
+Glen Kamara,Robin Lod,5
+Glen Kamara,Tim Sparv,6
+Jere Juhani Uronen,"Daniel O""Shaughnessy",2
+Jere Juhani Uronen,Glen Kamara,5
+Jere Juhani Uronen,Joel Pohjanpalo,1
+Jere Juhani Uronen,Joona Toivio,1
+Jere Juhani Uronen,Robin Lod,2
+Jere Juhani Uronen,Teemu Pukki,1
+Jere Juhani Uronen,Tim Sparv,3
+Joel Pohjanpalo,Glen Kamara,2
+Joel Pohjanpalo,Jukka Raitala,3
+Joona Toivio,Glen Kamara,2
+Joona Toivio,Jukka Raitala,3
+Joona Toivio,Lukáš Hrádecký,4
+Joona Toivio,Paulus Arajuuri,1
+Joona Toivio,Robin Lod,2
+Joona Toivio,Teemu Pukki,3
+Joona Toivio,Tim Sparv,2
+Jukka Raitala,Glen Kamara,6
+Jukka Raitala,Joel Pohjanpalo,3
+Jukka Raitala,Joona Toivio,2
+Jukka Raitala,Paulus Arajuuri,1
+Jukka Raitala,Robin Lod,2
+Jukka Raitala,Teemu Pukki,1
+Jukka Raitala,Tim Sparv,1
+Lukáš Hrádecký,"Daniel O""Shaughnessy",2
+Lukáš Hrádecký,Glen Kamara,2
+Lukáš Hrádecký,Joel Pohjanpalo,5
+Lukáš Hrádecký,Joona Toivio,3
+Lukáš Hrádecký,Paulus Arajuuri,1
+Lukáš Hrádecký,Robin Lod,2
+Lukáš Hrádecký,Teemu Pukki,1
+Lukáš Hrádecký,Tim Sparv,1
+Paulus Arajuuri,"Daniel O""Shaughnessy",6
+Paulus Arajuuri,Jere Juhani Uronen,1
+Paulus Arajuuri,Joona Toivio,5
+Paulus Arajuuri,Jukka Raitala,2
+Paulus Arajuuri,Lukáš Hrádecký,3
+Paulus Arajuuri,Robin Lod,1
+Paulus Arajuuri,Tim Sparv,1
+Robin Lod,Glen Kamara,4
+Robin Lod,Jere Juhani Uronen,1
+Robin Lod,Joel Pohjanpalo,4
+Robin Lod,Jukka Raitala,2
+Robin Lod,Teemu Pukki,2
+Robin Lod,Tim Sparv,4
+Teemu Pukki,Glen Kamara,1
+Teemu Pukki,Jere Juhani Uronen,2
+Teemu Pukki,Joona Toivio,1
+Teemu Pukki,Robin Lod,1
+Teemu Pukki,Tim Sparv,1
+Tim Sparv,"Daniel O""Shaughnessy",2
+Tim Sparv,Glen Kamara,7
+Tim Sparv,Jere Juhani Uronen,2
+Tim Sparv,Joona Toivio,1
+Tim Sparv,Jukka Raitala,3
+Tim Sparv,Lukáš Hrádecký,3
+Tim Sparv,Paulus Arajuuri,5
+Tim Sparv,Robin Lod,1

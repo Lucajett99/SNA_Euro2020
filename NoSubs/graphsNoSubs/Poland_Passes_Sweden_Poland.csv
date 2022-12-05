@@ -1,0 +1,87 @@
+passer,recipient,n_passes_completed
+Bartosz Bereszyński,Grzegorz Krychowiak,9
+Bartosz Bereszyński,Jan Bednarek,5
+Bartosz Bereszyński,Kamil Glik,7
+Bartosz Bereszyński,Kamil Jóźwiak,17
+Bartosz Bereszyński,Karol Świderski,8
+Bartosz Bereszyński,Mateusz Andrzej Klich,6
+Bartosz Bereszyński,Piotr Zieliński,4
+Bartosz Bereszyński,Robert Lewandowski,1
+Bartosz Bereszyński,Wojciech Szczęsny,1
+Grzegorz Krychowiak,Bartosz Bereszyński,5
+Grzegorz Krychowiak,Jan Bednarek,3
+Grzegorz Krychowiak,Kamil Glik,4
+Grzegorz Krychowiak,Kamil Jóźwiak,6
+Grzegorz Krychowiak,Karol Świderski,2
+Grzegorz Krychowiak,Mateusz Andrzej Klich,3
+Grzegorz Krychowiak,Piotr Zieliński,2
+Grzegorz Krychowiak,Robert Lewandowski,1
+Grzegorz Krychowiak,Tymoteusz Puchacz,2
+Jan Bednarek,Bartosz Bereszyński,13
+Jan Bednarek,Grzegorz Krychowiak,7
+Jan Bednarek,Kamil Glik,14
+Jan Bednarek,Kamil Jóźwiak,1
+Jan Bednarek,Mateusz Andrzej Klich,4
+Jan Bednarek,Piotr Zieliński,3
+Jan Bednarek,Robert Lewandowski,2
+Jan Bednarek,Tymoteusz Puchacz,3
+Jan Bednarek,Wojciech Szczęsny,4
+Kamil Glik,Bartosz Bereszyński,16
+Kamil Glik,Grzegorz Krychowiak,4
+Kamil Glik,Jan Bednarek,20
+Kamil Glik,Kamil Jóźwiak,1
+Kamil Glik,Mateusz Andrzej Klich,1
+Kamil Glik,Piotr Zieliński,2
+Kamil Glik,Robert Lewandowski,3
+Kamil Glik,Tymoteusz Puchacz,2
+Kamil Glik,Wojciech Szczęsny,1
+Kamil Jóźwiak,Bartosz Bereszyński,8
+Kamil Jóźwiak,Grzegorz Krychowiak,4
+Kamil Jóźwiak,Kamil Glik,1
+Kamil Jóźwiak,Karol Świderski,4
+Kamil Jóźwiak,Mateusz Andrzej Klich,4
+Kamil Jóźwiak,Piotr Zieliński,11
+Karol Świderski,Bartosz Bereszyński,2
+Karol Świderski,Grzegorz Krychowiak,1
+Karol Świderski,Kamil Glik,4
+Karol Świderski,Kamil Jóźwiak,2
+Karol Świderski,Mateusz Andrzej Klich,1
+Karol Świderski,Piotr Zieliński,2
+Karol Świderski,Tymoteusz Puchacz,1
+Mateusz Andrzej Klich,Bartosz Bereszyński,6
+Mateusz Andrzej Klich,Grzegorz Krychowiak,4
+Mateusz Andrzej Klich,Jan Bednarek,1
+Mateusz Andrzej Klich,Kamil Glik,1
+Mateusz Andrzej Klich,Kamil Jóźwiak,3
+Mateusz Andrzej Klich,Karol Świderski,2
+Mateusz Andrzej Klich,Piotr Zieliński,3
+Mateusz Andrzej Klich,Tymoteusz Puchacz,1
+Mateusz Andrzej Klich,Wojciech Szczęsny,1
+Piotr Zieliński,Bartosz Bereszyński,3
+Piotr Zieliński,Grzegorz Krychowiak,2
+Piotr Zieliński,Jan Bednarek,1
+Piotr Zieliński,Kamil Glik,2
+Piotr Zieliński,Kamil Jóźwiak,7
+Piotr Zieliński,Karol Świderski,1
+Piotr Zieliński,Mateusz Andrzej Klich,5
+Piotr Zieliński,Robert Lewandowski,7
+Piotr Zieliński,Tymoteusz Puchacz,4
+Robert Lewandowski,Bartosz Bereszyński,1
+Robert Lewandowski,Jan Bednarek,1
+Robert Lewandowski,Kamil Glik,1
+Robert Lewandowski,Kamil Jóźwiak,1
+Robert Lewandowski,Karol Świderski,2
+Robert Lewandowski,Mateusz Andrzej Klich,1
+Robert Lewandowski,Piotr Zieliński,4
+Robert Lewandowski,Tymoteusz Puchacz,1
+Tymoteusz Puchacz,Grzegorz Krychowiak,2
+Tymoteusz Puchacz,Jan Bednarek,4
+Tymoteusz Puchacz,Kamil Jóźwiak,1
+Tymoteusz Puchacz,Karol Świderski,3
+Tymoteusz Puchacz,Mateusz Andrzej Klich,3
+Tymoteusz Puchacz,Piotr Zieliński,1
+Wojciech Szczęsny,Bartosz Bereszyński,4
+Wojciech Szczęsny,Jan Bednarek,2
+Wojciech Szczęsny,Kamil Glik,1
+Wojciech Szczęsny,Karol Świderski,2
+Wojciech Szczęsny,Mateusz Andrzej Klich,2

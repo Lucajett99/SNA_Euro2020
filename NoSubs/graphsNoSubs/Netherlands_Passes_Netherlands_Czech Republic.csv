@@ -1,0 +1,74 @@
+passer,recipient,n_passes_completed
+Daley Blind,Donyell Malen,2
+Daley Blind,Frenkie de Jong,10
+Daley Blind,Georginio Wijnaldum,2
+Daley Blind,Maarten Stekelenburg,6
+Daley Blind,Marten de Roon,5
+Daley Blind,Matthijs de Ligt,5
+Daley Blind,Memphis Depay,14
+Daley Blind,Patrick van Aanholt,5
+Daley Blind,Stefan de Vrij,1
+Denzel Dumfries,Daley Blind,1
+Denzel Dumfries,Donyell Malen,2
+Denzel Dumfries,Georginio Wijnaldum,4
+Denzel Dumfries,Marten de Roon,2
+Denzel Dumfries,Memphis Depay,6
+Denzel Dumfries,Stefan de Vrij,6
+Donyell Malen,Denzel Dumfries,1
+Donyell Malen,Frenkie de Jong,2
+Donyell Malen,Marten de Roon,1
+Donyell Malen,Memphis Depay,2
+Donyell Malen,Patrick van Aanholt,2
+Frenkie de Jong,Daley Blind,10
+Frenkie de Jong,Denzel Dumfries,1
+Frenkie de Jong,Donyell Malen,2
+Frenkie de Jong,Maarten Stekelenburg,1
+Frenkie de Jong,Marten de Roon,6
+Frenkie de Jong,Matthijs de Ligt,3
+Frenkie de Jong,Memphis Depay,5
+Frenkie de Jong,Patrick van Aanholt,7
+Frenkie de Jong,Stefan de Vrij,5
+Georginio Wijnaldum,Denzel Dumfries,3
+Georginio Wijnaldum,Frenkie de Jong,2
+Georginio Wijnaldum,Maarten Stekelenburg,1
+Georginio Wijnaldum,Matthijs de Ligt,1
+Georginio Wijnaldum,Memphis Depay,1
+Georginio Wijnaldum,Stefan de Vrij,2
+Maarten Stekelenburg,Daley Blind,6
+Maarten Stekelenburg,Denzel Dumfries,2
+Maarten Stekelenburg,Marten de Roon,1
+Maarten Stekelenburg,Memphis Depay,1
+Maarten Stekelenburg,Patrick van Aanholt,2
+Maarten Stekelenburg,Stefan de Vrij,1
+Marten de Roon,Daley Blind,8
+Marten de Roon,Denzel Dumfries,2
+Marten de Roon,Frenkie de Jong,8
+Marten de Roon,Georginio Wijnaldum,1
+Marten de Roon,Maarten Stekelenburg,2
+Marten de Roon,Matthijs de Ligt,1
+Marten de Roon,Memphis Depay,1
+Marten de Roon,Patrick van Aanholt,5
+Marten de Roon,Stefan de Vrij,1
+Matthijs de Ligt,Daley Blind,8
+Matthijs de Ligt,Frenkie de Jong,3
+Matthijs de Ligt,Maarten Stekelenburg,4
+Matthijs de Ligt,Stefan de Vrij,2
+Memphis Depay,Daley Blind,5
+Memphis Depay,Denzel Dumfries,2
+Memphis Depay,Donyell Malen,7
+Memphis Depay,Frenkie de Jong,6
+Memphis Depay,Georginio Wijnaldum,3
+Memphis Depay,Patrick van Aanholt,4
+Patrick van Aanholt,Daley Blind,10
+Patrick van Aanholt,Donyell Malen,5
+Patrick van Aanholt,Frenkie de Jong,7
+Patrick van Aanholt,Maarten Stekelenburg,3
+Patrick van Aanholt,Marten de Roon,2
+Patrick van Aanholt,Memphis Depay,4
+Stefan de Vrij,Daley Blind,5
+Stefan de Vrij,Denzel Dumfries,5
+Stefan de Vrij,Donyell Malen,1
+Stefan de Vrij,Frenkie de Jong,1
+Stefan de Vrij,Maarten Stekelenburg,10
+Stefan de Vrij,Marten de Roon,2
+Stefan de Vrij,Matthijs de Ligt,3

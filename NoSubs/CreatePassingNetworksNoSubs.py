@@ -61,10 +61,7 @@ def createDicts(df, team, players_df):
     return pass_between, avg_loc
 
 def plotPassingNetwork(pass_between, avg_loc,  home_team, away_team, side):
-<<<<<<< HEAD:NoSubs/CreatePassingNetworks.py
     #if not os.path.exists(f"./imgWithoutSubs/{home_team}_Network_{home_team}_{away_team}.png"):
-=======
->>>>>>> c5f4f1e60217b8b5836e9c3d6cbe312588d20b2f:Subs/CreatePassingNetworks.py
     color = "blue"
     min_pass_count = 2 ##minimum number of passes for a link to be plotted
     pitch = Pitch()
@@ -106,19 +103,12 @@ def plotPassingNetwork(pass_between, avg_loc,  home_team, away_team, side):
             ax.scatter(player['x'], player['y'], s=player['n_passes_completed']*1.3, color=color, zorder = 4)
             ax.text(player['x'], player['y']+2 if player['y'] > 40 else player['y'] -2, s=name.split(" ")[-1], rotation=270, va="top" if player['y']<40 else "bottom", size=6.5, fontweight="book", zorder=7, color=color)
         fig.tight_layout()
-<<<<<<< HEAD:NoSubs/CreatePassingNetworks.py
     
     if (side == "home"):
         plt.savefig(f"./imgWithoutSubs/{home_team}_Network_{home_team}_{away_team}.png")
 
     else:
         plt.savefig(f"./imgWithoutSubs/{away_team}_Network_{home_team}_{away_team}.png")
-=======
-        if (side == "home"):
-            plt.savefig(f"./imgWhitSubs/{home_team}_Network_{home_team}_{away_team}.png")
-        else: 
-            plt.savefig(f"./imgWhitSubs/{away_team}_Network_{home_team}_{away_team}.png")
->>>>>>> c5f4f1e60217b8b5836e9c3d6cbe312588d20b2f:Subs/CreatePassingNetworks.py
 
 def main():
     # Get Matches from Euro2020
@@ -128,28 +118,24 @@ def main():
     for  index, row in df.iterrows():
         home_team = row["home_team"]  
         away_team = row["away_team"]
-        match_events = loadDataset(f"./matches/{home_team}_{away_team}_events.xlsx")
+        match_events = loadDataset(f"./matchesNoSubs/{home_team}_{away_team}_events.xlsx")
         homeTeamName, awayTeamName = get_teams_name(match_events)
         print(home_team + "\t" + away_team)
         homeLineup = getLineups(match_events, "home")    
         homeLineupDF = pd.read_json(homeLineup, lines=True)
         pass_betweenHome, avg_locHome = createDicts(match_events, homeTeamName, homeLineupDF)
-        plotPassingNetwork(pass_betweenHome, avg_locHome, home_team, away_team, "home")
+       # plotPassingNetwork(pass_betweenHome, avg_locHome, home_team, away_team, "home")
         
         awayLineup = getLineups(match_events, "away")
         awayLineupDF = pd.read_json(awayLineup, lines=True)
         pass_betweenAway, avg_locAway = createDicts(match_events, awayTeamName, awayLineupDF)
-<<<<<<< HEAD:NoSubs/CreatePassingNetworks.py
-        plotPassingNetwork(pass_betweenAway, avg_locAway, home_team, away_team, "away")
-=======
-        plotPassingNetwork(pass_betweenAway, avg_locAway,  home_team, away_team, "away")
->>>>>>> c5f4f1e60217b8b5836e9c3d6cbe312588d20b2f:Subs/CreatePassingNetworks.py
+        #plotPassingNetwork(pass_betweenAway, avg_locAway,  home_team, away_team, "away")
         #print(pass_betweenHome, pass_betweenAway)
-        '''if not os.path.exists('./graphs'):
-            os.mkdir('./graphs')
-        pass_betweenHome.to_csv(f"./graphs/{home_team}_Passes_{home_team}_{away_team}.csv", index=False)
-        pass_betweenAway.to_csv(f"./graphs/{away_team}_Passes_{home_team}_{away_team}.csv", index=False)
-        '''
+        if not os.path.exists('./graphsNoSubs'):
+            os.mkdir('./graphsNoSubs')
+        pass_betweenHome.to_csv(f"./graphsNoSubs/{home_team}_Passes_{home_team}_{away_team}.csv", index=False)
+        pass_betweenAway.to_csv(f"./graphsNoSubs/{away_team}_Passes_{home_team}_{away_team}.csv", index=False)
+        
 
         
 if(__name__ == "__main__"):

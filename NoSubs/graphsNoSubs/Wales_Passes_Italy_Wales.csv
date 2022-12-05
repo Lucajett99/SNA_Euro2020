@@ -1,0 +1,81 @@
+passer,recipient,n_passes_completed
+Aaron Ramsey,Chris Gunter,3
+Aaron Ramsey,Connor Roberts,2
+Aaron Ramsey,Daniel James,1
+Aaron Ramsey,Danny Ward,1
+Aaron Ramsey,Ethan Ampadu,2
+Aaron Ramsey,Gareth Frank Bale,2
+Aaron Ramsey,Joe Allen,2
+Aaron Ramsey,Joe Rodon,2
+Aaron Ramsey,Joseff Morrell,1
+Aaron Ramsey,Neco Williams,2
+Chris Gunter,Aaron Ramsey,1
+Chris Gunter,Danny Ward,8
+Chris Gunter,Ethan Ampadu,3
+Chris Gunter,Gareth Frank Bale,1
+Chris Gunter,Joe Rodon,3
+Chris Gunter,Joseff Morrell,1
+Chris Gunter,Neco Williams,8
+Connor Roberts,Aaron Ramsey,4
+Connor Roberts,Daniel James,1
+Connor Roberts,Danny Ward,1
+Connor Roberts,Ethan Ampadu,1
+Connor Roberts,Gareth Frank Bale,3
+Connor Roberts,Joe Rodon,5
+Connor Roberts,Joseff Morrell,7
+Connor Roberts,Neco Williams,1
+Daniel James,Chris Gunter,1
+Daniel James,Connor Roberts,1
+Daniel James,Ethan Ampadu,2
+Daniel James,Joe Rodon,1
+Daniel James,Neco Williams,1
+Danny Ward,Aaron Ramsey,1
+Danny Ward,Chris Gunter,8
+Danny Ward,Connor Roberts,5
+Danny Ward,Ethan Ampadu,2
+Danny Ward,Gareth Frank Bale,2
+Danny Ward,Joe Allen,1
+Danny Ward,Joe Rodon,2
+Danny Ward,Joseff Morrell,1
+Danny Ward,Neco Williams,2
+Ethan Ampadu,Aaron Ramsey,5
+Ethan Ampadu,Chris Gunter,1
+Ethan Ampadu,Connor Roberts,2
+Ethan Ampadu,Danny Ward,3
+Ethan Ampadu,Gareth Frank Bale,2
+Ethan Ampadu,Joe Allen,2
+Ethan Ampadu,Joe Rodon,2
+Ethan Ampadu,Joseff Morrell,5
+Ethan Ampadu,Neco Williams,2
+Gareth Frank Bale,Aaron Ramsey,1
+Gareth Frank Bale,Ethan Ampadu,2
+Gareth Frank Bale,Joe Allen,3
+Gareth Frank Bale,Joe Rodon,1
+Gareth Frank Bale,Neco Williams,2
+Joe Allen,Aaron Ramsey,5
+Joe Allen,Chris Gunter,2
+Joe Allen,Connor Roberts,2
+Joe Allen,Ethan Ampadu,3
+Joe Allen,Gareth Frank Bale,1
+Joe Allen,Joe Rodon,1
+Joe Allen,Neco Williams,3
+Joe Rodon,Chris Gunter,6
+Joe Rodon,Connor Roberts,2
+Joe Rodon,Danny Ward,5
+Joe Rodon,Ethan Ampadu,2
+Joe Rodon,Gareth Frank Bale,1
+Joe Rodon,Joseff Morrell,3
+Joseff Morrell,Aaron Ramsey,2
+Joseff Morrell,Connor Roberts,5
+Joseff Morrell,Daniel James,1
+Joseff Morrell,Danny Ward,1
+Joseff Morrell,Ethan Ampadu,1
+Joseff Morrell,Gareth Frank Bale,2
+Joseff Morrell,Joe Allen,2
+Joseff Morrell,Joe Rodon,4
+Neco Williams,Aaron Ramsey,3
+Neco Williams,Chris Gunter,7
+Neco Williams,Daniel James,4
+Neco Williams,Ethan Ampadu,2
+Neco Williams,Joe Allen,3
+Neco Williams,Joseff Morrell,1

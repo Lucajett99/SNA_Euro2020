@@ -1,0 +1,92 @@
+passer,recipient,n_passes_completed
+Aymeric Laporte,Jordi Alba Ramos,2
+Aymeric Laporte,Jorge Resurrección Merodio,6
+Aymeric Laporte,Marcos Llorente Moreno,17
+Aymeric Laporte,Pau Francisco Torres,11
+Aymeric Laporte,Pedro González López,8
+Aymeric Laporte,Rodrigo Hernández Cascante,1
+Aymeric Laporte,Unai Simón Mendibil,5
+Aymeric Laporte,Álvaro Borja Morata Martín,1
+Daniel Olmo Carvajal,Gerard Moreno Balaguero,1
+Daniel Olmo Carvajal,Jordi Alba Ramos,7
+Daniel Olmo Carvajal,Jorge Resurrección Merodio,4
+Daniel Olmo Carvajal,Marcos Llorente Moreno,1
+Daniel Olmo Carvajal,Pau Francisco Torres,1
+Daniel Olmo Carvajal,Pedro González López,3
+Daniel Olmo Carvajal,Rodrigo Hernández Cascante,1
+Daniel Olmo Carvajal,Álvaro Borja Morata Martín,8
+Gerard Moreno Balaguero,Daniel Olmo Carvajal,1
+Gerard Moreno Balaguero,Jorge Resurrección Merodio,7
+Gerard Moreno Balaguero,Marcos Llorente Moreno,15
+Gerard Moreno Balaguero,Pau Francisco Torres,1
+Gerard Moreno Balaguero,Pedro González López,2
+Gerard Moreno Balaguero,Rodrigo Hernández Cascante,4
+Gerard Moreno Balaguero,Álvaro Borja Morata Martín,3
+Jordi Alba Ramos,Daniel Olmo Carvajal,15
+Jordi Alba Ramos,Gerard Moreno Balaguero,1
+Jordi Alba Ramos,Jorge Resurrección Merodio,1
+Jordi Alba Ramos,Marcos Llorente Moreno,2
+Jordi Alba Ramos,Pau Francisco Torres,14
+Jordi Alba Ramos,Pedro González López,28
+Jordi Alba Ramos,Rodrigo Hernández Cascante,4
+Jordi Alba Ramos,Unai Simón Mendibil,4
+Jordi Alba Ramos,Álvaro Borja Morata Martín,13
+Jorge Resurrección Merodio,Aymeric Laporte,6
+Jorge Resurrección Merodio,Daniel Olmo Carvajal,2
+Jorge Resurrección Merodio,Gerard Moreno Balaguero,10
+Jorge Resurrección Merodio,Jordi Alba Ramos,5
+Jorge Resurrección Merodio,Marcos Llorente Moreno,11
+Jorge Resurrección Merodio,Pau Francisco Torres,2
+Jorge Resurrección Merodio,Pedro González López,5
+Jorge Resurrección Merodio,Rodrigo Hernández Cascante,9
+Jorge Resurrección Merodio,Álvaro Borja Morata Martín,2
+Marcos Llorente Moreno,Aymeric Laporte,16
+Marcos Llorente Moreno,Gerard Moreno Balaguero,30
+Marcos Llorente Moreno,Jordi Alba Ramos,1
+Marcos Llorente Moreno,Jorge Resurrección Merodio,15
+Marcos Llorente Moreno,Pau Francisco Torres,3
+Marcos Llorente Moreno,Pedro González López,1
+Marcos Llorente Moreno,Rodrigo Hernández Cascante,15
+Marcos Llorente Moreno,Unai Simón Mendibil,1
+Marcos Llorente Moreno,Álvaro Borja Morata Martín,2
+Pau Francisco Torres,Aymeric Laporte,12
+Pau Francisco Torres,Daniel Olmo Carvajal,2
+Pau Francisco Torres,Jordi Alba Ramos,19
+Pau Francisco Torres,Jorge Resurrección Merodio,1
+Pau Francisco Torres,Marcos Llorente Moreno,4
+Pau Francisco Torres,Pedro González López,16
+Pau Francisco Torres,Rodrigo Hernández Cascante,9
+Pau Francisco Torres,Unai Simón Mendibil,3
+Pau Francisco Torres,Álvaro Borja Morata Martín,2
+Pedro González López,Aymeric Laporte,3
+Pedro González López,Daniel Olmo Carvajal,5
+Pedro González López,Gerard Moreno Balaguero,1
+Pedro González López,Jordi Alba Ramos,35
+Pedro González López,Jorge Resurrección Merodio,4
+Pedro González López,Marcos Llorente Moreno,6
+Pedro González López,Pau Francisco Torres,10
+Pedro González López,Rodrigo Hernández Cascante,8
+Pedro González López,Unai Simón Mendibil,1
+Pedro González López,Álvaro Borja Morata Martín,2
+Rodrigo Hernández Cascante,Aymeric Laporte,6
+Rodrigo Hernández Cascante,Daniel Olmo Carvajal,1
+Rodrigo Hernández Cascante,Gerard Moreno Balaguero,2
+Rodrigo Hernández Cascante,Jordi Alba Ramos,6
+Rodrigo Hernández Cascante,Jorge Resurrección Merodio,8
+Rodrigo Hernández Cascante,Marcos Llorente Moreno,18
+Rodrigo Hernández Cascante,Pau Francisco Torres,8
+Rodrigo Hernández Cascante,Pedro González López,6
+Unai Simón Mendibil,Aymeric Laporte,5
+Unai Simón Mendibil,Gerard Moreno Balaguero,1
+Unai Simón Mendibil,Jordi Alba Ramos,2
+Unai Simón Mendibil,Jorge Resurrección Merodio,2
+Unai Simón Mendibil,Marcos Llorente Moreno,6
+Unai Simón Mendibil,Pau Francisco Torres,5
+Unai Simón Mendibil,Álvaro Borja Morata Martín,1
+Álvaro Borja Morata Martín,Daniel Olmo Carvajal,5
+Álvaro Borja Morata Martín,Gerard Moreno Balaguero,2
+Álvaro Borja Morata Martín,Jordi Alba Ramos,3
+Álvaro Borja Morata Martín,Jorge Resurrección Merodio,6
+Álvaro Borja Morata Martín,Marcos Llorente Moreno,4
+Álvaro Borja Morata Martín,Pedro González López,3
+Álvaro Borja Morata Martín,Rodrigo Hernández Cascante,2

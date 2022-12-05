@@ -1,0 +1,87 @@
+passer,recipient,n_passes_completed
+Bernardo Mota Veiga de Carvalho e Silva,Bruno Miguel Borges Fernandes,4
+Bernardo Mota Veiga de Carvalho e Silva,Cristiano Ronaldo dos Santos Aveiro,1
+Bernardo Mota Veiga de Carvalho e Silva,Danilo Luís Hélio Pereira,1
+Bernardo Mota Veiga de Carvalho e Silva,Diogo José Teixeira da Silva,2
+Bernardo Mota Veiga de Carvalho e Silva,Kléper Laveran Lima Ferreira,3
+Bernardo Mota Veiga de Carvalho e Silva,Nélson Cabral Semedo,3
+Bernardo Mota Veiga de Carvalho e Silva,Raphaël Adelino José Guerreiro,1
+Bernardo Mota Veiga de Carvalho e Silva,Rúben Santos Gato Alves Dias,1
+Bernardo Mota Veiga de Carvalho e Silva,William Silva de Carvalho,1
+Bruno Miguel Borges Fernandes,Bernardo Mota Veiga de Carvalho e Silva,7
+Bruno Miguel Borges Fernandes,Cristiano Ronaldo dos Santos Aveiro,3
+Bruno Miguel Borges Fernandes,Danilo Luís Hélio Pereira,3
+Bruno Miguel Borges Fernandes,Diogo José Teixeira da Silva,2
+Bruno Miguel Borges Fernandes,Nélson Cabral Semedo,6
+Bruno Miguel Borges Fernandes,William Silva de Carvalho,2
+Cristiano Ronaldo dos Santos Aveiro,Bruno Miguel Borges Fernandes,5
+Cristiano Ronaldo dos Santos Aveiro,Diogo José Teixeira da Silva,5
+Cristiano Ronaldo dos Santos Aveiro,Kléper Laveran Lima Ferreira,1
+Cristiano Ronaldo dos Santos Aveiro,Nélson Cabral Semedo,4
+Cristiano Ronaldo dos Santos Aveiro,Raphaël Adelino José Guerreiro,3
+Cristiano Ronaldo dos Santos Aveiro,William Silva de Carvalho,1
+Danilo Luís Hélio Pereira,Bruno Miguel Borges Fernandes,2
+Danilo Luís Hélio Pereira,Cristiano Ronaldo dos Santos Aveiro,1
+Danilo Luís Hélio Pereira,Diogo José Teixeira da Silva,2
+Danilo Luís Hélio Pereira,Kléper Laveran Lima Ferreira,5
+Danilo Luís Hélio Pereira,Nélson Cabral Semedo,4
+Danilo Luís Hélio Pereira,Raphaël Adelino José Guerreiro,2
+Danilo Luís Hélio Pereira,Rúben Santos Gato Alves Dias,5
+Danilo Luís Hélio Pereira,William Silva de Carvalho,3
+Diogo José Teixeira da Silva,Bernardo Mota Veiga de Carvalho e Silva,2
+Diogo José Teixeira da Silva,Bruno Miguel Borges Fernandes,1
+Diogo José Teixeira da Silva,Cristiano Ronaldo dos Santos Aveiro,2
+Diogo José Teixeira da Silva,Nélson Cabral Semedo,1
+Diogo José Teixeira da Silva,Raphaël Adelino José Guerreiro,2
+Diogo José Teixeira da Silva,Rúben Santos Gato Alves Dias,1
+Diogo José Teixeira da Silva,William Silva de Carvalho,2
+Kléper Laveran Lima Ferreira,Bernardo Mota Veiga de Carvalho e Silva,1
+Kléper Laveran Lima Ferreira,Cristiano Ronaldo dos Santos Aveiro,2
+Kléper Laveran Lima Ferreira,Danilo Luís Hélio Pereira,1
+Kléper Laveran Lima Ferreira,Diogo José Teixeira da Silva,1
+Kléper Laveran Lima Ferreira,Nélson Cabral Semedo,5
+Kléper Laveran Lima Ferreira,Raphaël Adelino José Guerreiro,2
+Kléper Laveran Lima Ferreira,Rui Pedro dos Santos Patrício,5
+Kléper Laveran Lima Ferreira,Rúben Santos Gato Alves Dias,10
+Nélson Cabral Semedo,Bernardo Mota Veiga de Carvalho e Silva,5
+Nélson Cabral Semedo,Bruno Miguel Borges Fernandes,7
+Nélson Cabral Semedo,Cristiano Ronaldo dos Santos Aveiro,3
+Nélson Cabral Semedo,Danilo Luís Hélio Pereira,1
+Nélson Cabral Semedo,Kléper Laveran Lima Ferreira,8
+Nélson Cabral Semedo,Raphaël Adelino José Guerreiro,1
+Nélson Cabral Semedo,Rui Pedro dos Santos Patrício,1
+Nélson Cabral Semedo,Rúben Santos Gato Alves Dias,1
+Raphaël Adelino José Guerreiro,Bruno Miguel Borges Fernandes,1
+Raphaël Adelino José Guerreiro,Cristiano Ronaldo dos Santos Aveiro,6
+Raphaël Adelino José Guerreiro,Danilo Luís Hélio Pereira,3
+Raphaël Adelino José Guerreiro,Diogo José Teixeira da Silva,7
+Raphaël Adelino José Guerreiro,Kléper Laveran Lima Ferreira,2
+Raphaël Adelino José Guerreiro,Nélson Cabral Semedo,1
+Raphaël Adelino José Guerreiro,Rui Pedro dos Santos Patrício,1
+Raphaël Adelino José Guerreiro,Rúben Santos Gato Alves Dias,11
+Raphaël Adelino José Guerreiro,William Silva de Carvalho,7
+Rui Pedro dos Santos Patrício,Bruno Miguel Borges Fernandes,1
+Rui Pedro dos Santos Patrício,Cristiano Ronaldo dos Santos Aveiro,1
+Rui Pedro dos Santos Patrício,Kléper Laveran Lima Ferreira,2
+Rui Pedro dos Santos Patrício,Raphaël Adelino José Guerreiro,4
+Rui Pedro dos Santos Patrício,Rúben Santos Gato Alves Dias,9
+Rui Pedro dos Santos Patrício,William Silva de Carvalho,1
+Rúben Santos Gato Alves Dias,Bernardo Mota Veiga de Carvalho e Silva,1
+Rúben Santos Gato Alves Dias,Bruno Miguel Borges Fernandes,1
+Rúben Santos Gato Alves Dias,Cristiano Ronaldo dos Santos Aveiro,1
+Rúben Santos Gato Alves Dias,Danilo Luís Hélio Pereira,3
+Rúben Santos Gato Alves Dias,Diogo José Teixeira da Silva,1
+Rúben Santos Gato Alves Dias,Kléper Laveran Lima Ferreira,8
+Rúben Santos Gato Alves Dias,Nélson Cabral Semedo,3
+Rúben Santos Gato Alves Dias,Raphaël Adelino José Guerreiro,14
+Rúben Santos Gato Alves Dias,Rui Pedro dos Santos Patrício,2
+Rúben Santos Gato Alves Dias,William Silva de Carvalho,5
+William Silva de Carvalho,Bernardo Mota Veiga de Carvalho e Silva,1
+William Silva de Carvalho,Bruno Miguel Borges Fernandes,1
+William Silva de Carvalho,Cristiano Ronaldo dos Santos Aveiro,4
+William Silva de Carvalho,Danilo Luís Hélio Pereira,3
+William Silva de Carvalho,Diogo José Teixeira da Silva,1
+William Silva de Carvalho,Kléper Laveran Lima Ferreira,3
+William Silva de Carvalho,Nélson Cabral Semedo,2
+William Silva de Carvalho,Raphaël Adelino José Guerreiro,5
+William Silva de Carvalho,Rúben Santos Gato Alves Dias,3

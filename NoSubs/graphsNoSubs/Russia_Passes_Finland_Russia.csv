@@ -1,0 +1,88 @@
+passer,recipient,n_passes_completed
+Aleksandr Golovin,Aleksey Miranchuk,7
+Aleksandr Golovin,Artem Dzyuba,8
+Aleksandr Golovin,Daler Kuzyaev,18
+Aleksandr Golovin,Dmitriy Barinov,1
+Aleksandr Golovin,Georgiy Dzhikiya,9
+Aleksandr Golovin,Igor Diveev,3
+Aleksandr Golovin,Magomed Ozdoev,2
+Aleksandr Golovin,Mário Figueira Fernandes,1
+Aleksandr Golovin,Roman Zobnin,6
+Aleksey Miranchuk,Aleksandr Golovin,8
+Aleksey Miranchuk,Artem Dzyuba,3
+Aleksey Miranchuk,Daler Kuzyaev,2
+Aleksey Miranchuk,Dmitriy Barinov,7
+Aleksey Miranchuk,Igor Diveev,1
+Aleksey Miranchuk,Magomed Ozdoev,5
+Aleksey Miranchuk,Mário Figueira Fernandes,1
+Aleksey Miranchuk,Roman Zobnin,4
+Artem Dzyuba,Aleksandr Golovin,3
+Artem Dzyuba,Aleksey Miranchuk,7
+Artem Dzyuba,Daler Kuzyaev,5
+Artem Dzyuba,Dmitriy Barinov,1
+Artem Dzyuba,Magomed Ozdoev,2
+Daler Kuzyaev,Aleksandr Golovin,14
+Daler Kuzyaev,Aleksey Miranchuk,3
+Daler Kuzyaev,Artem Dzyuba,4
+Daler Kuzyaev,Dmitriy Barinov,2
+Daler Kuzyaev,Georgiy Dzhikiya,15
+Daler Kuzyaev,Igor Diveev,2
+Daler Kuzyaev,Magomed Ozdoev,1
+Daler Kuzyaev,Matvey Safonov,2
+Daler Kuzyaev,Roman Zobnin,5
+Dmitriy Barinov,Aleksey Miranchuk,4
+Dmitriy Barinov,Artem Dzyuba,1
+Dmitriy Barinov,Daler Kuzyaev,1
+Dmitriy Barinov,Georgiy Dzhikiya,8
+Dmitriy Barinov,Igor Diveev,17
+Dmitriy Barinov,Magomed Ozdoev,10
+Dmitriy Barinov,Matvey Safonov,2
+Dmitriy Barinov,Mário Figueira Fernandes,3
+Dmitriy Barinov,Roman Zobnin,9
+Georgiy Dzhikiya,Aleksandr Golovin,20
+Georgiy Dzhikiya,Aleksey Miranchuk,2
+Georgiy Dzhikiya,Artem Dzyuba,2
+Georgiy Dzhikiya,Daler Kuzyaev,13
+Georgiy Dzhikiya,Dmitriy Barinov,3
+Georgiy Dzhikiya,Igor Diveev,11
+Georgiy Dzhikiya,Magomed Ozdoev,2
+Georgiy Dzhikiya,Matvey Safonov,1
+Georgiy Dzhikiya,Roman Zobnin,5
+Igor Diveev,Aleksandr Golovin,4
+Igor Diveev,Artem Dzyuba,2
+Igor Diveev,Daler Kuzyaev,1
+Igor Diveev,Dmitriy Barinov,20
+Igor Diveev,Georgiy Dzhikiya,14
+Igor Diveev,Magomed Ozdoev,2
+Igor Diveev,Matvey Safonov,2
+Igor Diveev,Roman Zobnin,5
+Magomed Ozdoev,Aleksandr Golovin,3
+Magomed Ozdoev,Aleksey Miranchuk,9
+Magomed Ozdoev,Artem Dzyuba,4
+Magomed Ozdoev,Daler Kuzyaev,1
+Magomed Ozdoev,Dmitriy Barinov,8
+Magomed Ozdoev,Georgiy Dzhikiya,2
+Magomed Ozdoev,Igor Diveev,2
+Magomed Ozdoev,Mário Figueira Fernandes,1
+Magomed Ozdoev,Roman Zobnin,5
+Matvey Safonov,Artem Dzyuba,4
+Matvey Safonov,Daler Kuzyaev,2
+Matvey Safonov,Dmitriy Barinov,4
+Matvey Safonov,Georgiy Dzhikiya,4
+Matvey Safonov,Igor Diveev,2
+Matvey Safonov,Magomed Ozdoev,1
+Matvey Safonov,Roman Zobnin,2
+Mário Figueira Fernandes,Artem Dzyuba,1
+Mário Figueira Fernandes,Dmitriy Barinov,1
+Mário Figueira Fernandes,Igor Diveev,1
+Mário Figueira Fernandes,Magomed Ozdoev,2
+Mário Figueira Fernandes,Roman Zobnin,1
+Roman Zobnin,Aleksandr Golovin,7
+Roman Zobnin,Aleksey Miranchuk,2
+Roman Zobnin,Artem Dzyuba,3
+Roman Zobnin,Daler Kuzyaev,8
+Roman Zobnin,Dmitriy Barinov,13
+Roman Zobnin,Georgiy Dzhikiya,5
+Roman Zobnin,Igor Diveev,2
+Roman Zobnin,Magomed Ozdoev,7
+Roman Zobnin,Matvey Safonov,3

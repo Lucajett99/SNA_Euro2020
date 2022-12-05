@@ -1,0 +1,94 @@
+passer,recipient,n_passes_completed
+Aymeric Laporte,César Azpilicueta Tanco,2
+Aymeric Laporte,Daniel Olmo Carvajal,9
+Aymeric Laporte,Eric García Martret,29
+Aymeric Laporte,Ferrán Torres García,2
+Aymeric Laporte,Jordi Alba Ramos,29
+Aymeric Laporte,Jorge Resurrección Merodio,7
+Aymeric Laporte,Mikel Oyarzabal Ugarte,3
+Aymeric Laporte,Pedro González López,9
+Aymeric Laporte,Sergio Busquets i Burgos,14
+Aymeric Laporte,Unai Simón Mendibil,11
+César Azpilicueta Tanco,Daniel Olmo Carvajal,2
+César Azpilicueta Tanco,Eric García Martret,22
+César Azpilicueta Tanco,Jorge Resurrección Merodio,15
+César Azpilicueta Tanco,Mikel Oyarzabal Ugarte,9
+César Azpilicueta Tanco,Pedro González López,1
+César Azpilicueta Tanco,Sergio Busquets i Burgos,6
+César Azpilicueta Tanco,Unai Simón Mendibil,4
+Daniel Olmo Carvajal,Aymeric Laporte,1
+Daniel Olmo Carvajal,César Azpilicueta Tanco,4
+Daniel Olmo Carvajal,Eric García Martret,2
+Daniel Olmo Carvajal,Ferrán Torres García,2
+Daniel Olmo Carvajal,Jordi Alba Ramos,3
+Daniel Olmo Carvajal,Jorge Resurrección Merodio,2
+Daniel Olmo Carvajal,Mikel Oyarzabal Ugarte,1
+Daniel Olmo Carvajal,Pedro González López,8
+Daniel Olmo Carvajal,Sergio Busquets i Burgos,1
+Eric García Martret,Aymeric Laporte,44
+Eric García Martret,César Azpilicueta Tanco,21
+Eric García Martret,Daniel Olmo Carvajal,4
+Eric García Martret,Ferrán Torres García,1
+Eric García Martret,Jordi Alba Ramos,2
+Eric García Martret,Jorge Resurrección Merodio,5
+Eric García Martret,Mikel Oyarzabal Ugarte,3
+Eric García Martret,Pedro González López,4
+Eric García Martret,Sergio Busquets i Burgos,11
+Eric García Martret,Unai Simón Mendibil,14
+Ferrán Torres García,Aymeric Laporte,4
+Ferrán Torres García,Daniel Olmo Carvajal,2
+Ferrán Torres García,Jordi Alba Ramos,8
+Ferrán Torres García,Jorge Resurrección Merodio,1
+Ferrán Torres García,Pedro González López,5
+Jordi Alba Ramos,Aymeric Laporte,15
+Jordi Alba Ramos,Daniel Olmo Carvajal,12
+Jordi Alba Ramos,Eric García Martret,7
+Jordi Alba Ramos,Ferrán Torres García,12
+Jordi Alba Ramos,Jorge Resurrección Merodio,2
+Jordi Alba Ramos,Mikel Oyarzabal Ugarte,4
+Jordi Alba Ramos,Pedro González López,11
+Jordi Alba Ramos,Sergio Busquets i Burgos,10
+Jordi Alba Ramos,Unai Simón Mendibil,3
+Jorge Resurrección Merodio,Aymeric Laporte,11
+Jorge Resurrección Merodio,César Azpilicueta Tanco,11
+Jorge Resurrección Merodio,Daniel Olmo Carvajal,4
+Jorge Resurrección Merodio,Eric García Martret,6
+Jorge Resurrección Merodio,Jordi Alba Ramos,2
+Jorge Resurrección Merodio,Mikel Oyarzabal Ugarte,8
+Jorge Resurrección Merodio,Pedro González López,2
+Jorge Resurrección Merodio,Sergio Busquets i Burgos,6
+Mikel Oyarzabal Ugarte,César Azpilicueta Tanco,4
+Mikel Oyarzabal Ugarte,Daniel Olmo Carvajal,3
+Mikel Oyarzabal Ugarte,Eric García Martret,2
+Mikel Oyarzabal Ugarte,Jordi Alba Ramos,1
+Mikel Oyarzabal Ugarte,Jorge Resurrección Merodio,8
+Mikel Oyarzabal Ugarte,Pedro González López,1
+Mikel Oyarzabal Ugarte,Sergio Busquets i Burgos,5
+Pedro González López,Aymeric Laporte,9
+Pedro González López,César Azpilicueta Tanco,2
+Pedro González López,Daniel Olmo Carvajal,4
+Pedro González López,Eric García Martret,8
+Pedro González López,Ferrán Torres García,7
+Pedro González López,Jordi Alba Ramos,16
+Pedro González López,Jorge Resurrección Merodio,1
+Pedro González López,Mikel Oyarzabal Ugarte,2
+Pedro González López,Sergio Busquets i Burgos,2
+Pedro González López,Unai Simón Mendibil,2
+Sergio Busquets i Burgos,Aymeric Laporte,9
+Sergio Busquets i Burgos,César Azpilicueta Tanco,6
+Sergio Busquets i Burgos,Daniel Olmo Carvajal,4
+Sergio Busquets i Burgos,Eric García Martret,16
+Sergio Busquets i Burgos,Ferrán Torres García,2
+Sergio Busquets i Burgos,Jordi Alba Ramos,5
+Sergio Busquets i Burgos,Jorge Resurrección Merodio,6
+Sergio Busquets i Burgos,Mikel Oyarzabal Ugarte,2
+Sergio Busquets i Burgos,Pedro González López,10
+Sergio Busquets i Burgos,Unai Simón Mendibil,1
+Unai Simón Mendibil,Aymeric Laporte,22
+Unai Simón Mendibil,César Azpilicueta Tanco,4
+Unai Simón Mendibil,Daniel Olmo Carvajal,2
+Unai Simón Mendibil,Eric García Martret,13
+Unai Simón Mendibil,Jordi Alba Ramos,1
+Unai Simón Mendibil,Jorge Resurrección Merodio,2
+Unai Simón Mendibil,Pedro González López,1
+Unai Simón Mendibil,Sergio Busquets i Burgos,2

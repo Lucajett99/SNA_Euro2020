@@ -1,0 +1,94 @@
+passer,recipient,n_passes_completed
+Adrien Rabiot,Antoine Griezmann,1
+Adrien Rabiot,Benjamin Pavard,3
+Adrien Rabiot,Hugo Lloris,1
+Adrien Rabiot,Karim Benzema,3
+Adrien Rabiot,Kylian Mbappé Lottin,7
+Adrien Rabiot,Lucas Digne,8
+Adrien Rabiot,N''Golo Kanté,2
+Adrien Rabiot,Paul Pogba,3
+Adrien Rabiot,Presnel Kimpembe,8
+Adrien Rabiot,Raphaël Varane,4
+Antoine Griezmann,Benjamin Pavard,7
+Antoine Griezmann,Karim Benzema,2
+Antoine Griezmann,Kylian Mbappé Lottin,5
+Antoine Griezmann,Lucas Digne,6
+Antoine Griezmann,N''Golo Kanté,5
+Antoine Griezmann,Paul Pogba,7
+Antoine Griezmann,Presnel Kimpembe,4
+Antoine Griezmann,Raphaël Varane,5
+Benjamin Pavard,Antoine Griezmann,21
+Benjamin Pavard,Karim Benzema,3
+Benjamin Pavard,Kylian Mbappé Lottin,3
+Benjamin Pavard,N''Golo Kanté,13
+Benjamin Pavard,Paul Pogba,19
+Benjamin Pavard,Presnel Kimpembe,4
+Benjamin Pavard,Raphaël Varane,21
+Hugo Lloris,Adrien Rabiot,2
+Hugo Lloris,Benjamin Pavard,4
+Hugo Lloris,Kylian Mbappé Lottin,1
+Hugo Lloris,Lucas Digne,1
+Hugo Lloris,Paul Pogba,2
+Hugo Lloris,Presnel Kimpembe,4
+Hugo Lloris,Raphaël Varane,3
+Karim Benzema,Adrien Rabiot,3
+Karim Benzema,Antoine Griezmann,2
+Karim Benzema,Benjamin Pavard,3
+Karim Benzema,Kylian Mbappé Lottin,2
+Karim Benzema,Lucas Digne,4
+Karim Benzema,N''Golo Kanté,4
+Karim Benzema,Paul Pogba,3
+Karim Benzema,Presnel Kimpembe,3
+Karim Benzema,Raphaël Varane,1
+Kylian Mbappé Lottin,Adrien Rabiot,1
+Kylian Mbappé Lottin,Antoine Griezmann,3
+Kylian Mbappé Lottin,Benjamin Pavard,3
+Kylian Mbappé Lottin,Karim Benzema,3
+Kylian Mbappé Lottin,Lucas Digne,4
+Kylian Mbappé Lottin,N''Golo Kanté,2
+Kylian Mbappé Lottin,Paul Pogba,3
+Kylian Mbappé Lottin,Presnel Kimpembe,2
+Lucas Digne,Adrien Rabiot,12
+Lucas Digne,Antoine Griezmann,1
+Lucas Digne,Karim Benzema,5
+Lucas Digne,Kylian Mbappé Lottin,14
+Lucas Digne,N''Golo Kanté,5
+Lucas Digne,Paul Pogba,2
+Lucas Digne,Presnel Kimpembe,16
+N''Golo Kanté,Adrien Rabiot,4
+N''Golo Kanté,Antoine Griezmann,2
+N''Golo Kanté,Benjamin Pavard,9
+N''Golo Kanté,Karim Benzema,7
+N''Golo Kanté,Kylian Mbappé Lottin,2
+N''Golo Kanté,Lucas Digne,6
+N''Golo Kanté,Paul Pogba,6
+N''Golo Kanté,Presnel Kimpembe,9
+N''Golo Kanté,Raphaël Varane,8
+Paul Pogba,Adrien Rabiot,2
+Paul Pogba,Antoine Griezmann,5
+Paul Pogba,Benjamin Pavard,10
+Paul Pogba,Karim Benzema,1
+Paul Pogba,Kylian Mbappé Lottin,3
+Paul Pogba,N''Golo Kanté,6
+Paul Pogba,Presnel Kimpembe,4
+Paul Pogba,Raphaël Varane,5
+Presnel Kimpembe,Adrien Rabiot,15
+Presnel Kimpembe,Antoine Griezmann,2
+Presnel Kimpembe,Benjamin Pavard,2
+Presnel Kimpembe,Hugo Lloris,2
+Presnel Kimpembe,Karim Benzema,1
+Presnel Kimpembe,Kylian Mbappé Lottin,2
+Presnel Kimpembe,Lucas Digne,13
+Presnel Kimpembe,N''Golo Kanté,12
+Presnel Kimpembe,Paul Pogba,3
+Presnel Kimpembe,Raphaël Varane,26
+Raphaël Varane,Adrien Rabiot,3
+Raphaël Varane,Antoine Griezmann,6
+Raphaël Varane,Benjamin Pavard,36
+Raphaël Varane,Hugo Lloris,3
+Raphaël Varane,Karim Benzema,1
+Raphaël Varane,Kylian Mbappé Lottin,1
+Raphaël Varane,Lucas Digne,6
+Raphaël Varane,N''Golo Kanté,1
+Raphaël Varane,Paul Pogba,4
+Raphaël Varane,Presnel Kimpembe,22

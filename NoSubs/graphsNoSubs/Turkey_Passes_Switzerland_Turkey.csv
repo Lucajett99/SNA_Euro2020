@@ -1,0 +1,95 @@
+passer,recipient,n_passes_completed
+Burak Yılmaz,Caglar Söyüncü,2
+Burak Yılmaz,Hakan Çalhanoğlu,2
+Burak Yılmaz,Kaan Ayhan,1
+Burak Yılmaz,Mehmet Zeki Çelik,3
+Burak Yılmaz,Merih Demiral,1
+Burak Yılmaz,Mert Müldür,1
+Burak Yılmaz,Ozan Tufan,1
+Burak Yılmaz,İrfan Can Kahveci,2
+Caglar Söyüncü,Burak Yılmaz,4
+Caglar Söyüncü,Hakan Çalhanoğlu,10
+Caglar Söyüncü,Kaan Ayhan,5
+Caglar Söyüncü,Mehmet Zeki Çelik,2
+Caglar Söyüncü,Merih Demiral,4
+Caglar Söyüncü,Mert Müldür,10
+Caglar Söyüncü,Ozan Tufan,9
+Caglar Söyüncü,Uğurcan Çakır,2
+Caglar Söyüncü,İrfan Can Kahveci,7
+Cengiz Ünder,Burak Yılmaz,4
+Cengiz Ünder,Hakan Çalhanoğlu,1
+Cengiz Ünder,Kaan Ayhan,2
+Cengiz Ünder,Mehmet Zeki Çelik,2
+Cengiz Ünder,Merih Demiral,3
+Cengiz Ünder,Mert Müldür,1
+Cengiz Ünder,Ozan Tufan,3
+Cengiz Ünder,İrfan Can Kahveci,3
+Hakan Çalhanoğlu,Burak Yılmaz,2
+Hakan Çalhanoğlu,Caglar Söyüncü,3
+Hakan Çalhanoğlu,Kaan Ayhan,7
+Hakan Çalhanoğlu,Mehmet Zeki Çelik,3
+Hakan Çalhanoğlu,Merih Demiral,4
+Hakan Çalhanoğlu,Mert Müldür,5
+Hakan Çalhanoğlu,Ozan Tufan,4
+Hakan Çalhanoğlu,Uğurcan Çakır,1
+Hakan Çalhanoğlu,İrfan Can Kahveci,7
+Kaan Ayhan,Caglar Söyüncü,5
+Kaan Ayhan,Cengiz Ünder,3
+Kaan Ayhan,Hakan Çalhanoğlu,5
+Kaan Ayhan,Mehmet Zeki Çelik,5
+Kaan Ayhan,Merih Demiral,5
+Kaan Ayhan,Mert Müldür,3
+Kaan Ayhan,Ozan Tufan,8
+Kaan Ayhan,İrfan Can Kahveci,5
+Mehmet Zeki Çelik,Burak Yılmaz,1
+Mehmet Zeki Çelik,Caglar Söyüncü,4
+Mehmet Zeki Çelik,Cengiz Ünder,6
+Mehmet Zeki Çelik,Hakan Çalhanoğlu,5
+Mehmet Zeki Çelik,Kaan Ayhan,9
+Mehmet Zeki Çelik,Merih Demiral,6
+Mehmet Zeki Çelik,Mert Müldür,2
+Mehmet Zeki Çelik,Ozan Tufan,5
+Mehmet Zeki Çelik,Uğurcan Çakır,2
+Mehmet Zeki Çelik,İrfan Can Kahveci,5
+Merih Demiral,Burak Yılmaz,1
+Merih Demiral,Caglar Söyüncü,10
+Merih Demiral,Cengiz Ünder,2
+Merih Demiral,Hakan Çalhanoğlu,1
+Merih Demiral,Kaan Ayhan,9
+Merih Demiral,Mehmet Zeki Çelik,10
+Merih Demiral,Mert Müldür,1
+Merih Demiral,Ozan Tufan,2
+Merih Demiral,Uğurcan Çakır,4
+Merih Demiral,İrfan Can Kahveci,6
+Mert Müldür,Caglar Söyüncü,9
+Mert Müldür,Hakan Çalhanoğlu,9
+Mert Müldür,Kaan Ayhan,1
+Mert Müldür,Mehmet Zeki Çelik,2
+Mert Müldür,Merih Demiral,1
+Mert Müldür,Ozan Tufan,5
+Mert Müldür,İrfan Can Kahveci,2
+Ozan Tufan,Caglar Söyüncü,6
+Ozan Tufan,Cengiz Ünder,7
+Ozan Tufan,Hakan Çalhanoğlu,7
+Ozan Tufan,Kaan Ayhan,5
+Ozan Tufan,Mehmet Zeki Çelik,3
+Ozan Tufan,Merih Demiral,4
+Ozan Tufan,Mert Müldür,4
+Ozan Tufan,İrfan Can Kahveci,3
+Uğurcan Çakır,Burak Yılmaz,2
+Uğurcan Çakır,Caglar Söyüncü,6
+Uğurcan Çakır,Cengiz Ünder,1
+Uğurcan Çakır,Hakan Çalhanoğlu,1
+Uğurcan Çakır,Mehmet Zeki Çelik,1
+Uğurcan Çakır,Merih Demiral,2
+Uğurcan Çakır,Mert Müldür,3
+Uğurcan Çakır,İrfan Can Kahveci,2
+İrfan Can Kahveci,Burak Yılmaz,2
+İrfan Can Kahveci,Caglar Söyüncü,3
+İrfan Can Kahveci,Cengiz Ünder,11
+İrfan Can Kahveci,Hakan Çalhanoğlu,1
+İrfan Can Kahveci,Kaan Ayhan,2
+İrfan Can Kahveci,Mehmet Zeki Çelik,6
+İrfan Can Kahveci,Merih Demiral,4
+İrfan Can Kahveci,Mert Müldür,5
+İrfan Can Kahveci,Ozan Tufan,3

@@ -1,0 +1,84 @@
+passer,recipient,n_passes_completed
+Burak Yılmaz,Caglar Söyüncü,1
+Burak Yılmaz,Cengiz Umut Meraş,1
+Burak Yılmaz,Hakan Çalhanoğlu,1
+Burak Yılmaz,Mehmet Zeki Çelik,2
+Burak Yılmaz,Merih Demiral,1
+Caglar Söyüncü,Burak Yılmaz,2
+Caglar Söyüncü,Cengiz Umut Meraş,8
+Caglar Söyüncü,Hakan Çalhanoğlu,7
+Caglar Söyüncü,Kenan Karaman,4
+Caglar Söyüncü,Merih Demiral,6
+Caglar Söyüncü,Okay Yokuşlu,3
+Caglar Söyüncü,Ozan Tufan,2
+Caglar Söyüncü,Uğurcan Çakır,6
+Caglar Söyüncü,Yusuf Yazıcı,1
+Cengiz Umut Meraş,Burak Yılmaz,3
+Cengiz Umut Meraş,Caglar Söyüncü,8
+Cengiz Umut Meraş,Hakan Çalhanoğlu,5
+Cengiz Umut Meraş,Kenan Karaman,1
+Cengiz Umut Meraş,Merih Demiral,1
+Cengiz Umut Meraş,Okay Yokuşlu,1
+Cengiz Umut Meraş,Ozan Tufan,1
+Cengiz Umut Meraş,Uğurcan Çakır,1
+Cengiz Umut Meraş,Yusuf Yazıcı,1
+Hakan Çalhanoğlu,Burak Yılmaz,3
+Hakan Çalhanoğlu,Caglar Söyüncü,4
+Hakan Çalhanoğlu,Cengiz Umut Meraş,4
+Hakan Çalhanoğlu,Kenan Karaman,4
+Hakan Çalhanoğlu,Mehmet Zeki Çelik,2
+Hakan Çalhanoğlu,Merih Demiral,2
+Hakan Çalhanoğlu,Okay Yokuşlu,3
+Hakan Çalhanoğlu,Ozan Tufan,1
+Hakan Çalhanoğlu,Uğurcan Çakır,1
+Hakan Çalhanoğlu,Yusuf Yazıcı,1
+Kenan Karaman,Burak Yılmaz,1
+Kenan Karaman,Cengiz Umut Meraş,2
+Kenan Karaman,Hakan Çalhanoğlu,3
+Kenan Karaman,Mehmet Zeki Çelik,2
+Kenan Karaman,Okay Yokuşlu,2
+Kenan Karaman,Ozan Tufan,1
+Mehmet Zeki Çelik,Burak Yılmaz,3
+Mehmet Zeki Çelik,Kenan Karaman,4
+Mehmet Zeki Çelik,Merih Demiral,13
+Mehmet Zeki Çelik,Okay Yokuşlu,2
+Mehmet Zeki Çelik,Ozan Tufan,1
+Mehmet Zeki Çelik,Yusuf Yazıcı,5
+Merih Demiral,Caglar Söyüncü,12
+Merih Demiral,Hakan Çalhanoğlu,3
+Merih Demiral,Kenan Karaman,1
+Merih Demiral,Mehmet Zeki Çelik,3
+Merih Demiral,Okay Yokuşlu,5
+Merih Demiral,Uğurcan Çakır,9
+Merih Demiral,Yusuf Yazıcı,2
+Okay Yokuşlu,Caglar Söyüncü,6
+Okay Yokuşlu,Cengiz Umut Meraş,1
+Okay Yokuşlu,Hakan Çalhanoğlu,1
+Okay Yokuşlu,Kenan Karaman,1
+Okay Yokuşlu,Mehmet Zeki Çelik,5
+Okay Yokuşlu,Merih Demiral,3
+Okay Yokuşlu,Ozan Tufan,1
+Okay Yokuşlu,Yusuf Yazıcı,1
+Ozan Tufan,Caglar Söyüncü,1
+Ozan Tufan,Cengiz Umut Meraş,2
+Ozan Tufan,Kenan Karaman,3
+Ozan Tufan,Mehmet Zeki Çelik,4
+Ozan Tufan,Merih Demiral,1
+Ozan Tufan,Okay Yokuşlu,2
+Ozan Tufan,Uğurcan Çakır,1
+Ozan Tufan,Yusuf Yazıcı,4
+Uğurcan Çakır,Burak Yılmaz,1
+Uğurcan Çakır,Caglar Söyüncü,8
+Uğurcan Çakır,Cengiz Umut Meraş,1
+Uğurcan Çakır,Kenan Karaman,3
+Uğurcan Çakır,Mehmet Zeki Çelik,2
+Uğurcan Çakır,Merih Demiral,6
+Uğurcan Çakır,Okay Yokuşlu,1
+Uğurcan Çakır,Ozan Tufan,2
+Yusuf Yazıcı,Burak Yılmaz,1
+Yusuf Yazıcı,Caglar Söyüncü,3
+Yusuf Yazıcı,Cengiz Umut Meraş,1
+Yusuf Yazıcı,Hakan Çalhanoğlu,3
+Yusuf Yazıcı,Mehmet Zeki Çelik,2
+Yusuf Yazıcı,Merih Demiral,2
+Yusuf Yazıcı,Ozan Tufan,4

@@ -1,0 +1,70 @@
+passer,recipient,n_passes_completed
+Aleksandr Golovin,Andrey Semenov,1
+Aleksandr Golovin,Artem Dzyuba,3
+Aleksandr Golovin,Daler Kuzyaev,2
+Aleksandr Golovin,Dmitriy Barinov,1
+Aleksandr Golovin,Georgiy Dzhikiya,8
+Aleksandr Golovin,Magomed Ozdoev,1
+Aleksandr Golovin,Mário Figueira Fernandes,2
+Aleksandr Golovin,Roman Zobnin,1
+Andrey Semenov,Anton Shunin,7
+Andrey Semenov,Artem Dzyuba,3
+Andrey Semenov,Dmitriy Barinov,3
+Andrey Semenov,Georgiy Dzhikiya,8
+Andrey Semenov,Magomed Ozdoev,3
+Andrey Semenov,Mário Figueira Fernandes,5
+Andrey Semenov,Roman Zobnin,3
+Anton Shunin,Aleksandr Golovin,1
+Anton Shunin,Andrey Semenov,2
+Anton Shunin,Artem Dzyuba,7
+Anton Shunin,Georgiy Dzhikiya,2
+Anton Shunin,Yuri Zhirkov,1
+Artem Dzyuba,Aleksandr Golovin,6
+Artem Dzyuba,Andrey Semenov,1
+Artem Dzyuba,Daler Kuzyaev,1
+Artem Dzyuba,Magomed Ozdoev,3
+Artem Dzyuba,Mário Figueira Fernandes,1
+Artem Dzyuba,Roman Zobnin,4
+Daler Kuzyaev,Aleksandr Golovin,2
+Daler Kuzyaev,Anton Shunin,1
+Daler Kuzyaev,Georgiy Dzhikiya,1
+Daler Kuzyaev,Magomed Ozdoev,2
+Daler Kuzyaev,Yuri Zhirkov,2
+Dmitriy Barinov,Aleksandr Golovin,2
+Dmitriy Barinov,Andrey Semenov,1
+Dmitriy Barinov,Artem Dzyuba,1
+Dmitriy Barinov,Daler Kuzyaev,1
+Dmitriy Barinov,Georgiy Dzhikiya,3
+Dmitriy Barinov,Magomed Ozdoev,2
+Dmitriy Barinov,Mário Figueira Fernandes,2
+Georgiy Dzhikiya,Aleksandr Golovin,2
+Georgiy Dzhikiya,Andrey Semenov,15
+Georgiy Dzhikiya,Anton Shunin,3
+Georgiy Dzhikiya,Magomed Ozdoev,1
+Georgiy Dzhikiya,Mário Figueira Fernandes,2
+Georgiy Dzhikiya,Roman Zobnin,1
+Georgiy Dzhikiya,Yuri Zhirkov,6
+Magomed Ozdoev,Aleksandr Golovin,3
+Magomed Ozdoev,Andrey Semenov,2
+Magomed Ozdoev,Dmitriy Barinov,1
+Magomed Ozdoev,Georgiy Dzhikiya,2
+Magomed Ozdoev,Mário Figueira Fernandes,4
+Magomed Ozdoev,Roman Zobnin,2
+Magomed Ozdoev,Yuri Zhirkov,4
+Mário Figueira Fernandes,Aleksandr Golovin,1
+Mário Figueira Fernandes,Andrey Semenov,12
+Mário Figueira Fernandes,Anton Shunin,1
+Mário Figueira Fernandes,Artem Dzyuba,6
+Mário Figueira Fernandes,Dmitriy Barinov,4
+Mário Figueira Fernandes,Magomed Ozdoev,5
+Mário Figueira Fernandes,Roman Zobnin,2
+Roman Zobnin,Andrey Semenov,1
+Roman Zobnin,Artem Dzyuba,1
+Roman Zobnin,Magomed Ozdoev,1
+Roman Zobnin,Mário Figueira Fernandes,5
+Yuri Zhirkov,Aleksandr Golovin,1
+Yuri Zhirkov,Artem Dzyuba,1
+Yuri Zhirkov,Daler Kuzyaev,5
+Yuri Zhirkov,Dmitriy Barinov,1
+Yuri Zhirkov,Georgiy Dzhikiya,4
+Yuri Zhirkov,Magomed Ozdoev,2

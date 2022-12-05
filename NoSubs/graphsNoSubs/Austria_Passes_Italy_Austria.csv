@@ -1,0 +1,91 @@
+passer,recipient,n_passes_completed
+Aleksandar Dragović,Daniel Bachmann,5
+Aleksandar Dragović,David Olatukunbo Alaba,5
+Aleksandar Dragović,Florian Grillitsch,10
+Aleksandar Dragović,Konrad Laimer,5
+Aleksandar Dragović,Marcel Sabitzer,2
+Aleksandar Dragović,Marko Arnautović,3
+Aleksandar Dragović,Martin Hinteregger,16
+Aleksandar Dragović,Stefan Lainer,16
+Aleksandar Dragović,Xaver Schlager,4
+Christoph Baumgartner,Aleksandar Dragović,1
+Christoph Baumgartner,David Olatukunbo Alaba,4
+Christoph Baumgartner,Florian Grillitsch,9
+Christoph Baumgartner,Marcel Sabitzer,7
+Christoph Baumgartner,Martin Hinteregger,2
+Christoph Baumgartner,Stefan Lainer,1
+Daniel Bachmann,Aleksandar Dragović,12
+Daniel Bachmann,David Olatukunbo Alaba,5
+Daniel Bachmann,Florian Grillitsch,5
+Daniel Bachmann,Konrad Laimer,1
+Daniel Bachmann,Marcel Sabitzer,3
+Daniel Bachmann,Marko Arnautović,3
+Daniel Bachmann,Martin Hinteregger,11
+Daniel Bachmann,Stefan Lainer,2
+Daniel Bachmann,Xaver Schlager,1
+David Olatukunbo Alaba,Christoph Baumgartner,14
+David Olatukunbo Alaba,Daniel Bachmann,1
+David Olatukunbo Alaba,Florian Grillitsch,8
+David Olatukunbo Alaba,Konrad Laimer,5
+David Olatukunbo Alaba,Marcel Sabitzer,10
+David Olatukunbo Alaba,Marko Arnautović,3
+David Olatukunbo Alaba,Martin Hinteregger,13
+David Olatukunbo Alaba,Xaver Schlager,2
+Florian Grillitsch,Aleksandar Dragović,14
+Florian Grillitsch,Christoph Baumgartner,4
+Florian Grillitsch,Daniel Bachmann,5
+Florian Grillitsch,David Olatukunbo Alaba,3
+Florian Grillitsch,Konrad Laimer,5
+Florian Grillitsch,Marcel Sabitzer,12
+Florian Grillitsch,Marko Arnautović,4
+Florian Grillitsch,Martin Hinteregger,13
+Florian Grillitsch,Stefan Lainer,5
+Florian Grillitsch,Xaver Schlager,7
+Konrad Laimer,Aleksandar Dragović,3
+Konrad Laimer,Christoph Baumgartner,1
+Konrad Laimer,David Olatukunbo Alaba,6
+Konrad Laimer,Florian Grillitsch,3
+Konrad Laimer,Marcel Sabitzer,6
+Konrad Laimer,Marko Arnautović,3
+Konrad Laimer,Stefan Lainer,6
+Konrad Laimer,Xaver Schlager,1
+Marcel Sabitzer,Christoph Baumgartner,7
+Marcel Sabitzer,Daniel Bachmann,1
+Marcel Sabitzer,David Olatukunbo Alaba,10
+Marcel Sabitzer,Florian Grillitsch,10
+Marcel Sabitzer,Konrad Laimer,4
+Marcel Sabitzer,Marko Arnautović,3
+Marcel Sabitzer,Martin Hinteregger,10
+Marcel Sabitzer,Stefan Lainer,3
+Marcel Sabitzer,Xaver Schlager,2
+Marko Arnautović,Aleksandar Dragović,2
+Marko Arnautović,Christoph Baumgartner,1
+Marko Arnautović,David Olatukunbo Alaba,2
+Marko Arnautović,Florian Grillitsch,4
+Marko Arnautović,Konrad Laimer,3
+Marko Arnautović,Marcel Sabitzer,4
+Marko Arnautović,Xaver Schlager,2
+Martin Hinteregger,Aleksandar Dragović,14
+Martin Hinteregger,Daniel Bachmann,13
+Martin Hinteregger,David Olatukunbo Alaba,14
+Martin Hinteregger,Florian Grillitsch,14
+Martin Hinteregger,Konrad Laimer,1
+Martin Hinteregger,Marcel Sabitzer,5
+Stefan Lainer,Aleksandar Dragović,16
+Stefan Lainer,Christoph Baumgartner,1
+Stefan Lainer,Daniel Bachmann,3
+Stefan Lainer,David Olatukunbo Alaba,1
+Stefan Lainer,Florian Grillitsch,3
+Stefan Lainer,Konrad Laimer,2
+Stefan Lainer,Marcel Sabitzer,1
+Stefan Lainer,Marko Arnautović,5
+Stefan Lainer,Martin Hinteregger,1
+Stefan Lainer,Xaver Schlager,7
+Xaver Schlager,Aleksandar Dragović,6
+Xaver Schlager,Christoph Baumgartner,3
+Xaver Schlager,David Olatukunbo Alaba,3
+Xaver Schlager,Florian Grillitsch,2
+Xaver Schlager,Konrad Laimer,3
+Xaver Schlager,Marcel Sabitzer,4
+Xaver Schlager,Martin Hinteregger,2
+Xaver Schlager,Stefan Lainer,5

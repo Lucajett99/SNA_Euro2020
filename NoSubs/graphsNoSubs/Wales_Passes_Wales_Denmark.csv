@@ -1,0 +1,75 @@
+passer,recipient,n_passes_completed
+Aaron Ramsey,Ben Davies,4
+Aaron Ramsey,Chris Mepham,4
+Aaron Ramsey,Connor Roberts,3
+Aaron Ramsey,Daniel James,1
+Aaron Ramsey,Gareth Frank Bale,5
+Aaron Ramsey,Joe Allen,6
+Aaron Ramsey,Joe Rodon,4
+Aaron Ramsey,Joseff Morrell,2
+Aaron Ramsey,Kieffer Roberto Francisco Moore,3
+Ben Davies,Aaron Ramsey,7
+Ben Davies,Chris Mepham,2
+Ben Davies,Gareth Frank Bale,4
+Ben Davies,Joe Allen,6
+Ben Davies,Joe Rodon,6
+Ben Davies,Kieffer Roberto Francisco Moore,1
+Chris Mepham,Ben Davies,1
+Chris Mepham,Connor Roberts,4
+Chris Mepham,Daniel James,1
+Chris Mepham,Danny Ward,1
+Chris Mepham,Gareth Frank Bale,1
+Chris Mepham,Joe Allen,5
+Chris Mepham,Joe Rodon,12
+Chris Mepham,Joseff Morrell,4
+Chris Mepham,Kieffer Roberto Francisco Moore,1
+Connor Roberts,Aaron Ramsey,4
+Connor Roberts,Chris Mepham,4
+Connor Roberts,Daniel James,1
+Connor Roberts,Gareth Frank Bale,5
+Connor Roberts,Joseff Morrell,3
+Daniel James,Aaron Ramsey,1
+Daniel James,Ben Davies,1
+Daniel James,Chris Mepham,1
+Daniel James,Gareth Frank Bale,1
+Daniel James,Joe Allen,2
+Daniel James,Joseff Morrell,1
+Daniel James,Kieffer Roberto Francisco Moore,2
+Danny Ward,Chris Mepham,3
+Danny Ward,Connor Roberts,1
+Danny Ward,Joe Allen,1
+Danny Ward,Joe Rodon,3
+Danny Ward,Kieffer Roberto Francisco Moore,2
+Gareth Frank Bale,Aaron Ramsey,9
+Gareth Frank Bale,Ben Davies,4
+Gareth Frank Bale,Daniel James,2
+Gareth Frank Bale,Joe Allen,1
+Gareth Frank Bale,Joe Rodon,1
+Gareth Frank Bale,Joseff Morrell,2
+Gareth Frank Bale,Kieffer Roberto Francisco Moore,3
+Joe Allen,Aaron Ramsey,6
+Joe Allen,Ben Davies,5
+Joe Allen,Chris Mepham,5
+Joe Allen,Connor Roberts,1
+Joe Allen,Daniel James,4
+Joe Allen,Danny Ward,1
+Joe Allen,Gareth Frank Bale,4
+Joe Allen,Joe Rodon,2
+Joe Allen,Joseff Morrell,5
+Joe Rodon,Aaron Ramsey,3
+Joe Rodon,Ben Davies,10
+Joe Rodon,Chris Mepham,5
+Joe Rodon,Daniel James,1
+Joe Rodon,Danny Ward,3
+Joe Rodon,Gareth Frank Bale,2
+Joe Rodon,Joe Allen,7
+Joe Rodon,Joseff Morrell,3
+Joseff Morrell,Aaron Ramsey,5
+Joseff Morrell,Chris Mepham,5
+Joseff Morrell,Connor Roberts,4
+Joseff Morrell,Daniel James,2
+Joseff Morrell,Gareth Frank Bale,2
+Joseff Morrell,Joe Allen,4
+Joseff Morrell,Joe Rodon,2
+Kieffer Roberto Francisco Moore,Ben Davies,2
+Kieffer Roberto Francisco Moore,Gareth Frank Bale,1

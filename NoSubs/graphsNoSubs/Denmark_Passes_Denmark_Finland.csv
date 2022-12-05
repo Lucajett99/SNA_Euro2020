@@ -1,0 +1,88 @@
+passer,recipient,n_passes_completed
+Andreas Christensen,Christian Dannemann Eriksen,2
+Andreas Christensen,Daniel Wass,8
+Andreas Christensen,Joakim Mæhle,16
+Andreas Christensen,Kasper Schmeichel,1
+Andreas Christensen,Martin Braithwaite Christensen,3
+Andreas Christensen,Pierre-Emile Højbjerg,11
+Andreas Christensen,Simon Thorup Kjær,6
+Andreas Christensen,Thomas Delaney,2
+Christian Dannemann Eriksen,Andreas Christensen,1
+Christian Dannemann Eriksen,Daniel Wass,8
+Christian Dannemann Eriksen,Joakim Mæhle,1
+Christian Dannemann Eriksen,Jonas Older Wind,1
+Christian Dannemann Eriksen,Martin Braithwaite Christensen,2
+Christian Dannemann Eriksen,Pierre-Emile Højbjerg,2
+Christian Dannemann Eriksen,Thomas Delaney,6
+Christian Dannemann Eriksen,Yussuf Yurary Poulsen,1
+Daniel Wass,Andreas Christensen,8
+Daniel Wass,Christian Dannemann Eriksen,10
+Daniel Wass,Joakim Mæhle,2
+Daniel Wass,Jonas Older Wind,4
+Daniel Wass,Pierre-Emile Højbjerg,6
+Daniel Wass,Simon Thorup Kjær,7
+Daniel Wass,Thomas Delaney,4
+Daniel Wass,Yussuf Yurary Poulsen,9
+Joakim Mæhle,Andreas Christensen,4
+Joakim Mæhle,Christian Dannemann Eriksen,3
+Joakim Mæhle,Daniel Wass,1
+Joakim Mæhle,Jonas Older Wind,3
+Joakim Mæhle,Martin Braithwaite Christensen,24
+Joakim Mæhle,Pierre-Emile Højbjerg,14
+Joakim Mæhle,Simon Thorup Kjær,1
+Joakim Mæhle,Thomas Delaney,12
+Joakim Mæhle,Yussuf Yurary Poulsen,6
+Jonas Older Wind,Andreas Christensen,1
+Jonas Older Wind,Christian Dannemann Eriksen,1
+Jonas Older Wind,Daniel Wass,3
+Jonas Older Wind,Joakim Mæhle,1
+Jonas Older Wind,Martin Braithwaite Christensen,3
+Jonas Older Wind,Pierre-Emile Højbjerg,1
+Jonas Older Wind,Thomas Delaney,2
+Jonas Older Wind,Yussuf Yurary Poulsen,1
+Kasper Schmeichel,Joakim Mæhle,2
+Kasper Schmeichel,Martin Braithwaite Christensen,1
+Kasper Schmeichel,Pierre-Emile Højbjerg,1
+Kasper Schmeichel,Simon Thorup Kjær,1
+Kasper Schmeichel,Yussuf Yurary Poulsen,1
+Martin Braithwaite Christensen,Andreas Christensen,4
+Martin Braithwaite Christensen,Christian Dannemann Eriksen,2
+Martin Braithwaite Christensen,Daniel Wass,1
+Martin Braithwaite Christensen,Joakim Mæhle,4
+Martin Braithwaite Christensen,Jonas Older Wind,3
+Martin Braithwaite Christensen,Pierre-Emile Højbjerg,6
+Martin Braithwaite Christensen,Simon Thorup Kjær,1
+Martin Braithwaite Christensen,Thomas Delaney,9
+Martin Braithwaite Christensen,Yussuf Yurary Poulsen,2
+Pierre-Emile Højbjerg,Andreas Christensen,11
+Pierre-Emile Højbjerg,Christian Dannemann Eriksen,2
+Pierre-Emile Højbjerg,Daniel Wass,16
+Pierre-Emile Højbjerg,Joakim Mæhle,9
+Pierre-Emile Højbjerg,Jonas Older Wind,1
+Pierre-Emile Højbjerg,Kasper Schmeichel,2
+Pierre-Emile Højbjerg,Martin Braithwaite Christensen,6
+Pierre-Emile Højbjerg,Simon Thorup Kjær,6
+Pierre-Emile Højbjerg,Thomas Delaney,8
+Pierre-Emile Højbjerg,Yussuf Yurary Poulsen,3
+Simon Thorup Kjær,Andreas Christensen,6
+Simon Thorup Kjær,Daniel Wass,13
+Simon Thorup Kjær,Joakim Mæhle,5
+Simon Thorup Kjær,Kasper Schmeichel,1
+Simon Thorup Kjær,Martin Braithwaite Christensen,1
+Simon Thorup Kjær,Pierre-Emile Højbjerg,6
+Thomas Delaney,Andreas Christensen,6
+Thomas Delaney,Christian Dannemann Eriksen,1
+Thomas Delaney,Daniel Wass,2
+Thomas Delaney,Joakim Mæhle,9
+Thomas Delaney,Jonas Older Wind,2
+Thomas Delaney,Martin Braithwaite Christensen,6
+Thomas Delaney,Pierre-Emile Højbjerg,5
+Thomas Delaney,Simon Thorup Kjær,5
+Thomas Delaney,Yussuf Yurary Poulsen,3
+Yussuf Yurary Poulsen,Christian Dannemann Eriksen,2
+Yussuf Yurary Poulsen,Daniel Wass,4
+Yussuf Yurary Poulsen,Joakim Mæhle,3
+Yussuf Yurary Poulsen,Jonas Older Wind,2
+Yussuf Yurary Poulsen,Martin Braithwaite Christensen,2
+Yussuf Yurary Poulsen,Pierre-Emile Højbjerg,4
+Yussuf Yurary Poulsen,Thomas Delaney,2
