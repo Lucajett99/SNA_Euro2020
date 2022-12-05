@@ -1,4 +1,7 @@
 /.cache
 /matches
+/Subs/imgWhitSubs
+
+/NoSubs/imgWithoutSubs
 *.xlsx
 *.txt
