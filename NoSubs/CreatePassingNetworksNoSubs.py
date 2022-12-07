@@ -57,8 +57,9 @@ def createDicts(df, team, players_df):
     pass_completed.columns = ['player', 'n_passes_completed']
     pass_completed = pass_completed.set_index('player')
     avg_loc = avg_loc.join(pass_completed, on='player')
+    df_avg_loc = avg_loc
     avg_loc = avg_loc.to_dict('index')
-    return pass_between, avg_loc
+    return pass_between, avg_loc, df_avg_loc
 
 def plotPassingNetwork(pass_between, avg_loc,  home_team, away_team, side):
     #if not os.path.exists(f"./imgWithoutSubs/{home_team}_Network_{home_team}_{away_team}.png"):
@@ -123,18 +124,21 @@ def main():
         print(home_team + "\t" + away_team)
         homeLineup = getLineups(match_events, "home")    
         homeLineupDF = pd.read_json(homeLineup, lines=True)
-        pass_betweenHome, avg_locHome = createDicts(match_events, homeTeamName, homeLineupDF)
+        pass_betweenHome, avg_locHome, df_avg_locHome = createDicts(match_events, homeTeamName, homeLineupDF)
        # plotPassingNetwork(pass_betweenHome, avg_locHome, home_team, away_team, "home")
-        
         awayLineup = getLineups(match_events, "away")
         awayLineupDF = pd.read_json(awayLineup, lines=True)
-        pass_betweenAway, avg_locAway = createDicts(match_events, awayTeamName, awayLineupDF)
+        pass_betweenAway, avg_locAway, df_avg_locAway = createDicts(match_events, awayTeamName, awayLineupDF)
         #plotPassingNetwork(pass_betweenAway, avg_locAway,  home_team, away_team, "away")
         #print(pass_betweenHome, pass_betweenAway)
         if not os.path.exists('./graphsNoSubs'):
             os.mkdir('./graphsNoSubs')
-        pass_betweenHome.to_csv(f"./graphsNoSubs/{home_team}_Passes_{home_team}_{away_team}.csv", index=False)
-        pass_betweenAway.to_csv(f"./graphsNoSubs/{away_team}_Passes_{home_team}_{away_team}.csv", index=False)
+        
+        #csv = df = pd.read_json(avg_locHome)
+        print(df_avg_locHome)
+        print(pass_betweenHome)
+        #pass_betweenHome.to_csv(f"./graphsNoSubs/{home_team}_Passes_{home_team}_{away_team}.csv", index=False)
+        #pass_betweenAway.to_csv(f"./graphsNoSubs/{away_team}_Passes_{home_team}_{away_team}.csv", index=False)
         
 
         
