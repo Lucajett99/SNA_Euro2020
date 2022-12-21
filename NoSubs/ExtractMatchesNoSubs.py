@@ -13,6 +13,7 @@ for index, row in df.iterrows():
     away_team = row["away_team"]
     #Get the match_id
     match_events = sb.events(match_id=row['match_id'])
+    match_events.to_excel('test.xlsx', index=False)
     #Create a dummy column pass_goal_assist if not exist to avoid problems
     if not "pass_goal_assist" in match_events:
         match_events['pass_goal_assist'] = ""
