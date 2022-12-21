@@ -14,8 +14,7 @@ IPOTESI 2 (centralità - prestazioni):
 La centralità del gruppo è più bassa quando tutti i membri di una squadra sono ugualmente "centrali".
 h2: Una maggiore centralizzazione dell'interazione nei team porta a una riduzione delle prestazioni del team.
 una rete sarebbe quindi meno centralizzata
-Quando tutti i valori di legame sono uguali è più centralizzata quando la somma delle differenze tra il valore di legame più alto e tutti gli altri valori di legame è al
-suo massimo.
+Quando tutti i valori di legame sono uguali è più centralizzata quando la somma delle differenze tra il valore di legame più alto e tutti gli altri valori di legame è al suo massimo.
 Calcolare la centralità sulla frequenza dei passaggi piuttosto che sul nodo.
 Calcolare centralizzazione della forza
 
