@@ -1,0 +1,40 @@
+- Densità della rete dovrebbe essere direttamente proporzionale (più una rete è densa, migliori dovrebbero essere i riusltati) 
+- Centralità della reta dovrebbe essere inversamente proporzionale ai risultati (più una rete è centralizzarta, peggiori dovrebbero essere i risultati)
+
+METRICHE:
+- Tirare fuori una metrica di densità che sia normalizzata rispetto al massimo numero di passaggi (?)
+- Trashold di densità basato sulla media di passaggi medi per partita
+
+
+IPOTESI 1 (densità - prestazioni):
+h1: Controllando le opportunità di interazione nei team, una maggiore intensità di interazione (densità) porta a un aumento delle prestazioni del team.
+Calcolare l'intensità piuttosto che la densità
+
+IPOTESI 2 (centralità - prestazioni):
+La centralità del gruppo è più bassa quando tutti i membri di una squadra sono ugualmente "centrali".
+h2: Una maggiore centralizzazione dell'interazione nei team porta a una riduzione delle prestazioni del team.
+una rete sarebbe quindi meno centralizzata
+Quando tutti i valori di legame sono uguali è più centralizzata quando la somma delle differenze tra il valore di legame più alto e tutti gli altri valori di legame è al
+suo massimo.
+Calcolare la centralità sulla frequenza dei passaggi piuttosto che sul nodo.
+Calcolare centralizzazione della forza
+
+
+CALCOLI:
+- out-strength = calcolare la somma dei passaggi effettuati da un giocatore
+- in-strength = calcolare la somma dei passaggi ricevuti da un giocatore
+- intensità 
+- centralità sulla frequenza dei passaggi piuttosto che sul nodo.
+- centralizzazione della forza
+
+RETI PESSIME:
+- finaldia vs danimarca
+- ungheria vs germania
+- italia vs spagna
+- polonia vs spagna !
+- russia vs danimarca !
+- svezia vs spagna
+
+RETI MIGLIORI:
+- spagna vs svezia
+
