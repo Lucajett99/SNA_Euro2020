@@ -3,3 +3,4 @@
 /Subs/imgWhitSubs
 /NoSubs/imgWithoutSubs
 *.xlsx
+.cache
