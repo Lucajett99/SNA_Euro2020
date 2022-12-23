@@ -1,0 +1,14 @@
+1) Motivazione delle colonne selezionate (perchè solo quelle feature?)
+2) Scrivere che non abbiamo considerato le sostituzioni
+
+
+
+
+
+
+pass_outcome:  O vuoto o "Incomplete". Indica se il passaggio è avvenuto o no.
+pass_recipient: Nome del giocatore che riceva palla
+pass_shot_assist: se il passaggio ha portato al tiro
+play_pattern: da dove si è verificato l'evento (da azione, da rimessa, da punizione ecc)
+
+
