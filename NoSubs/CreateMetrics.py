@@ -16,7 +16,6 @@ def split_name(filename):
 def createMetrics(filename, df):
     path = f'./graphsNoSubs/{filename}'
     data = open(path, 'r', encoding='utf-8')
-
     next(data, None) #skip first line
 
     centrality_dict = {} #{name: "", cos: 0, cis: 0}
@@ -99,12 +98,11 @@ def createStatistics(df):
     #create an empty dataframe
     statistics = pd.DataFrame(columns = ['Mean', 'Std_dev', 'Min', 'Max', 'Obs'])
 
-
     for metric in metrics:
         #create a new row with the statistics of the metric
         new_row = {'Mean': [df[metric].mean()], 'Std_dev': [df[metric].std()], 'Min': [df[metric].min()], 'Max': [df[metric].max()], 'Obs': [df[metric].count()]}
         #convert the dictionary in a dataframe
-        df_new_row = pd.DataFrame(new_row, columns = ['Mean', 'Std_dev', 'Min', 'Max'])
+        df_new_row = pd.DataFrame(new_row, columns = ['Mean', 'Std_dev', 'Min', 'Max', 'Obs'])
         #add the new row to the dataframe
         statistics = pd.concat([statistics, df_new_row], axis=0, ignore_index=True)
     statistics.index = metrics
@@ -122,8 +120,7 @@ def main():
     #save the dataframe in csv and excel format
     df.to_csv(f"./metrics/AllMetrics.csv", index=False)
     df.to_excel(f"./metrics/AllMetrics.xlsx", index=False)
-
-    #create the statistics for each metric and add them to an unique dataframe
+    #create the statistics for each metric and add them to an unique dataframe (statistics)
     statistics = createStatistics(df)
     print(statistics)
         
