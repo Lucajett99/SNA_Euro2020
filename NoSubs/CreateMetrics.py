@@ -96,7 +96,7 @@ def createMetrics(filename, df):
 def createStatistics(df):
     metrics = ['Ci', 'Co', 'weight_centralization', 'network_intensity']
     #create an empty dataframe
-    statistics = pd.DataFrame(columns = ['Mean', 'Std_dev', 'Min', 'Max', 'Obs'])
+    df_statistics = pd.DataFrame(columns = ['Mean', 'Std_dev', 'Min', 'Max', 'Obs'])
 
     for metric in metrics:
         #create a new row with the statistics of the metric
@@ -104,9 +104,9 @@ def createStatistics(df):
         #convert the dictionary in a dataframe
         df_new_row = pd.DataFrame(new_row, columns = ['Mean', 'Std_dev', 'Min', 'Max', 'Obs'])
         #add the new row to the dataframe
-        statistics = pd.concat([statistics, df_new_row], axis=0, ignore_index=True)
-    statistics.index = metrics
-    return statistics
+        df_statistics = pd.concat([df_statistics, df_new_row], axis=0, ignore_index=True)
+    df_statistics.index = metrics
+    return df_statistics
 
 def main():
     #create an empty dataframe
@@ -121,8 +121,29 @@ def main():
     df.to_csv(f"./metrics/AllMetrics.csv", index=False)
     df.to_excel(f"./metrics/AllMetrics.xlsx", index=False)
     #create the statistics for each metric and add them to an unique dataframe (statistics)
-    statistics = createStatistics(df)
-    print(statistics)
+    df_statistics = createStatistics(df)
+    print(df_statistics)
+    
+#compute mean of the metrics for each team
+def computeMean(df):
+    #create an empty dataframe
+    df_mean = pd.DataFrame(columns = ['team', 'Ci', 'Co', 'weight_centralization', 'network_intensity'])
+    #iterate over all the teams
+    for team in df['team'].unique():
+        #create a new row with the mean of the metrics for each team
+        new_row = {'team': [team], 'Ci': [df[df['team'] == team]['Ci'].mean()], 'Co': [df[df['team'] == team]['Co'].mean()], 'weight_centralization': [df[df['team'] == team]['weight_centralization'].mean()], 'network_intensity': [df[df['team'] == team]['network_intensity'].mean()]}
+        #convert the dictionary in a dataframe
+        df_new_row = pd.DataFrame(new_row, columns = ['team', 'Ci', 'Co', 'weight_centralization', 'network_intensity'])
+        #add the new row to the dataframe
+        df_mean = pd.concat([df_mean, df_new_row], axis=0, ignore_index=True)
+    print(df_mean)
+    if not os.path.exists('./metrics'):
+        os.mkdir('./metrics')
+    #save the dataframe in csv and excel format
+    df_mean.to_csv(f"./metrics/MeanMetrics.csv", index=False)
+    df_mean.to_excel(f"./metrics/MeanMetrics.xlsx", index=False)
+    return df_mean
+
         
 
 
