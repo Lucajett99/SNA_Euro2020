@@ -14,6 +14,8 @@ df_possession = pd.DataFrame(columns=['team', 'match', 'possession_minutes', 'po
 for index, row in df.iterrows():
     home_team = row["home_team"]  
     away_team = row["away_team"]
+    home_score = row["home_score"]
+    away_score = row["away_score"]
     match = home_team + "_" + away_team
     #Get the match_id
     match_events = sb.events(match_id=row['match_id'])
@@ -29,11 +31,11 @@ for index, row in df.iterrows():
     away_percentage = (duration[away_team] / total_minutes)*100
 
     #create two dictionaries, one for each team
-    home_row = {'team': home_team, 'match': [match], 'possession_minutes': [duration[home_team]], 'possession_percentage': [home_percentage]}
-    away_row = {'team': away_team, 'match': [match], 'possession_minutes': [duration[away_team]], 'possession_percentage': [away_percentage]}
+    home_row = {'team': home_team, 'match': [match], 'possession_minutes': [duration[home_team]], 'possession_percentage': [home_percentage], 'goal_scored': [home_score]}
+    away_row = {'team': away_team, 'match': [match], 'possession_minutes': [duration[away_team]], 'possession_percentage': [away_percentage], 'goal_scored': [away_score]}
     #convert the dictionaries to dataframes
-    df_home_row = pd.DataFrame(home_row, columns = ['team', 'match', 'possession_minutes', 'possession_percentage'])
-    df_away_row = pd.DataFrame(away_row, columns = ['team', 'match', 'possession_minutes', 'possession_percentage'])
+    df_home_row = pd.DataFrame(home_row, columns = ['team', 'match', 'possession_minutes', 'possession_percentage', 'goal_scored'])
+    df_away_row = pd.DataFrame(away_row, columns = ['team', 'match', 'possession_minutes', 'possession_percentage', 'goal_scored'])
     #concatenate the two dataframes to the main dataframe
     df_possession = pd.concat([df_possession, df_home_row], axis=0, ignore_index=True)
     df_possession = pd.concat([df_possession, df_away_row], axis=0, ignore_index=True)
