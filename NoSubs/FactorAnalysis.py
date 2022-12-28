@@ -8,31 +8,30 @@ df = pd.read_csv('./metrics/AllMetrics.csv', sep=',', encoding='utf-8')
 df = df.drop(columns=['network_intensity'])
 df.set_index(['team','match'], inplace=True)
 
-print(df)
 
 #KMO test
 kmo_all, kmo_model = calculate_kmo(df)
+print(kmo_model)
 
 #Barlett test
-values = calculate_bartlett_sphericity(df)
+test_statistic, p_value = calculate_bartlett_sphericity(df)
+#p-value: the probability of getting data as far or further from the null value as your data are, if the null were true
+print(p_value)
 
 pca = PCA(n_components=1)
-pca.fit(df)
-df_transform = pca.transform(df)
-print(pca.get_feature_names_out())
+df_transform = pca.fit_transform(df)
 
-'''
-#using scikit-learn library to do the pca factor analysis only one factor with an eigenvalue greater than 1 is retrieved
-from sklearn.decomposition import PCA
-pca = PCA(n_components=1)
-pca.fit(df)
-print(pca.components_)
-df_transform = pca.transform(df)
-print(df_transform)
+allMetrics = pd.read_csv('./metrics/AllMetricsPossession.csv', sep=',', encoding='utf-8')
 
-# Calculate the skewness
-print(skew(df_transform, axis=0, bias=True))
+allMetrics = allMetrics.drop(columns=['Co'])
+allMetrics = allMetrics.drop(columns=['Ci'])
+allMetrics = allMetrics.drop(columns=['weight_centralization'])
+allMetrics = allMetrics.drop(columns=['possession_percentage'])
+#allMetrics = allMetrics.drop(columns=['goal_scored'])
+allMetrics = allMetrics.drop(columns=['network_intensity'])
+allMetrics = allMetrics.drop(columns=['I_normalized_percentage'])
+allMetrics['Centralization'] = df_transform
+print(allMetrics)
 
-# Calculate the kurtosis
-print(kurtosis(df_transform, axis=0, bias=True))
-'''
+allMetrics.to_csv('./metrics/AllMetricsRegression.csv', sep=',', encoding='utf-8', index=False)
+allMetrics.to_excel('./metrics/AllMetricsRegression.xlsx', index=False)
