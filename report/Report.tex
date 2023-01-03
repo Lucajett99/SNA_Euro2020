@@ -95,8 +95,9 @@ is traditionally calculated as the number of existing ties in a network divided 
 \end{itemize}
 Where N is the number of nodes in the network, in our case is 11, because we consider only the starting XI of each team. We focused our attention on the starting XI instead of the best eight player for number of passes (as in Grund CITAAAAA) because we are analyzing a tournament. In a tournament in the final phase if two teams draw go to extra time so some player from the bench could impact the match in a more important way than others. To limit this problem we only focused on the starting XI. Another reason is that these tournament are very short (7 match at maximum) and the match are knockout game, so all the coach try to always play with the best players he has for that match. Another reason for which we focused only on the starting XI is that from 2020 the number of subs a coach can do is 5, while in the past it was 3 (that's because Grund used only the most eight players, because he ideally consider only the players who played the entire match). \\
 So the network intensity for a team is defined as:
-$$I = \sum^N_{i=1} \frac{ C_{OS}(i) +  C_{IS}(i)}{2}$$
-This is just the number of total passes a team has made. Differently from Grund we can't normalize this metric for the time of possession of the team, because we don't have this information. \\
+$$I = \frac{1}{T}\sum^N_{i=1} \frac{ C_{OS}(i) +  C_{IS}(i)}{2}$$
+That is just the total number of passes made by a team in a match divided by the ball possession time in minutes. Given the data we had we can compute the effective ball possession time, so the sum of the time of possession of both team in a match does not sum up to 90 minutes, because in a match there are also the stoppages for injuries, substitutions, goals and so on. This can explain why the range of values the network intensity assumes in our case is slightly different from the one in Grund's paper.
+\\
 \subsection{Network Centralization}
 The network centralization is computed by computing two different metrics: the weighted centralization and the strenght centralization. \\
 \subsubsection{Weighted centralization}
@@ -123,7 +124,7 @@ We start the result section presenting a table summarising the results of the me
                 \hline
                 & Mean & Std\_dev & Min & Max & Obs \\
                 \hline
-                $I$  &    376.372549 & 132.701028 & 89 &722 &  102 \\
+                $I$  &  12.67415006 & 2.011584937 & 6.970118575 &16.65631825 &  102 \\
                 \hline
                 $C_w$  &  0.030206  &  0.011425 & 0.001864 & 0.065984 & 102 \\
                 \hline

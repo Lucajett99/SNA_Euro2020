@@ -123,7 +123,8 @@ def main():
     #create the statistics for each metric and add them to an unique dataframe (statistics)
     df_statistics = createStatistics(df)
     print(df_statistics)
-    
+    computeMean(df)
+
 #compute mean of the metrics for each team
 def computeMean(df):
     #create an empty dataframe
