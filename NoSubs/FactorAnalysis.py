@@ -23,15 +23,14 @@ df_transform = pca.fit_transform(df)
 
 allMetrics = pd.read_csv('./metrics/AllMetricsPossession.csv', sep=',', encoding='utf-8')
 
+
 allMetrics = allMetrics.drop(columns=['Co'])
 allMetrics = allMetrics.drop(columns=['Ci'])
-allMetrics = allMetrics.drop(columns=['weight_centralization'])
+#allMetrics = allMetrics.drop(columns=['weight_centralization'])
 allMetrics = allMetrics.drop(columns=['possession_percentage'])
-#allMetrics = allMetrics.drop(columns=['goal_scored'])
 allMetrics = allMetrics.drop(columns=['network_intensity'])
 allMetrics = allMetrics.drop(columns=['I_normalized_percentage'])
 allMetrics['Centralization'] = df_transform
-print(allMetrics)
 
 allMetrics.to_csv('./metrics/AllMetricsRegression.csv', sep=',', encoding='utf-8', index=False)
 allMetrics.to_excel('./metrics/AllMetricsRegression.xlsx', index=False)

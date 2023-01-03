@@ -109,6 +109,7 @@ def createStatistics(df):
     return df_statistics
 
 def main():
+    computeCorrelationTable()
     #create an empty dataframe
     df = pd.DataFrame(columns = ['team', 'match', 'Ci', 'Co', 'weight_centralization', 'network_intensity'])
     #iterate over all the files in the folder for take all matches
@@ -123,6 +124,13 @@ def main():
     #create the statistics for each metric and add them to an unique dataframe (statistics)
     df_statistics = createStatistics(df)
     print(df_statistics)
+
+def computeCorrelationTable():
+    df = pd.read_csv('./metrics/AllMetricsPossession.csv', sep=',', encoding='utf-8')
+    print(df)
+    #calculate the correlation between the intensity and the goal scored
+    corr = df.corr()
+    print(corr)
     
 #compute mean of the metrics for each team
 def computeMean(df):
