@@ -62,54 +62,54 @@ def createDicts(df, team, players_df):
     return pass_between, avg_loc, df_avg_loc
 
 def plotPassingNetwork(pass_between, avg_loc,  home_team, away_team, side):
-    #if not os.path.exists(f"./imgWithoutSubs/{home_team}_Network_{home_team}_{away_team}.png"):
-    color = "blue"
-    min_pass_count = 2 ##minimum number of passes for a link to be plotted
-    pitch = Pitch()
-    # specifying figure size (width, height)
-    fig, ax = pitch.draw(figsize=(8, 4))
-    arrow_shift = 1 ##Units by which the arrow moves from its original position
-    shrink_val = 1.5 ##Units by which the arrow is shortened from the end_points 
-    for row in pass_between.itertuples():
-        if( row[2] in avg_loc.keys()):
-            n_passBetween = row[3] ## for the arrow-width and the alpha
-            passer = avg_loc[row[1]]
-            receiver = avg_loc[row[2]]
+    if not os.path.exists(f"./imgWithoutSubs/{away_team}_Network_{home_team}_{away_team}.png"):
+        color = "blue"
+        min_pass_count = 2 ##minimum number of passes for a link to be plotted
+        pitch = Pitch()
+        # specifying figure size (width, height)
+        fig, ax = pitch.draw(figsize=(8, 4))
+        arrow_shift = 1 ##Units by which the arrow moves from its original position
+        shrink_val = 1.5 ##Units by which the arrow is shortened from the end_points 
+        for row in pass_between.itertuples():
+            if( row[2] in avg_loc.keys()):
+                n_passBetween = row[3] ## for the arrow-width and the alpha
+                passer = avg_loc[row[1]]
+                receiver = avg_loc[row[2]]
 
-            alpha = n_passBetween/15
-            if alpha >1:
-                alpha=1
+                alpha = n_passBetween/15
+                if alpha >1:
+                    alpha=1
 
-            if abs( receiver['x'] - passer['x']) > abs(receiver['y'] - passer['y']):
+                if abs( receiver['x'] - passer['x']) > abs(receiver['y'] - passer['y']):
 
-                if receiver['id'] > passer['id']:
-                    ax.annotate("", xy=(receiver['x'], receiver['y'] + arrow_shift), xytext=(passer['x'], passer['y'] + arrow_shift),
-                                    arrowprops=dict(arrowstyle="-|>", color="0.25", shrinkA=shrink_val, shrinkB=shrink_val, lw = n_passBetween*0.12, alpha=alpha))
+                    if receiver['id'] > passer['id']:
+                        ax.annotate("", xy=(receiver['x'], receiver['y'] + arrow_shift), xytext=(passer['x'], passer['y'] + arrow_shift),
+                                        arrowprops=dict(arrowstyle="-|>", color="0.25", shrinkA=shrink_val, shrinkB=shrink_val, lw = n_passBetween*0.12, alpha=alpha))
 
-                elif passer['id'] > receiver['id']:
-                    ax.annotate("", xy=(receiver['x'], receiver['y'] - arrow_shift), xytext=(passer['x'], passer['y'] - arrow_shift),
-                                    arrowprops=dict(arrowstyle="-|>", color="0.25", shrinkA=shrink_val, shrinkB=shrink_val, lw=n_passBetween*0.12, alpha=alpha))
+                    elif passer['id'] > receiver['id']:
+                        ax.annotate("", xy=(receiver['x'], receiver['y'] - arrow_shift), xytext=(passer['x'], passer['y'] - arrow_shift),
+                                        arrowprops=dict(arrowstyle="-|>", color="0.25", shrinkA=shrink_val, shrinkB=shrink_val, lw=n_passBetween*0.12, alpha=alpha))
 
-            elif abs(receiver['x'] - passer['x']) <= abs(receiver['y'] - passer['y']):
+                elif abs(receiver['x'] - passer['x']) <= abs(receiver['y'] - passer['y']):
 
-                if receiver['id'] > passer['id']:
-                    ax.annotate("", xy=(receiver['x'] + arrow_shift, receiver['y']), xytext=(passer['x'] + arrow_shift, passer['y']),
-                                    arrowprops=dict(arrowstyle="-|>", color="0.25", shrinkA=shrink_val, shrinkB=shrink_val, lw=n_passBetween*0.12, alpha=alpha))
+                    if receiver['id'] > passer['id']:
+                        ax.annotate("", xy=(receiver['x'] + arrow_shift, receiver['y']), xytext=(passer['x'] + arrow_shift, passer['y']),
+                                        arrowprops=dict(arrowstyle="-|>", color="0.25", shrinkA=shrink_val, shrinkB=shrink_val, lw=n_passBetween*0.12, alpha=alpha))
 
-                elif passer['id'] > receiver['id']:
-                    ax.annotate("", xy=(receiver['x'] - arrow_shift, receiver['y']), xytext=(passer['x'] - arrow_shift, passer['y']),
-                                    arrowprops=dict(arrowstyle="-|>", color="0.25", shrinkA=shrink_val, shrinkB=shrink_val, lw=n_passBetween*0.12, alpha=alpha))
+                    elif passer['id'] > receiver['id']:
+                        ax.annotate("", xy=(receiver['x'] - arrow_shift, receiver['y']), xytext=(passer['x'] - arrow_shift, passer['y']),
+                                        arrowprops=dict(arrowstyle="-|>", color="0.25", shrinkA=shrink_val, shrinkB=shrink_val, lw=n_passBetween*0.12, alpha=alpha))
 
-        for name, player in avg_loc.items():
-            ax.scatter(player['x'], player['y'], s=player['n_passes_completed']*1.3, color=color, zorder = 4)
-            ax.text(player['x'], player['y']+2 if player['y'] > 40 else player['y'] -2, s=name.split(" ")[-1], rotation=270, va="top" if player['y']<40 else "bottom", size=6.5, fontweight="book", zorder=7, color=color)
-        fig.tight_layout()
-    
-    if (side == "home"):
-        plt.savefig(f"./imgWithoutSubs/{home_team}_Network_{home_team}_{away_team}.png")
+            for name, player in avg_loc.items():
+                ax.scatter(player['x'], player['y'], s=player['n_passes_completed']*1.3, color=color, zorder = 4)
+                ax.text(player['x'], player['y']+2 if player['y'] > 40 else player['y'] -2, s=name.split(" ")[-1], rotation=270, va="top" if player['y']<40 else "bottom", size=6.5, fontweight="book", zorder=7, color=color)
+            fig.tight_layout()
+        
+        if (side == "home"):
+            plt.savefig(f"./imgWithoutSubs/{home_team}_Network_{home_team}_{away_team}.png")
 
-    else:
-        plt.savefig(f"./imgWithoutSubs/{away_team}_Network_{home_team}_{away_team}.png")
+        else:
+            plt.savefig(f"./imgWithoutSubs/{away_team}_Network_{home_team}_{away_team}.png")
 
 def main():
     # Get Matches from Euro2020
@@ -125,18 +125,16 @@ def main():
         homeLineup = getLineups(match_events, "home")    
         homeLineupDF = pd.read_json(homeLineup, lines=True)
         pass_betweenHome, avg_locHome, df_avg_locHome = createDicts(match_events, homeTeamName, homeLineupDF)
-       # plotPassingNetwork(pass_betweenHome, avg_locHome, home_team, away_team, "home")
+        plotPassingNetwork(pass_betweenHome, avg_locHome, home_team, away_team, "home")
         awayLineup = getLineups(match_events, "away")
         awayLineupDF = pd.read_json(awayLineup, lines=True)
         pass_betweenAway, avg_locAway, df_avg_locAway = createDicts(match_events, awayTeamName, awayLineupDF)
-        #plotPassingNetwork(pass_betweenAway, avg_locAway,  home_team, away_team, "away")
+        plotPassingNetwork(pass_betweenAway, avg_locAway,  home_team, away_team, "away")
         #print(pass_betweenHome, pass_betweenAway)
         if not os.path.exists('./graphsNoSubs'):
             os.mkdir('./graphsNoSubs')
         
         #csv = df = pd.read_json(avg_locHome)
-        print(df_avg_locHome)
-        print(pass_betweenHome)
         #pass_betweenHome.to_csv(f"./graphsNoSubs/{home_team}_Passes_{home_team}_{away_team}.csv", index=False)
         #pass_betweenAway.to_csv(f"./graphsNoSubs/{away_team}_Passes_{home_team}_{away_team}.csv", index=False)
         
