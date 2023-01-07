@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.5)  5 JAN 2023 10:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.5)  6 JAN 2023 20:03
 entering extended mode
 **"c:/Users/dino9/Desktop/UNI/MAGISTRALE/SOCIAL NETWORK ANALYSIS/Progetto/SNA_Euro2020/report/Report.tex"
 (c:/Users/dino9/Desktop/UNI/MAGISTRALE/SOCIAL NETWORK ANALYSIS/Progetto/SNA_Euro2020/report/Report.tex
@@ -238,11 +238,7 @@ Package: appendix 2020/02/08 v1.2c extra appendix facilities
 File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count286
 \l__pdf_internal_box=\box52
-) (Report.aux
-
-LaTeX Warning: Label `fig:example' multiply defined.
-
-)
+) (Report.aux)
 \openout1 = `Report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
@@ -345,70 +341,87 @@ Underfull \hbox (badness 10000) in paragraph at lines 112--114
  []
 
 [4]
-<../NoSubs/imgWithoutSubs/Spain_Network_Spain_Sweden.png, id=108, 578.16pt x 289.08pt>
+Underfull \hbox (badness 10000) in paragraph at lines 122--139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--146
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+
+ []
+
+<../NoSubs/imgWithoutSubs/Spain_Network_Spain_Sweden.png, id=113, 578.16pt x 289.08pt>
 File: ../NoSubs/imgWithoutSubs/Spain_Network_Spain_Sweden.png Graphic file (type png)
 <use ../NoSubs/imgWithoutSubs/Spain_Network_Spain_Sweden.png>
-Package pdftex.def Info: ../NoSubs/imgWithoutSubs/Spain_Network_Spain_Sweden.png  used on input line 148.
+Package pdftex.def Info: ../NoSubs/imgWithoutSubs/Spain_Network_Spain_Sweden.png  used on input line 170.
 (pdftex.def)             Requested size: 360.00137pt x 179.99966pt.
-<../NoSubs/imgWithoutSubs/Spain_Network_Spain_Poland.png, id=110, 578.16pt x 289.08pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--173
+
+ []
+
+[6]
+<../NoSubs/imgWithoutSubs/Spain_Network_Spain_Poland.png, id=121, 578.16pt x 289.08pt>
 File: ../NoSubs/imgWithoutSubs/Spain_Network_Spain_Poland.png Graphic file (type png)
 <use ../NoSubs/imgWithoutSubs/Spain_Network_Spain_Poland.png>
-Package pdftex.def Info: ../NoSubs/imgWithoutSubs/Spain_Network_Spain_Poland.png  used on input line 154.
+Package pdftex.def Info: ../NoSubs/imgWithoutSubs/Spain_Network_Spain_Poland.png  used on input line 177.
 (pdftex.def)             Requested size: 179.99725pt x 89.99762pt.
-<../NoSubs/imgWithoutSubs/Spain_Network_Switzerland_Spain.png, id=111, 578.16pt x 289.08pt>
+<../NoSubs/imgWithoutSubs/Spain_Network_Switzerland_Spain.png, id=122, 578.16pt x 289.08pt>
 File: ../NoSubs/imgWithoutSubs/Spain_Network_Switzerland_Spain.png Graphic file (type png)
 <use ../NoSubs/imgWithoutSubs/Spain_Network_Switzerland_Spain.png>
-Package pdftex.def Info: ../NoSubs/imgWithoutSubs/Spain_Network_Switzerland_Spain.png  used on input line 156.
+Package pdftex.def Info: ../NoSubs/imgWithoutSubs/Spain_Network_Switzerland_Spain.png  used on input line 179.
 (pdftex.def)             Requested size: 179.99725pt x 89.99762pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--161
+Underfull \hbox (badness 10000) in paragraph at lines 174--181
 
  []
 
-[5] [6 <../NoSubs/imgWithoutSubs/Spain_Network_Spain_Sweden.png> <../NoSubs/imgWithoutSubs/Spain_Network_Spain_Poland.png> <../NoSubs/imgWithoutSubs/Spain_Network_Switzerland_Spain.png>]pdfTeX warning (ext4): destination with the same identifier (name{subfigure.2.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.165         \subfloat
-                       [\centering Poland in  Spain-Poland]{{\includegraphic...
-<../NoSubs/imgWithoutSubs/Poland_Network_Spain_Poland.png, id=130, 578.16pt x 289.08pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
+
+ []
+
+<../NoSubs/imgWithoutSubs/Poland_Network_Spain_Poland.png, id=123, 578.16pt x 289.08pt>
 File: ../NoSubs/imgWithoutSubs/Poland_Network_Spain_Poland.png Graphic file (type png)
 <use ../NoSubs/imgWithoutSubs/Poland_Network_Spain_Poland.png>
-Package pdftex.def Info: ../NoSubs/imgWithoutSubs/Poland_Network_Spain_Poland.png  used on input line 165.
+Package pdftex.def Info: ../NoSubs/imgWithoutSubs/Poland_Network_Spain_Poland.png  used on input line 188.
 (pdftex.def)             Requested size: 179.99725pt x 89.99762pt.
-pdfTeX warning (ext4): destination with the same identifier (name{subfigure.2.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.167         \subfloat
-                       [\centering Russia in Russia-Denmark]{{\includegraphi...
-<../NoSubs/imgWithoutSubs/Russia_Network_Russia_Denmark.png, id=131, 578.16pt x 289.08pt>
+<../NoSubs/imgWithoutSubs/Russia_Network_Russia_Denmark.png, id=124, 578.16pt x 289.08pt>
 File: ../NoSubs/imgWithoutSubs/Russia_Network_Russia_Denmark.png Graphic file (type png)
 <use ../NoSubs/imgWithoutSubs/Russia_Network_Russia_Denmark.png>
-Package pdftex.def Info: ../NoSubs/imgWithoutSubs/Russia_Network_Russia_Denmark.png  used on input line 167.
+Package pdftex.def Info: ../NoSubs/imgWithoutSubs/Russia_Network_Russia_Denmark.png  used on input line 190.
 (pdftex.def)             Requested size: 179.99725pt x 89.99762pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 172--177
+[7 <../NoSubs/imgWithoutSubs/Spain_Network_Spain_Sweden.png> <../NoSubs/imgWithoutSubs/Spain_Network_Spain_Poland.png> <../NoSubs/imgWithoutSubs/Spain_Network_Switzerland_Spain.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 195--197
 
  []
 
-[7 <../NoSubs/imgWithoutSubs/Poland_Network_Spain_Poland.png> <../NoSubs/imgWithoutSubs/Russia_Network_Russia_Denmark.png>] [8] (Report.aux)
 
-LaTeX Warning: There were multiply-defined labels.
+Underfull \hbox (badness 10000) in paragraph at lines 220--222
 
+ []
+
+[8 <../NoSubs/imgWithoutSubs/Poland_Network_Spain_Poland.png> <../NoSubs/imgWithoutSubs/Russia_Network_Russia_Denmark.png>] [9] (Report.aux)
 Package rerunfilecheck Info: File `Report.out' has not changed.
-(rerunfilecheck)             Checksum: 5F55B594BA923C3D9577C2FB2C7A8F3E;2946.
+(rerunfilecheck)             Checksum: B9B83D5491371C822E5059C1C5BFE808;2926.
  ) 
 Here is how much of TeX's memory you used:
- 10811 strings out of 478864
- 170632 string characters out of 2848661
- 498938 words of memory out of 3000000
- 28547 multiletter control sequences out of 15000+600000
+ 10820 strings out of 478864
+ 170752 string characters out of 2848661
+ 499028 words of memory out of 3000000
+ 28551 multiletter control sequences out of 15000+600000
  409918 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,11n,79p,1195b,405s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,11n,79p,1183b,401s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\dino9\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/dino9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/dino9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/dino9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/dino9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/dino9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/dino9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/dino9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/dino9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/dino9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/dino9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/dino9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Report.pdf (8 pages, 350030 bytes).
+Output written on Report.pdf (9 pages, 357365 bytes).
 PDF statistics:
- 203 PDF objects out of 1000 (max. 8388607)
- 36 named destinations out of 1000 (max. 500000)
+ 214 PDF objects out of 1000 (max. 8388607)
+ 41 named destinations out of 1000 (max. 500000)
  178 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -93,7 +93,7 @@ intensity_model = sm.OLS(df["goal_scored"], df["I_normalized_minutes"]).fit()
 print(f"Coefficient {intensity_model.params}: ")
 
 # Crea il modello di regressione per verificare la relazione tra centralità e prestazioni
-centrality_model = sm.OLS(df["goal_scored"], df["weight_centralization"]).fit()
+centrality_model = sm.OLS(df["goal_scored"], df["Centralization"]).fit()
 print(f"Coefficient {centrality_model.params}: ")
 
 # Stampa il test di significatività per il coefficiente di regressione dell'intensità

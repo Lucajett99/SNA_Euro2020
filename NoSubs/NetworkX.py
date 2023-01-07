@@ -1,10 +1,19 @@
 import networkx as nx
 import matplotlib.pyplot as plt
+import statistics
 import csv
 import os 
 
+def mean(dict):
+    sum = 0
+    for val in dict.values():
+        sum += val
+    mean =  sum / len(dict)
+    return str(mean)
+
+
 total_centrality = {}
-squadName = "Italy"
+squadName = "Croatia"
 for file in os.listdir("./graphsNoSubs/"):
     if file.startswith(squadName):
         print(file)
@@ -35,7 +44,7 @@ for file in os.listdir("./graphsNoSubs/"):
         nx.draw_networkx_edges(G, pos, edgelist=elarge, width=1, edge_color="r")
         nx.draw_networkx_edges(G, pos, edgelist=esmall, alpha=0.3, width=1, edge_color="b")
 
-        centrality = G.degree(weight='weight')
+        centrality = G.in_degree(weight='weight')
         weighted_centrality = {}
         for player in centrality:
             weighted_centrality[player[0]] = player[1] / total_passes
@@ -45,8 +54,9 @@ for file in os.listdir("./graphsNoSubs/"):
             else:
                 total_centrality[player[0]] += weighted_centrality[player[0]]
         
-        print(weighted_centrality)
-        print("Max: " + max(weighted_centrality, key=weighted_centrality.get) + "\n\n")
+        print(sorted(weighted_centrality.items(), key=lambda x:x[1]))
+        print("Max: " + max(weighted_centrality, key=weighted_centrality.get))
+        print("Mean: " + mean(weighted_centrality) + "\n\n")
         # node labels
         #nx.draw_networkx_labels(G, pos, font_size=4, font_family="sans-serif")
         # edge weight labels
@@ -60,6 +70,9 @@ for file in os.listdir("./graphsNoSubs/"):
         #plt.show()
 print("TOTALI\n")
 print(sorted(total_centrality.items(), key=lambda x:x[1]))
-print("Total Max: " + max(total_centrality, key=total_centrality.get) + "\n\n")
+print("Total Max: " + max(total_centrality, key=total_centrality.get))
+print("Total Mean: " + mean(total_centrality) + "\n\n")
 
+#Modric Mean: 0,153632232365031125
+#Kovavic Mean: 0,12402384710603185
 

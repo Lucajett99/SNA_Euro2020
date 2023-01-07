@@ -120,7 +120,7 @@ Where $C_{IS}^*$ is the biggest incoming node strenght in the network (so the bi
 \subsection{Quantitative Analysis}
 \label{quantitative-analysis}
 We start the result section presenting a table summarising the results of the metrics we obtained for each of the 102 observation we made. \\
-\begin{table}[h]
+\begin{table}[H]
         \centering
         \begin{tabular}{|c|c|c|c|c|c|}
                 \hline
@@ -137,43 +137,88 @@ We start the result section presenting a table summarising the results of the me
         \end{tabular}
         \caption{Statistical summary of the metrics}
 \end{table}
+As we have three different metrics for the centralization, we decided to apply the Principal Component Analysis (\textbf{PCA}) to reduce the dimensionality of the data. The Principal Components Analysis (PCA) aim to represent the variation in the variables of a dataset using a smaller number of "main components".\\
+Before applying the PCA we computed the Factor Analysis with two metrics: the Kaiser-Meyer-Olkin measure and the Bartlett's test of sphericity. The first one is a measure of sampling adequacy and the second one is a measure of the correlation between the variables. \\
+For the Kaiser-Meyer-Olkin measure we obtained a value of 0.57, which is an acceptable value, and for the Bartlett's test of sphericity we obtained a p-value $<$ 0.00, which is a very low value, so the test is significant.
+After that we applied the PCA and we obtained a single value for the centralization metrics as we keep the eigenvector with the highest eigenvalue, which is the main component of this dataset. \\
+To evaluate the performance of a team as it is very difficult to evaluate the defensive performance of a team, and as the passes is an offensive metric, we decided to use the goal scored as a metric to evaluate the performance of a team. \\
+So, our final dataset is composed by: team, match, network intensity, centralization (by PCA), goal scored. To test our hypothesis we trained a simple linear regression and we analyzed the coefficients of the regression and we noticed that the coefficient of the network intensity is positive and the coefficient of the centralization is negative. This means that there is a positive correlation between the network intensity and the goal scored and a negative correlation between the centralization and the goal scored. \\
+
+\begin{table}[H]
+    \centering
+    \begin{tabular}{|c|c|c|}
+            \hline
+            & Coefficient & p-value \\
+            \hline
+            $Intensity$  &  $0.10951$ & $0.00042991182$  \\
+            \hline
+            $Centralization$  &  $-0.059461$  &  $0.9923159219812717$ \\
+            \hline
+    \end{tabular}
+    \caption{Linear regression results}
+\end{table}
+
+Analyzing the p-value of the regression we can say that the network intensity is statistically significant, but the centralization is not. So we can conclude that the first hypothesis is confirmed, but the second one is not despite the fact that the coefficient is negative. \\
 
 \subsection{Qualitative Analysis}
 \label{qualitative-analysis}
 \subsubsection{Pattern Recognition}
 Analyze the network structure of a team give us a lot of information about the team's style of play and the way the coach organize the team in a particular match. We made a graphical visualization for each of the 102 observation we made, using a python library called \emph{mlpsoccer} and \emph{matplotlib}. We computed the average position of each player in the starting XI and we used this information to plot the network. The dimension of a node is proportional to the number of passes made by the player and the dimension of a edge is proportional to the strenght of that tie. Analyze these visualization give us a lot of insight. One of the most beautiful example we obtained is the network of the Spain against the Sweden. \\
 %TODO: Change 
-\begin{figure}
+\begin{figure}[H]
         \centering
         \includegraphics[width=0.8\textwidth]{../NoSubs/imgWithoutSubs/Spain_Network_Spain_Sweden.png}
         \caption{Spain-Sweden}
+        \label{fig: spain_sweden}
 \end{figure}
 As you can easily see this network is perfectly symmetric and this can make us recognize a pattern. This match is the most interesting example of the way the Spanish team plays, but starting from this, we can see that the Spanish team plays in a very similar way in almost all the matches. \\
-\begin{figure}%
+\begin{figure}[H]
         \centering
         \subfloat[\centering Spain-Poland]{{\includegraphics[width=0.4\textwidth]{../NoSubs/imgWithoutSubs/Spain_Network_Spain_Poland.png} }}%
         \qquad
         \subfloat[\centering Switzerland-Spain]{{\includegraphics[width=0.4\textwidth]{../NoSubs/imgWithoutSubs/Spain_Network_Switzerland_Spain.png} }}%
-        \label{fig:example}%
-    \end{figure}
+        \label{fig: spain_pattern}%
+\end{figure}
 
 Other interesting example are the networks of Russia against Denmark and Poland against Spain. In these two matches the strongest tie between two players is a pass from the goalkeeper to the centre forward. This is due to the difference of quality between the two teams and the high pressing the two opponent team made during these matches, so the only playing possibility for Poland and Russia were to pass the ball to the goalkeeper and he had the only choice to make a long pass toward the striker. \\
 
 
-\begin{figure}%
+\begin{figure}[H]
         \centering
-        \subfloat[\centering Poland in  Spain-Poland]{{\includegraphics[width=0.4\textwidth]{../NoSubs/imgWithoutSubs/Poland_Network_Spain_Poland.png} }}%
+        \subfloat[\centering Poland in Spain-Poland]{{\includegraphics[width=0.4\textwidth]{../NoSubs/imgWithoutSubs/Poland_Network_Spain_Poland.png} }}%
         \qquad
         \subfloat[\centering Russia in Russia-Denmark]{{\includegraphics[width=0.4\textwidth]{../NoSubs/imgWithoutSubs/Russia_Network_Russia_Denmark.png} }}%
         \label{fig:example}%
-    \end{figure}
+\end{figure}
 
-\subsubsection{Node Centralization}
-For each match, for each team we computed a weighted node centralization for each player. Then we computed the average weighted centralization for each player for each team. In some cases the results match our expectations, in other cases not. \\
-The most evident example in which the difference between the average weighted centralization and the weighted centralization of a player is very high is the case of the Croatia team. As soon as Luka Modric (Croatia's captain) is one of the most important players in the world, and moreover in the football history, we did expect that he is the most important node in Croatia's networks. This hypothesis is totally confirmed as Modric is the node with the highest centralization in three on four matches played by Croatia in the tournament. The only match in which Modric is not the most important node in the network is the one against the Spain, in which the Croatia has been eliminated from the tournament losing 3-5. The reason behind the fact that in this match Croatia's captain was not the most important node is related with the high pressing Spain midfielders done on him on that match. This is a fantastic explanation of how analyze the network structure of a team can be very useful to gain information about the style of play of opponent teams and to make countermeasures.  \\ 
-%%%%%%TABELLA SU MODRIC %%%%%%%%%%%
-We expect to find the same result for the Portugal, as Cristiano Ronaldo is the most important player in the team. This is not the case, as the average weighted centralization of Ronaldo is lower than the weighted centralization of the other players. This is due to the fact that Ronaldo as a striker is not involved in the build-up of the play. The top two players for node centrality have been Ruben Dias and Pepe, the two centre back. This is the case of the majority of the teams for example Spain, England, France, Sweden, Ukraine and so on. This is due to the style of play of these teams: to retain the ball it is very usual to have a lot of passages between defenders. \\
-An honour mention to the winner of the tournament: Italy. We did expect that Jorginho Frello would be the most important node in the Italian network, and dispite he is the most central node in just 2 matches on 7, he has the highest average weighted centralization, confirming our hypothesis. It is important to note that in the most matches the two most important nodes for Italy have always been Jorginho Frello or Marco Verratti, two midfielders. One important exceptions is the match against Spain (one of the most difficult match in the tournament for Italy) in wich the most important node has been Giorgio Chiellini, the centre back, for the same reason as Croatia-Spain. \\
+\subsubsection{Node Centrality}
+For each match, for each team we computed a weighted in-degree node centrality for each player. We used the in-degree centrality beacuse we are interested in how much other player in a team look for a certain player during a match. Then we computed the average weighted centrality for each player for each team. In some cases the results match our expectations, in other cases not. \\
+The most evident example in which the difference between the average weighted centrality and the weighted centrality of a player is very high is the case of the Croatia team. As soon as Luka Modric (Croatia's captain) is one of the most important players in the world, and moreover in the football history, we did expect that he is the most important node in Croatia's networks. This hypothesis is totally confirmed as Modric is the node with the highest centrality in three on four matches played by Croatia in the tournament. The only match in which Modric is not the most important node in the network is the one against the Spain, in which the Croatia has been eliminated from the tournament losing 3-5. The reason behind the fact that in this match Croatia's captain was not the most important node is related with the high pressing Spain midfielders done on him on that match. This is a fantastic explanation of how analyze the network structure of a team can be very useful to gain information about the style of play of opponent teams and to make countermeasures.  \\ 
+
+\begin{table}[H]
+    \centering
+    \begin{tabular}{|c|c|c|c|}
+            \hline
+           Opponent & Highest centrality & Second highest centrality & Mean \\
+            \hline
+            Czech Republic &  Modric: $0.1645$ & Lovren: $0.1348$ & $0.0909$ \\
+            \hline
+            Scotland &  Modric: $0.1621$ & Brozovic: $0.1439$ & $0.0909$ \\
+            \hline
+            England &  Modric: $0.1643$ & Kovacic: $0.1388$ & $0.0909$ \\
+            \hline
+            Spain &  Brozovic: $0.1745$ & Modric: $0.1236$ & $0.0909$ \\
+            \hline
+            Total match &  Modric: $0.6145$ & Kovacic: $0.4960$ & $0.25$ \\
+            \hline
+    \end{tabular}
+    \caption{Croatia's node in-degree centrality}
+\end{table}
+
+
+
+We expect to find the same result for the Portugal, as Cristiano Ronaldo is the most important player in the team. This is not the case, as the average weighted centrality of Ronaldo is lower than the weighted centrality of the other players. This is due to the fact that Ronaldo as a striker is not involved in the build-up of the play. The top two players for node centrality have been Ruben Dias and Pepe, the two centre back. This is the case of the majority of the teams for example Spain, England, France, Sweden, Ukraine and so on. This is due to the style of play of these teams: to retain the ball it is very usual to have a lot of passages between defenders. \\
+An honour mention to the winner of the tournament: Italy. We did expect that Jorginho Frello would be the most important node in the Italian network, and dispite he is the most central node in just 2 matches on 7, he has the highest average weighted centrality, confirming our hypothesis. It is important to note that in the most matches the two most important nodes for Italy have always been Jorginho Frello or Marco Verratti, two midfielders. One important exceptions is the match against Spain (one of the most difficult match in the tournament for Italy) in wich the most important node has been Giorgio Chiellini, the centre back, for the same reason as Croatia-Spain. \\
 
 
 

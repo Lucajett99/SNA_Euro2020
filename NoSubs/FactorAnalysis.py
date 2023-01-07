@@ -26,7 +26,7 @@ allMetrics = pd.read_csv('./metrics/AllMetricsPossession.csv', sep=',', encoding
 
 allMetrics = allMetrics.drop(columns=['Co'])
 allMetrics = allMetrics.drop(columns=['Ci'])
-#allMetrics = allMetrics.drop(columns=['weight_centralization'])
+allMetrics = allMetrics.drop(columns=['weight_centralization'])
 allMetrics = allMetrics.drop(columns=['possession_percentage'])
 allMetrics = allMetrics.drop(columns=['network_intensity'])
 allMetrics = allMetrics.drop(columns=['I_normalized_percentage'])
