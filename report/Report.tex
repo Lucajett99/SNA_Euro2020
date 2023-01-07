@@ -1,6 +1,6 @@
 \documentclass[12pt, a4paper]{article}
 \usepackage[utf8]{inputenc}
-\usepackage[italian]{babel}
+\usepackage[english]{babel}
 \usepackage{float}
 \usepackage{newlfont}
 \usepackage{hyperref}
@@ -32,11 +32,9 @@ salient parts of the sections below.
 
 \section{Context}
 \label{context}
-Human interaction are very important in our society. In a lot of situations humans tend to group themselves in subset to operate in a more efficient way. Also in sports, humans organized themselves in teams to achive common goal and demostrate their skills and their ability to work in a group. In this case of interaction, the ways in which the members of the team interact with each other are more important, because the way people inside the team interact influence directly the results the team will obtain. In this study we will analyze the network structure of football teams and how it affects the performance of the team. In this work we focused on the last UEFA Euro 2020 tournament.
+Human interaction are very important in our society. In a lot of situations humans tend to group themselves in subset to operate in a more efficient way. Also in sports, humans organized themselves in teams to achieve common goals and demonstrate their skills and their ability to work in a group. In this case of interaction, the ways in which the members of the team interact with each other are more important, because the way people inside the team interact influence directly the results the team will obtain. In this study we will analyze the network structure of football teams and how it affects the performance of the team. We focused this work on the last UEFA Euro 2020 tournament, where UEFA members' senior men's national teams face each other determining the continental champion of Europe.
 \subsection{Previous Work}
-This work is heavely based on the work done by Thomas U. Grund in which he analyzed two seasons of the english Premier League. %TODO: add reference to the paper
-
-
+This work is heavily based on the work done by Thomas U. Grund \cite{GRUND} in which he analyzed two seasons of the English Premier League. He analyzed 1520 networks and tested two hypotheses we want to test in our work. 
 %%%%%%%%
 %The context includes: the general field (e.g., literature, history,
 %archaeology, tourism, biology, forensics, religious studies); the
@@ -46,7 +44,7 @@ This work is heavely based on the work done by Thomas U. Grund in which he analy
 
 \section{Problem and Motivation}
 \label{problem-and-motivation}
-In last year data science is a very growing field and this it's impacting a lot of different fields, sport included. In the football case, data are in most case an unknown technology and a lot of teams (even at highest level) don't use this type of knowledge to understand the performance of the team itself, but event of the opponents. Given that the way player interact each other can result in a better or worse performance of the team, it's important to understand how the network structure of the team can affect the performance of the team. 
+In last years data science is a very growing field and this it's impacting a lot of different fields, sport included. In the football case, data are in most case an unknown technology and a lot of teams (even at highest level) neither use this type of knowledge to understand the performance of the team itself nor the opponents. Given that the way players interact each other can result in a better or worse performance of the team, it's important to understand how the network structure of the team can affect the performance of the team. Our work aims to show how analyze the data in football can be a leading change for the sport itself and how important analyzing the network structure of a team from a quantitative and a qualitative point of view can be. Our main contribution will be the  to demonstrate that the hypothesis proposed and tested by Grund \cite{GRUND} are also valid for a different context. In fact, an international tournament is very different from a domestic league because in this type of tournament the level is higher and the every match can be decisive for the final result, so the importance of every single detail is higher. 
 
 %%%%%%%%%%%%%
 %What are the problems you want to address? Why are those problems
@@ -56,15 +54,15 @@ In last year data science is a very growing field and this it's impacting a lot 
 \section{Datasets}
 \label{datasets}
 The data have been provided by StatsBomb, one the biggest provider for football data. The dataset is composed by every single event during the match: every pass, every shoot, every press and so on. 
-The gathering process is based on a python library called StatsBombPy, which is a wrapper for the StatsBomb API. 
-StatsBomb's Data are not for free, except for some free data, Euro 2020 is one of them. From StatsBombPy you get data in form of Pandas Dataframe, which is a very useful tool for data analysis. We used python and Pandas (a python library) to manage data and then we gathered data and store Data for all matches in .csv o .xlsx format. All other manipulation on data have been done using python and metrics have been computed using NetworkX (a python library for network analysis). The data we gathered contains all the matches of the tournament, so we have data for 51 matches. In a football match there are two team facing, so we have a total of 102 networks. We computed metrics for each network and then we analyzed the results.
+The gathering process is based on a Python library called StatsBombPy, which is a wrapper for the StatsBomb API. 
+StatsBomb's Data are not for free, except for some free data, Euro 2020 is one of them. From StatsBombPy you get data in form of a Pandas Dataframe, which is a very useful tool for data analysis. We used Python and Pandas (a Python library) to manage data, then we gathered data and store data for all matches in .csv o .xlsx format. All other manipulation on data have been done using python and metrics have been computed using Python  NetworkX (a Python library for network analysis). The data we gathered contains all the matches of the tournament, so we have data for 51 matches. In a football match there are two team facing, so we have a total of 102 networks. We computed metrics for each network and then we analyzed the results.
 %%%%%%%%%%%%%
 %How did you gather the data? Did you digitise it? How? Is the material
 %publicly available? What tools did you use 1) to handle (store,
 %manipulate) the data and 2) to compute measures on the data?
 
 \section{Validity and Reliability }
-\label{validity-and-reliability-not-needed-for-the-project-proposal}
+\label{validity-and-reliability}
 TODO: add validity and reliability
 %%%%%%%%%%%%%%%%
 %How closely does the model of your dataset represent reality (validity)?
@@ -77,7 +75,7 @@ Out work is based on two fundamental hypothesis:
         \item Team performance is affected by interaction opportunities: increased interaction intensity leads to increased team performance.
         \item Increased centralization of interaction in teams leads to decreased team performance.
 \end{enumerate}
-So the first hypothesis is based on the idea that the more a team interacts with each other, the more the team will be able to perform better. The second hypothesis is based on the idea that the more a team is centralized on a single player, the less the team will be able to perform better, because if a team makes to much reliance on a single player, the team will be more vulnerable to the opponent. 
+So the first hypothesis is based on the idea that the more a team interacts with each other, the more the team will be able to perform better. The second hypothesis is based on the idea that the more a team is centralized on a single player, the less the team will be able to perform better, because if a team makes to much reliance on a single player (or few players), the team will be more vulnerable to the opponent. 
 \section{Measure}
 \label{measures}
 Based on the hypothesis we want to prove we focused on two metrics in particular:
@@ -209,7 +207,7 @@ The most evident example in which the difference between the average weighted ce
             \hline
             Spain &  Brozovic: $0.1745$ & Modric: $0.1236$ & $0.0909$ \\
             \hline
-            Total match &  Modric: $0.6145$ & Kovacic: $0.4960$ & $0.25$ \\
+            Total Sum &  Modric: $0.6145$ & Kovacic: $0.4960$ & $0.3636$ \\
             \hline
     \end{tabular}
     \caption{Croatia's node in-degree centrality}
@@ -217,28 +215,43 @@ The most evident example in which the difference between the average weighted ce
 
 
 
-We expect to find the same result for the Portugal, as Cristiano Ronaldo is the most important player in the team. This is not the case, as the average weighted centrality of Ronaldo is lower than the weighted centrality of the other players. This is due to the fact that Ronaldo as a striker is not involved in the build-up of the play. The top two players for node centrality have been Ruben Dias and Pepe, the two centre back. This is the case of the majority of the teams for example Spain, England, France, Sweden, Ukraine and so on. This is due to the style of play of these teams: to retain the ball it is very usual to have a lot of passages between defenders. \\
-An honour mention to the winner of the tournament: Italy. We did expect that Jorginho Frello would be the most important node in the Italian network, and dispite he is the most central node in just 2 matches on 7, he has the highest average weighted centrality, confirming our hypothesis. It is important to note that in the most matches the two most important nodes for Italy have always been Jorginho Frello or Marco Verratti, two midfielders. One important exceptions is the match against Spain (one of the most difficult match in the tournament for Italy) in wich the most important node has been Giorgio Chiellini, the centre back, for the same reason as Croatia-Spain. \\
-
-
-
-
-
+We expect to find the same result for the Portugal, as Cristiano Ronaldo is the most important player in the team. This is not the case, as the average weighted centrality of Ronaldo is lower than the weighted centrality of the other players. This is due to the fact that Ronaldo as a striker is not involved in the build-up of the play. The top two players for node centrality have been Ruben Dias and Pepe, the two centre back. This is the case of the majority of the teams for example Spain, England, France, Sweden, Ukraine and so on. This is due to two main factors: the evolution of the style of play of football teams which prefers to keep the ball possession so involve a lot the centre back in the build up and the fact that more and more team are no longer using a striker who act as a pivot and prefers a more mobile striker. \\
+An honour mention to the winner of the tournament: Italy. We did expect that Jorginho Frello would be the most important node in the Italian network, and dispite he is the most central node in just 2 matches on 7, he has the highest average centrality, confirming our hypothesis. It is important to note that in the most matches the two most important nodes for Italy have always been Jorginho Frello or Marco Verratti, two midfielders. One important exceptions is the match against Spain (one of the most difficult match in the tournament for Italy) in wich the most important node has been Giorgio Chiellini, the centre back, for the same reason as Croatia-Spain. \\
 
 %%%%%%%%%%%%%%%%%
 %What is the connection among the gathered data, the applied measures,
 %and the properties found?
 
-\subsection{Conclusion (not needed for the project proposal)}
-Qualitative analysis of the quantitative findings of the study.
+\subsection{Conclusion}
+\label{conclusion}
+During a football match, the players of a team are constantly in contact with each other. The main way in which the players interact with each other is through passes. These passes create a network, representing the way the players of a team interact and so, the way the team plays.\\
+In this study we analyzed 102 networks, from 24 different national teams in the Euro 2020 tournament. We have chosen Euro 2020 for three main reasons: the dataset was open, it is the last international tournament played and, being an international tournament whit knockout games, the level of players and intensity of the matches is higher.\\
+Using the network structure of a team we focused on two main aspects: the performance of a team and the style of play of a team, the first performed by a quantitative analysis of the network structure and the second by a qualitative analysis of the network structure.\\
+This study has shown that the network structure of a team can be a very useful tool to understand the performance of a team. We started with two hypotheses to test:
+\begin{itemize}
+        \item Increasing the intensity of a network increase the team performance.
+        \item Increasing the centralization of a network decrease the team performance. 
+\end{itemize}
+We have shown that both the hypotheses are true, but for the first hypothesis the results have a statistical significant, while for the second hypothesis have not.\\
+Another interesting perspective of this study is how the network structure of a team can be a useful tool to understand the style of play of a team. This can be used both for the team itself to understand how to improve the performance of the team and for the opponent team to understand how to counter the style of play of the opponent team. We showed that observing the structure of a network it is easily to recognize patterns of play, we showed the most evident one showing Spain's networks. After that we analyzed the in-degree centrality of nodes (players) in networks 
+to understand which player is the most important in the network. We showed that the most evident case is the Croatia's one in which Modric is the most important node in all matches, except one: the match again Spain in which Spain's midfielders obstruct Croatia blocking Modric. This is the most important example we found on how analyze a network can lead to new tactics that could be decisive in a tournament like this. \\
+In conclusion this study has shown how important analyze the structure of the network of a team could be important to modify the style of play of a team and to counter the style of play of the opponent team. We tried to show how much these type of analysis can be useful to maximize the results of a team in a world like football where the data analysis is still a growing field and a lot of teams do not apply this type of knowledge.\\
 
-\subsubsection{Critique (not needed for the project proposal)}
-\label{critique-not-needed-for-the-project-proposal}
+\subsubsection{Critique}
+\label{critique}
+In this study we would to repeat the results obtained by another study %%\cite{ref}
+to test if the two hypothesis are true in a different context like an international tournament. The main difference between a domestic league and an international tournament is the level of the players and the intensity of the matches. In a domestic league the level of the players is lower, and the matches are less intense because rarely (especially during the first month of the competition) a single match is decisive. This is confirmed by the fact that our data for network intensity are higher respect to the data of the other study. 
+We think that the main problem of out study is related to the limit quantity of the data. The Grund study has analyzed two seasons of a domestic league (38 matches for 20 teams) for a total of 1520 networks while the Euro 2020 is a summer tournament played in a period of time of 3/4 weeks. Moreover, being Euro 2020 a knockout tournament half of the teams are eliminated after just three games, and only two teams plays the full tournament (reaching the final) playing a total of 7 matches. This is the main reason why we have a limited quantity of data if we want to perform this type of analysis on an international tournament. \\
+The quantity of data we had can explain why we have not found a statistical significant result for the second hypothesis. We think that if we had more data we could have found a statistical significant result. \\ 
 
-Do you think your work solves the problem presented above? To which
-extent (completely, what parts)? Why? What could you have done
-differently to answer your research problems (e.g., gather data with
-additional information, build your model differently, apply alternative
-measures)?
+
+%Do you think your work solves the problem presented above? To which
+%extent (completely, what parts)? Why? What could you have done
+%differently to answer your research problems (e.g., gather data with
+%additional information, build your model differently, apply alternative
+%measures)?
+
+\bibliographystyle{plain}
+\bibliography{bibliography}
 
 \end{document}

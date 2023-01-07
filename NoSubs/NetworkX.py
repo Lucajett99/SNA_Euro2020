@@ -9,11 +9,11 @@ def mean(dict):
     for val in dict.values():
         sum += val
     mean =  sum / len(dict)
-    return str(mean)
+    return str(sum)
 
 
 total_centrality = {}
-squadName = "Croatia"
+squadName = "Italy"
 for file in os.listdir("./graphsNoSubs/"):
     if file.startswith(squadName):
         print(file)
