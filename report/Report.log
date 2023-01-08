@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.5)  6 JAN 2023 20:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.5)  8 JAN 2023 22:22
 entering extended mode
 **"c:/Users/dino9/Desktop/UNI/MAGISTRALE/SOCIAL NETWORK ANALYSIS/Progetto/SNA_Euro2020/report/Report.tex"
 (c:/Users/dino9/Desktop/UNI/MAGISTRALE/SOCIAL NETWORK ANALYSIS/Progetto/SNA_Euro2020/report/Report.tex
@@ -355,27 +355,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 161--162
 
  []
 
-<../NoSubs/imgWithoutSubs/Spain_Network_Spain_Sweden.png, id=113, 578.16pt x 289.08pt>
-File: ../NoSubs/imgWithoutSubs/Spain_Network_Spain_Sweden.png Graphic file (type png)
-<use ../NoSubs/imgWithoutSubs/Spain_Network_Spain_Sweden.png>
-Package pdftex.def Info: ../NoSubs/imgWithoutSubs/Spain_Network_Spain_Sweden.png  used on input line 170.
-(pdftex.def)             Requested size: 360.00137pt x 179.99966pt.
+<../NoSubs/ImagesToRedo/Spain_Network_Spain_Sweden.png, id=113, 311.9655pt x 225.84375pt>
+File: ../NoSubs/ImagesToRedo/Spain_Network_Spain_Sweden.png Graphic file (type png)
+<use ../NoSubs/ImagesToRedo/Spain_Network_Spain_Sweden.png>
+Package pdftex.def Info: ../NoSubs/ImagesToRedo/Spain_Network_Spain_Sweden.png  used on input line 170.
+(pdftex.def)             Requested size: 360.00137pt x 260.63838pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 166--173
 
  []
 
 [6]
-<../NoSubs/imgWithoutSubs/Spain_Network_Spain_Poland.png, id=121, 578.16pt x 289.08pt>
-File: ../NoSubs/imgWithoutSubs/Spain_Network_Spain_Poland.png Graphic file (type png)
-<use ../NoSubs/imgWithoutSubs/Spain_Network_Spain_Poland.png>
-Package pdftex.def Info: ../NoSubs/imgWithoutSubs/Spain_Network_Spain_Poland.png  used on input line 177.
-(pdftex.def)             Requested size: 179.99725pt x 89.99762pt.
-<../NoSubs/imgWithoutSubs/Spain_Network_Switzerland_Spain.png, id=122, 578.16pt x 289.08pt>
-File: ../NoSubs/imgWithoutSubs/Spain_Network_Switzerland_Spain.png Graphic file (type png)
-<use ../NoSubs/imgWithoutSubs/Spain_Network_Switzerland_Spain.png>
-Package pdftex.def Info: ../NoSubs/imgWithoutSubs/Spain_Network_Switzerland_Spain.png  used on input line 179.
-(pdftex.def)             Requested size: 179.99725pt x 89.99762pt.
+<../NoSubs/ImagesToRedo/Spain_Network_Spain_Poland.png, id=121, 312.56775pt x 211.38976pt>
+File: ../NoSubs/ImagesToRedo/Spain_Network_Spain_Poland.png Graphic file (type png)
+<use ../NoSubs/ImagesToRedo/Spain_Network_Spain_Poland.png>
+Package pdftex.def Info: ../NoSubs/ImagesToRedo/Spain_Network_Spain_Poland.png  used on input line 177.
+(pdftex.def)             Requested size: 179.99725pt x 121.73201pt.
+<../NoSubs/ImagesToRedo/Spain_Network_Switzerland_Spain.png, id=122, 310.761pt x 208.3785pt>
+File: ../NoSubs/ImagesToRedo/Spain_Network_Switzerland_Spain.png Graphic file (type png)
+<use ../NoSubs/ImagesToRedo/Spain_Network_Switzerland_Spain.png>
+Package pdftex.def Info: ../NoSubs/ImagesToRedo/Spain_Network_Switzerland_Spain.png  used on input line 179.
+(pdftex.def)             Requested size: 179.99725pt x 120.69743pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 174--181
 
@@ -386,40 +386,41 @@ Underfull \hbox (badness 10000) in paragraph at lines 183--184
 
  []
 
-<../NoSubs/imgWithoutSubs/Poland_Network_Spain_Poland.png, id=123, 578.16pt x 289.08pt>
-File: ../NoSubs/imgWithoutSubs/Poland_Network_Spain_Poland.png Graphic file (type png)
-<use ../NoSubs/imgWithoutSubs/Poland_Network_Spain_Poland.png>
-Package pdftex.def Info: ../NoSubs/imgWithoutSubs/Poland_Network_Spain_Poland.png  used on input line 188.
-(pdftex.def)             Requested size: 179.99725pt x 89.99762pt.
-<../NoSubs/imgWithoutSubs/Russia_Network_Russia_Denmark.png, id=124, 578.16pt x 289.08pt>
-File: ../NoSubs/imgWithoutSubs/Russia_Network_Russia_Denmark.png Graphic file (type png)
-<use ../NoSubs/imgWithoutSubs/Russia_Network_Russia_Denmark.png>
-Package pdftex.def Info: ../NoSubs/imgWithoutSubs/Russia_Network_Russia_Denmark.png  used on input line 190.
-(pdftex.def)             Requested size: 179.99725pt x 89.99762pt.
-[7 <../NoSubs/imgWithoutSubs/Spain_Network_Spain_Sweden.png> <../NoSubs/imgWithoutSubs/Spain_Network_Spain_Poland.png> <../NoSubs/imgWithoutSubs/Spain_Network_Switzerland_Spain.png>]
+[7 <../NoSubs/ImagesToRedo/Spain_Network_Spain_Sweden.png> <../NoSubs/ImagesToRedo/Spain_Network_Spain_Poland.png> <../NoSubs/ImagesToRedo/Spain_Network_Switzerland_Spain.png>]
+<../NoSubs/ImagesToRedo/Poland_Network_Spain_Poland.png, id=136, 309.5565pt x 219.82124pt>
+File: ../NoSubs/ImagesToRedo/Poland_Network_Spain_Poland.png Graphic file (type png)
+<use ../NoSubs/ImagesToRedo/Poland_Network_Spain_Poland.png>
+Package pdftex.def Info: ../NoSubs/ImagesToRedo/Poland_Network_Spain_Poland.png  used on input line 188.
+(pdftex.def)             Requested size: 179.99725pt x 127.82176pt.
+<../NoSubs/ImagesToRedo/Russia_Network_Russia_Denmark.png, id=137, 311.9655pt x 216.20775pt>
+File: ../NoSubs/ImagesToRedo/Russia_Network_Russia_Denmark.png Graphic file (type png)
+<use ../NoSubs/ImagesToRedo/Russia_Network_Russia_Denmark.png>
+Package pdftex.def Info: ../NoSubs/ImagesToRedo/Russia_Network_Russia_Denmark.png  used on input line 190.
+(pdftex.def)             Requested size: 179.99725pt x 124.75066pt.
+
 Underfull \hbox (badness 10000) in paragraph at lines 195--197
 
  []
 
-
+[8 <../NoSubs/ImagesToRedo/Poland_Network_Spain_Poland.png> <../NoSubs/ImagesToRedo/Russia_Network_Russia_Denmark.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 220--222
 
  []
 
-[8 <../NoSubs/imgWithoutSubs/Poland_Network_Spain_Poland.png> <../NoSubs/imgWithoutSubs/Russia_Network_Russia_Denmark.png>] [9] (Report.aux)
+[9] (Report.aux)
 Package rerunfilecheck Info: File `Report.out' has not changed.
 (rerunfilecheck)             Checksum: B9B83D5491371C822E5059C1C5BFE808;2926.
  ) 
 Here is how much of TeX's memory you used:
  10820 strings out of 478864
- 170752 string characters out of 2848661
- 499028 words of memory out of 3000000
+ 170690 string characters out of 2848661
+ 498028 words of memory out of 3000000
  28551 multiletter control sequences out of 15000+600000
  409918 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,11n,79p,1183b,401s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\dino9\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/dino9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/dino9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/dino9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/dino9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/dino9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/dino9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/dino9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/dino9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/dino9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/dino9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/dino9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Report.pdf (9 pages, 357365 bytes).
+Output written on Report.pdf (9 pages, 340464 bytes).
 PDF statistics:
  214 PDF objects out of 1000 (max. 8388607)
  41 named destinations out of 1000 (max. 500000)
