@@ -25,14 +25,12 @@
 \maketitle
 
 \section{Abstract}
-\label{abstract-not-needed-for-the-project-proposal}
-
-Brief summary of the whole study (around 60-120 words), summarising the
-salient parts of the sections below.
+\label{abstract}
+In this work we analyze the network structure of football teams and how it affects the performance of the team. We focused this work on the last UEFA Euro 2020 tournament. Analyzing the network created from the passes of the player we showed that increasing the intensity and decreasing the centralization of a network leads to better performance. We applied also a qualitative analysis which has the purpose to show how analyzing the network structure of a team could be useful for improving the team performance and to apply countermeasures to opponent's style of play.\\
 
 \section{Context}
 \label{context}
-Human interaction are very important in our society. In a lot of situations humans tend to group themselves in subset to operate in a more efficient way. Also in sports, humans organized themselves in teams to achieve common goals and demonstrate their skills and their ability to work in a group. In this case of interaction, the ways in which the members of the team interact with each other are more important, because the way people inside the team interact influence directly the results the team will obtain. In this study we will analyze the network structure of football teams and how it affects the performance of the team. We focused this work on the last UEFA Euro 2020 tournament, where UEFA members' senior men's national teams face each other determining the continental champion of Europe.
+Human interaction are very important in our society. In a lot of situations humans tend to group themselves in subsets to operate in a more efficient way. Also in sports, humans organized themselves in teams to achieve common goals and demonstrate their skills and their ability to work in a group. In this case of interaction, the ways in which the members of the team interact with each other are more important, because the way people inside the team interact influence directly the results the team will obtain. In this study we will analyze the network structure of football teams and how it affects the performance of the team. We focused this work on the last UEFA Euro 2020 tournament, where UEFA members' senior men's national teams face each other determining the continental champion of Europe.
 \subsection{Previous Work}
 This work is heavily based on the work done by Thomas U. Grund \cite{GRUND} in which he analyzed two seasons of the English Premier League. He analyzed 1520 networks and tested two hypotheses we want to test in our work. 
 %%%%%%%%
@@ -44,7 +42,7 @@ This work is heavily based on the work done by Thomas U. Grund \cite{GRUND} in w
 
 \section{Problem and Motivation}
 \label{problem-and-motivation}
-In last years data science is a very growing field and this it's impacting a lot of different fields, sport included. In the football case, data are in most case an unknown technology and a lot of teams (even at highest level) neither use this type of knowledge to understand the performance of the team itself nor the opponents. Given that the way players interact each other can result in a better or worse performance of the team, it's important to understand how the network structure of the team can affect the performance of the team. Our work aims to show how analyze the data in football can be a leading change for the sport itself and how important analyzing the network structure of a team from a quantitative and a qualitative point of view can be. Our main contribution will be the  to demonstrate that the hypothesis proposed and tested by Grund \cite{GRUND} are also valid for a different context. In fact, an international tournament is very different from a domestic league because in this type of tournament the level is higher and the every match can be decisive for the final result, so the importance of every single detail is higher. 
+In last years data science is a very growing field and this it's impacting a lot of different fields, sport included. In the football case, data are in most case an unknown technology and a lot of teams (even at highest level) neither use this type of knowledge to understand the performance of the team itself nor the opponents. Given that the way players interact each other can result in a better or worse performance of the team, it's important to understand how the network structure of the team can affect the performance of the team. Our work aims to show how analyze the data in football can be a leading change for the sport itself and how important analyzing the network structure of a team from a quantitative and a qualitative point of view can be. Our main contribution will be to demonstrate that the hypothesis proposed and tested by Grund \cite{GRUND} are also valid for a different context. In fact, an international tournament is very different from a domestic league because in this type of tournament the level is higher and the every match can be decisive for the final result, so the importance of every single detail is higher. 
 
 %%%%%%%%%%%%%
 %What are the problems you want to address? Why are those problems
@@ -55,7 +53,7 @@ In last years data science is a very growing field and this it's impacting a lot
 \label{datasets}
 The data have been provided by StatsBomb, one the biggest provider for football data. The dataset is composed by every single event during the match: every pass, every shoot, every press and so on. 
 The gathering process is based on a Python library called StatsBombPy, which is a wrapper for the StatsBomb API. 
-StatsBomb's Data are not for free, except for some free data, Euro 2020 is one of them. From StatsBombPy you get data in form of a Pandas Dataframe, which is a very useful tool for data analysis. We used Python and Pandas (a Python library) to manage data, then we gathered data and store data for all matches in .csv o .xlsx format. All other manipulation on data have been done using python and metrics have been computed using Python  NetworkX (a Python library for network analysis). The data we gathered contains all the matches of the tournament, so we have data for 51 matches. In a football match there are two team facing, so we have a total of 102 networks. We computed metrics for each network and then we analyzed the results.
+StatsBomb's Data are not for free, except for some free data: Euro 2020 is one of them. From StatsBombPy you get data in form of a Pandas Dataframe, which is a very useful tool for data analysis. We used Python and Pandas (a Python library) to manage data, then we gathered data and store data for all matches in .csv or .xlsx format. All other manipulation on data have been done using python and metrics have been computed using Python and  NetworkX (a Python library for network analysis). The data we gathered contains all the matches of the tournament, so we have data for 51 matches. In a football match there are two team facing, so we have a total of 102 networks. We computed metrics for each network and then we analyzed the results.
 %%%%%%%%%%%%%
 %How did you gather the data? Did you digitise it? How? Is the material
 %publicly available? What tools did you use 1) to handle (store,
@@ -63,14 +61,14 @@ StatsBomb's Data are not for free, except for some free data, Euro 2020 is one o
 
 \section{Validity and Reliability }
 \label{validity-and-reliability}
-TODO: add validity and reliability
+ 
 %%%%%%%%%%%%%%%%
-%How closely does the model of your dataset represent reality (validity)?
-%How consistent is the model you assembled (reliability)?
+% How closely does the model of your dataset represent reality (validity)?
+% How consistent is the model you assembled (reliability)?
 
 
 \section{Hypothesis}
-Out work is based on two fundamental hypothesis:
+Our work is based on two fundamental hypothesis:
 \begin{enumerate}
         \item Team performance is affected by interaction opportunities: increased interaction intensity leads to increased team performance.
         \item Increased centralization of interaction in teams leads to decreased team performance.
@@ -92,10 +90,10 @@ is traditionally calculated as the number of existing ties in a network divided 
         \item \textbf{In-strenght:} the number of passes received by the player $i$
          $$C_{IS}(i) = \sum^{N}_{j=1}w_{ji}$$
 \end{itemize}
-Where N is the number of nodes in the network, in our case is 11, because we consider only the starting XI of each team. We focused our attention on the starting XI instead of the best eight player for number of passes (as in Grund CITAAAAA) because we are analyzing a tournament. In a tournament in the final phase if two teams draw go to extra time so some player from the bench could impact the match in a more important way than others. To limit this problem we only focused on the starting XI. Another reason is that these tournament are very short (7 match at maximum) and the match are knockout game, so all the coach try to always play with the best players he has for that match. Another reason for which we focused only on the starting XI is that from 2020 the number of subs a coach can do is 5, while in the past it was 3 (that's because Grund used only the most eight players, because he ideally consider only the players who played the entire match). \\
+Where N is the number of nodes in the network, in our case is 11, because we consider only the starting XI of each team. We focused our attention on the starting XI instead of the best eight player for number of passes (as in Grund \cite{GRUND}) because we are analyzing a tournament. In a tournament in the final phase if two teams draw go to extra time so some player from the bench could impact the match in a more important way than others. To limit this problem we only focused on the starting XI. Another reason is that these tournament are very short (7 match at maximum for a team) and the matches are knockout game, so all the coach try to always play with the best players he has for that match. Another reason for which we focused only on the starting XI is that from 2020 (due to the pandemic) the number of subs a coach can do is 5, while in the past it was 3 (that's because Grund used only the most eight players, because he ideally consider only the players who played the entire match). \\
 So the network intensity for a team is defined as:
 $$I = \frac{1}{T}\sum^N_{i=1} \frac{ C_{OS}(i) +  C_{IS}(i)}{2}$$
-That is just the total number of passes made by a team in a match divided by the ball possession time in minutes. Given the data we had we can compute the effective ball possession time, so the sum of the time of possession of both team in a match does not sum up to 90 minutes, because in a match there are also the stoppages for injuries, substitutions, goals and so on. This can explain why the range of values the network intensity assumes in our case is slightly different from the one in Grund's paper.
+That is just the total number of passes made by a team in a match divided by the ball possession time in minutes. Given the data we had we can compute the effective ball possession time, so the sum of the time of possession of both team in a match does not sum up to 90 or 120 minutes, because in a match there are also the stoppages for injuries, substitutions, goals and so on. This can explain why the range of values the network intensity assumes in our case is slightly different from the one in Grund's paper.
 \\
 \subsection{Network Centralization}
 The network centralization is computed by computing two different metrics: the weighted centralization and the strenght centralization. \\
@@ -122,15 +120,15 @@ We start the result section presenting a table summarising the results of the me
         \centering
         \begin{tabular}{|c|c|c|c|c|c|}
                 \hline
-                & Mean & Std\_dev & Min & Max & Obs \\
+                & \textbf{Mean} & \textbf{Std\_dev} & \textbf{Min} & \textbf{Max} &   \textbf{Obs} \\
                 \hline
-                $I$  &  12.67415006 & 2.011584937 & 6.970118575 &16.65631825 &  102 \\
+                \textbf{$I$}  &  12.67415006 & 2.011584937 & 6.970118575 &16.65631825 &  102 \\
                 \hline
-                $C_w$  &  0.030206  &  0.011425 & 0.001864 & 0.065984 & 102 \\
+                \textbf{$C_w$}  &  0.030206  &  0.011425 & 0.001864 & 0.065984 & 102 \\
                 \hline
-                $C_I$ & 0.073909 & 0.022539 & 0.032302 & 0.134383 & 102 \\
+                \textbf{$C_I$} & 0.073909 & 0.022539 & 0.032302 & 0.134383 & 102 \\
                 \hline
-                $C_O$ & 0.077249 & 0.022527 & 0.032 & 0.137046 & 102 \\
+                \textbf{$C_O$} & 0.077249 & 0.022527 & 0.032 & 0.137046 & 102 \\
                 \hline
         \end{tabular}
         \caption{Statistical summary of the metrics}
@@ -140,13 +138,29 @@ Before applying the PCA we computed the Factor Analysis with two metrics: the Ka
 For the Kaiser-Meyer-Olkin measure we obtained a value of 0.57, which is an acceptable value, and for the Bartlett's test of sphericity we obtained a p-value $<$ 0.00, which is a very low value, so the test is significant.
 After that we applied the PCA and we obtained a single value for the centralization metrics as we keep the eigenvector with the highest eigenvalue, which is the main component of this dataset. \\
 To evaluate the performance of a team as it is very difficult to evaluate the defensive performance of a team, and as the passes is an offensive metric, we decided to use the goal scored as a metric to evaluate the performance of a team. \\
-So, our final dataset is composed by: team, match, network intensity, centralization (by PCA), goal scored. To test our hypothesis we trained a simple linear regression and we analyzed the coefficients of the regression and we noticed that the coefficient of the network intensity is positive and the coefficient of the centralization is negative. This means that there is a positive correlation between the network intensity and the goal scored and a negative correlation between the centralization and the goal scored. \\
+So, our final dataset is composed by: team, match, network intensity, centralization (by PCA), goal scored.
+To test our whole-network hypothesis we computed the Pearson's Correlation matrix on the dataset and we obtained the following results (we show only the results between intensity and Centralization whith goal scored):
+\begin{table}[H]
+        \centering
+        \begin{tabular}{|c|c|c|}
+                \hline
+                & \textbf{Goal Scored}  \\
+                \hline
+                $Intensity$  &  $0.157593$  \\
+                \hline
+                $Centralization$  &  $-0.001456$ \\
+                \hline
+        \end{tabular}
+        \caption{Correlation between the metrics and the goal scored}
+    \end{table}
+
+To test our hypothesis we trained a simple linear regression and we analyzed the coefficients of the regression and we noticed that the coefficient of the network intensity is positive and the coefficient of the centralization is negative. This means that there is a positive correlation between the network intensity and the goal scored and a negative correlation between the centralization and the goal scored. \\
 
 \begin{table}[H]
     \centering
     \begin{tabular}{|c|c|c|}
             \hline
-            & Coefficient & p-value \\
+            & \textbf{Coefficient} & \textbf{p-value} \\
             \hline
             $Intensity$  &  $0.10951$ & $0.00042991182$  \\
             \hline
@@ -178,7 +192,7 @@ As you can easily see this network is perfectly symmetric and this can make us r
         \label{fig: spain_pattern}%
 \end{figure}
 
-Other interesting example are the networks of Russia against Denmark and Poland against Spain. In these two matches the strongest tie between two players is a pass from the goalkeeper to the centre forward. This is due to the difference of quality between the two teams and the high pressing the two opponent team made during these matches, so the only playing possibility for Poland and Russia were to pass the ball to the goalkeeper and he had the only choice to make a long pass toward the striker. \\
+Other interesting example are the networks of Russia against Denmark and Poland against Spain. In these two matches the strongest tie between two players is a pass from the goalkeeper to the centre forward. This is due to the difference of quality between the two teams and the high pressing the two opponent team made during these matches, so the only playing possibility for Poland and Russia were to pass the ball back to the goalkeeper and he had the only choice to make a long pass toward the striker. \\
 
 
 \begin{figure}[H]
@@ -197,17 +211,17 @@ The most evident example in which the difference between the average weighted ce
     \centering
     \begin{tabular}{|c|c|c|c|}
             \hline
-           Opponent & Highest centrality & Second highest centrality & Mean \\
+            \textbf{Opponent} &  \textbf{Highest centrality} &  \textbf{Second highest centrality} &  \textbf{Mean} \\
             \hline
-            Czech Republic &  Modric: $0.1645$ & Lovren: $0.1348$ & $0.0909$ \\
+            \textbf{Czech Republic} &  Modric: $0.1645$ & Lovren: $0.1348$ & $0.0909$ \\
             \hline
-            Scotland &  Modric: $0.1621$ & Brozovic: $0.1439$ & $0.0909$ \\
+            \textbf{ Scotland} &  Modric: $0.1621$ & Brozovic: $0.1439$ & $0.0909$ \\
             \hline
-            England &  Modric: $0.1643$ & Kovacic: $0.1388$ & $0.0909$ \\
+            \textbf{England} &  Modric: $0.1643$ & Kovacic: $0.1388$ & $0.0909$ \\
             \hline
-            Spain &  Brozovic: $0.1745$ & Modric: $0.1236$ & $0.0909$ \\
+            \textbf{Spain} &  Brozovic: $0.1745$ & Modric: $0.1236$ & $0.0909$ \\
             \hline
-            Total Sum &  Modric: $0.6145$ & Kovacic: $0.4960$ & $0.3636$ \\
+            \textbf{Total Sum} &  Modric: $0.6145$ & Kovacic: $0.4960$ & $0.3636$ \\
             \hline
     \end{tabular}
     \caption{Croatia's node in-degree centrality}
@@ -232,16 +246,15 @@ This study has shown that the network structure of a team can be a very useful t
         \item Increasing the intensity of a network increase the team performance.
         \item Increasing the centralization of a network decrease the team performance. 
 \end{itemize}
-We have shown that both the hypotheses are true, but for the first hypothesis the results have a statistical significant, while for the second hypothesis have not.\\
-Another interesting perspective of this study is how the network structure of a team can be a useful tool to understand the style of play of a team. This can be used both for the team itself to understand how to improve the performance of the team and for the opponent team to understand how to counter the style of play of the opponent team. We showed that observing the structure of a network it is easily to recognize patterns of play, we showed the most evident one showing Spain's networks. After that we analyzed the in-degree centrality of nodes (players) in networks 
+We have shown that both the hypotheses are true, but for the first hypothesis the results are statistically significant, while for the second hypothesis are not.\\
+Another interesting perspective of this study is how the network structure of a team can be a useful tool to understand the style of play of a team. We showed that observing the structure of a network it is easily to recognize patterns of play, we showed the most evident one showing Spain's networks. After that we analyzed the in-degree centrality of nodes (players) in networks 
 to understand which player is the most important in the network. We showed that the most evident case is the Croatia's one in which Modric is the most important node in all matches, except one: the match again Spain in which Spain's midfielders obstruct Croatia blocking Modric. This is the most important example we found on how analyze a network can lead to new tactics that could be decisive in a tournament like this. \\
 In conclusion this study has shown how important analyze the structure of the network of a team could be important to modify the style of play of a team and to counter the style of play of the opponent team. We tried to show how much these type of analysis can be useful to maximize the results of a team in a world like football where the data analysis is still a growing field and a lot of teams do not apply this type of knowledge.\\
 
 \subsubsection{Critique}
 \label{critique}
-In this study we would to repeat the results obtained by another study %%\cite{ref}
-to test if the two hypothesis are true in a different context like an international tournament. The main difference between a domestic league and an international tournament is the level of the players and the intensity of the matches. In a domestic league the level of the players is lower, and the matches are less intense because rarely (especially during the first month of the competition) a single match is decisive. This is confirmed by the fact that our data for network intensity are higher respect to the data of the other study. 
-We think that the main problem of out study is related to the limit quantity of the data. The Grund study has analyzed two seasons of a domestic league (38 matches for 20 teams) for a total of 1520 networks while the Euro 2020 is a summer tournament played in a period of time of 3/4 weeks. Moreover, being Euro 2020 a knockout tournament half of the teams are eliminated after just three games, and only two teams plays the full tournament (reaching the final) playing a total of 7 matches. This is the main reason why we have a limited quantity of data if we want to perform this type of analysis on an international tournament. \\
+In this study we would to repeat the results obtained by another study \cite{GRUND} to test if the two hypothesis are true in a different context like an international tournament. The main difference between a domestic league and an international tournament is the level of the players and the intensity of the matches. In a domestic league the level of the players is lower, and the matches are less intense because rarely (especially during the first month of the competition) a single match is decisive. This is confirmed by the fact that our data for network intensity are higher respect to the data of the other study. 
+We think that the main problem of our study is related to the limited quantity of data. The Grund study has analyzed two seasons of a domestic league (38 matches for 20 teams) for a total of 1520 networks while the Euro 2020 is a summer tournament played in a period of time of 3/4 weeks. Moreover, being Euro 2020 a knockout tournament half of the teams are eliminated after just three games, and only two teams plays the full tournament (reaching the final) playing a total of 7 matches. This is the main reason why we have a limited quantity of data if we want to perform this type of analysis on an international tournament. \\
 The quantity of data we had can explain why we have not found a statistical significant result for the second hypothesis. We think that if we had more data we could have found a statistical significant result. \\ 
 
 
@@ -253,5 +266,5 @@ The quantity of data we had can explain why we have not found a statistical sign
 
 \bibliographystyle{plain}
 \bibliography{bibliography}
-
+\nocite{*}
 \end{document}
