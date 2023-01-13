@@ -114,10 +114,10 @@ def main():
     # Get Matches from Euro2020
     if not os.path.exists('./imgWithoutSubs'):
             os.mkdir('./imgWithoutSubs')
-    df = sb.matches(competition_id=55, season_id=43)
+    #df = sb.matches(competition_id=55, season_id=43)
     #for  index, row in df.iterrows():
-    home_team ="Russia" #row["home_team"]  
-    away_team = "Denmark" #row["away_team"]
+    home_team ="Italy" #row["home_team"]  
+    away_team = "Switzerland" #row["away_team"]
     match_events = loadDataset(f"./matchesNoSubs/{home_team}_{away_team}_events.xlsx")
     homeTeamName, awayTeamName = get_teams_name(match_events)
     print(home_team + "\t" + away_team)
@@ -125,6 +125,7 @@ def main():
     homeLineupDF = pd.read_json(homeLineup, lines=True)
     pass_betweenHome, avg_locHome, df_avg_locHome = createDicts(match_events, homeTeamName, homeLineupDF)
     plotPassingNetwork(pass_betweenHome, avg_locHome, home_team, away_team, "home")
+    print("in")
     awayLineup = getLineups(match_events, "away")
     awayLineupDF = pd.read_json(awayLineup, lines=True)
     pass_betweenAway, avg_locAway, df_avg_locAway = createDicts(match_events, awayTeamName, awayLineupDF)
