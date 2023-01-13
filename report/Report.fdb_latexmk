@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex Report"] 1673548883 "Report.aux" "Report.bbl" "Report" 1673548892
+["bibtex Report"] 1673609348 "Report.aux" "Report.bbl" "Report" 1673611318
   "C:/Users/tomas/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "Report.aux" 1673548888 5786 7b22ece5138aeb6bf2267744ce25ac13 "pdflatex"
+  "Report.aux" 1673611317 5825 f3c0548e753e1e6dd3d194b2f20ab216 "pdflatex"
   "bibliography.bib" 1673282891 1214 cc242d8c6ba88f3cce22c4117b73ab9c ""
   (generated)
-  "Report.bbl"
   "Report.blg"
-["pdflatex"] 1673548883 "c:/Users/tomas/Desktop/SNA_Euro2020/report/Report.tex" "Report.pdf" "Report" 1673548892
+  "Report.bbl"
+["pdflatex"] 1673611315 "c:/Users/tomas/Desktop/SNA_Euro2020/report/Report.tex" "Report.pdf" "Report" 1673611318
   "../NoSubs/ImagesToRedo/Poland_Network_Spain_Poland.png" 1673273474 32258 aaac84caf3feb02f42a60f74c26d9340 ""
   "../NoSubs/ImagesToRedo/Russia_Network_Russia_Denmark.png" 1673273474 31962 d39805a067c86911783919c3aebf1d71 ""
   "../NoSubs/ImagesToRedo/Spain_Network_Spain_Poland.png" 1673273474 45840 3daa7498e370a8e4d6a8aa7e29093673 ""
@@ -102,13 +102,13 @@
   "C:/Users/tomas/AppData/Local/Programs/MiKTeX/tex/latex/subfig/subfig.sty" 1121277410 22049 9ef165ca6df8815c92e693146a376c92 ""
   "C:/Users/tomas/AppData/Local/Programs/MiKTeX/tex/latex/subfiles/subfiles.sty" 1606222980 5262 70ab9987ec94ed2beeb5c2d951d465f6 ""
   "C:/Users/tomas/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "Report.aux" 1673548888 5786 7b22ece5138aeb6bf2267744ce25ac13 "pdflatex"
-  "Report.bbl" 1673548883 329 0f096d430b13dbd8eaaa2f34e0cec40f "bibtex Report"
-  "Report.out" 1673548888 2608 71961d5298e5d7984025ab4e0171dd7a "pdflatex"
-  "Report.tex" 1673548876 29702 0cda79e459aa082d68277a0c5cd683ab ""
-  "c:/Users/tomas/Desktop/SNA_Euro2020/report/Report.tex" 1673548876 29702 0cda79e459aa082d68277a0c5cd683ab ""
+  "Report.aux" 1673611317 5825 f3c0548e753e1e6dd3d194b2f20ab216 "pdflatex"
+  "Report.bbl" 1673609349 329 0f096d430b13dbd8eaaa2f34e0cec40f "bibtex Report"
+  "Report.out" 1673611317 2608 71961d5298e5d7984025ab4e0171dd7a "pdflatex"
+  "Report.tex" 1673611313 30783 2d52a5d2c4194ac6ad8ad9c47d325fb3 ""
+  "c:/Users/tomas/Desktop/SNA_Euro2020/report/Report.tex" 1673611313 30783 2d52a5d2c4194ac6ad8ad9c47d325fb3 ""
   (generated)
   "Report.out"
-  "Report.pdf"
   "Report.aux"
   "Report.log"
+  "Report.pdf"
